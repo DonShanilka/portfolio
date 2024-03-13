@@ -5,8 +5,13 @@ body {
  box-sizing: border-box;
 }
 
+.list {
+ list-style: none;
+ display: flex;
+}
+
 .navbar {
  color: white;
- display: flex;
+ display: inline-block;
  text-decoration: none;
 }
