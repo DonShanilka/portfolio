@@ -78,13 +78,45 @@ nav a:nth-child(6):hover~span {
 
 /* Hompage Body Section */
 
-.name {
+.name1 {
  font-family: "Libre Bodoni", serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
 
   color: white;
-  font-size: 80px;
+  font-size: 70px;
+  letter-spacing: 6px;
+
+  position: relative;
+  top: 150px;
+  left: 180px;
+
+
 }
 
+.name2 {
+ font-family: "Libre Bodoni", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+  color: white;
+  font-size: 70px;
+  letter-spacing: 6px;
+
+  position: relative;
+  top: 130px;
+  left: 300px;
+}
+
+.homepage-rect {
+ width: 5.6cm;
+ height: 9cm;
+ background-color: rgba(255, 255, 255, 0.199);
+  
+
+ position: absolute;
+ top: 200px;
+ left: 1000px;
+}
