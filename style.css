@@ -46,7 +46,7 @@ nav {
  width: 30px;
  height: 100%;
  background: linear-gradient(45deg, #5c5c5c, #77777783);
- transition: .4;
+ transition: 1ms;
 }
 
 nav a:nth-child(1):hover~span {
@@ -54,7 +54,7 @@ nav a:nth-child(1):hover~span {
 }
 
 nav a:nth-child(2):hover~span {
- left: 365px;
+ left: 362px;
 }
 
 
