@@ -75,7 +75,16 @@ nav a:nth-child(6):hover~span {
  left: 1062px;
 }
 
+
+/* Hompage Body Section */
+
 .name {
- font-family: Li;
+ font-family: "Libre Bodoni", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+  color: white;
+  font-size: 80px;
 }
 
