@@ -12,7 +12,7 @@
 
 body {
  justify-content: center;
- background-color: rgb(26, 26, 26);
+ background-color: #111111;
  padding: 0;
  margin: 0;
  box-sizing: border-box;
@@ -22,9 +22,9 @@ nav {
  display: flex;
  justify-content: center;
  align-items: center;
- position: relative;
- width: 1347px;
- height: 50px;
+ position: absolute;
+ width: 100%;
+ height: 7%;
  background-color: #202020;
 }
 
@@ -33,10 +33,10 @@ nav {
  text-decoration: none;
  position: relative;
  display: inline-block;
- padding: 0 60px;
+ padding: 0 3%;
  font-family: "Audiowide", sans-serif;
  font-style: normal;
- font-weight: 300;
+ font-weight: 5%;
  font-size: smaller;
  z-index: 1;
 }
@@ -44,7 +44,7 @@ nav {
 .span {
  position: absolute;
  top: 0;
- left: 197px;
+ left: 22%;
  width: 30px;
  height: 100%;
  background: linear-gradient(45deg, #5c5c5c, #77777783);
@@ -52,7 +52,7 @@ nav {
 }
 
 nav a:nth-child(1):hover~span {
- left: 197px;
+ left: 22%;
 }
 
 nav a:nth-child(2):hover~span {
@@ -111,12 +111,19 @@ nav a:nth-child(6):hover~span {
 }
 
 .homepage-rect {
- width: 5.6cm;
- height: 9cm;
- background-color: rgba(255, 255, 255, 0.199);
+ width: 6.4cm;
+ height: 10.6cm;
+ background-color: #515151;
   
-
  position: absolute;
  top: 200px;
  left: 1000px;
 }
+
+.homepage-img {
+ position: absolute;
+ top: 180px;
+ left: 980px;
+ z-index: 1;
+}
+
