@@ -29,7 +29,7 @@ nav {
 }
 
 .navbar {
- color: rgb(255, 255, 255);
+ color: rgb(0, 0, 0);
  text-decoration: none;
  position: relative;
  display: inline-block;
@@ -47,7 +47,7 @@ nav {
  left: 22%;
  width: 2%;
  height: 100%;
- background: linear-gradient(45deg, #5c5c5c, #77777783);
+ background: linear-gradient(45deg, #0077ff, #000c7483);
  transition: .5s;
 }
 
@@ -111,12 +111,12 @@ nav a:nth-child(6):hover~span {
   font-style: normal;
 
   color: rgb(0, 1, 87);
-  font-size: 70px;
-  letter-spacing: 6px;
+  font-size: 500%;
+  letter-spacing: 3%;
 
-  position: relative;
-  top: 130px;
-  left: 300px;
+  position: absolute;
+  top: 10%;
+  left: 30%;
 }
 
 .homepage-rect {
@@ -137,8 +137,8 @@ nav a:nth-child(6):hover~span {
 }
 
 .fsd {
-  color: #b1b1b1;
+  color: #7a7a7a;
   font-size: 120%;
-  letter-spacing: 2%;
+  letter-spacing: 5%;
 }
 
