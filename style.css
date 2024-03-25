@@ -195,4 +195,5 @@ nav a:nth-child(6):hover~span {
   font-style: normal;
 
   writing-mode: vertical-lr;
+  background-attachment: fixed;
 }
