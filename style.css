@@ -12,7 +12,7 @@
 
 body {
  justify-content: center;
- background-color: #111111;
+ background-color: #ffffff;
  padding: 0;
  margin: 0;
  box-sizing: border-box;
@@ -25,7 +25,7 @@ nav {
  position: absolute;
  width: 100%;
  height: 7%;
- background-color: #202020;
+ background-color: #ffffff;
 }
 
 .navbar {
@@ -53,6 +53,7 @@ nav {
 
 nav a:nth-child(1):hover~span {
  left: 22%;
+ position: absolute;
 }
 
 nav a:nth-child(2):hover~span {
@@ -60,11 +61,11 @@ nav a:nth-child(2):hover~span {
 }
 
 nav a:nth-child(3):hover~span {
- left: 536px;
+ left: 41.5%;
 }
 
 nav a:nth-child(4):hover~span {
- left: 722px;
+ left: 51.5%;
 }
 
 nav a:nth-child(5):hover~span {
@@ -78,17 +79,25 @@ nav a:nth-child(6):hover~span {
 
 /* Hompage Body Section */
 
+.homeBody {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  background-color: rgb(255, 255, 255);
+}
+
 .name1 {
- font-family: "Libre Bodoni", serif;
+  font-family: "Libre Bodoni", serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
 
-  color: white;
-  font-size: 70px;
-  letter-spacing: 6px;
+  position: absolute;
+  color: rgb(0, 1, 87);
+  font-size: 500%;
 
-  position: relative;
+  letter-spacing: 3%;
   top: 150px;
   left: 180px;
 
@@ -101,7 +110,7 @@ nav a:nth-child(6):hover~span {
   font-weight: weight;
   font-style: normal;
 
-  color: white;
+  color: rgb(0, 1, 87);
   font-size: 70px;
   letter-spacing: 6px;
 
@@ -125,5 +134,11 @@ nav a:nth-child(6):hover~span {
  top: 180px;
  left: 980px;
  z-index: 1;
+}
+
+.fsd {
+  color: #b1b1b1;
+  font-size: 120%;
+  letter-spacing: 2%;
 }
 
