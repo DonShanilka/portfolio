@@ -287,7 +287,7 @@ nav a:nth-child(6):hover~span {
 .about-section {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 150%;
   background-color: #000000;
 
   top: 100%;
@@ -295,7 +295,7 @@ nav a:nth-child(6):hover~span {
 }
 
 .about {
-  color: #ffffff33;
+  color: #ffffff21;
   font-family: "Limelight", sans-serif;
   font-weight: 100;
   font-style: normal;
@@ -314,11 +314,27 @@ nav a:nth-child(6):hover~span {
   font-size: 250%;
 
   position: absolute;
-  left: 35%;
-  letter-spacing: 4vw;
+  left: 34%;
+  letter-spacing: 3vw;
 
   position: absolute;
-  top: 4.5%;  
+  top: 3.7%;  
+}
+
+.about-header {
+  color: #e2e2e2;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 150%;
+
+  position: absolute;
+  left: 34%;
+  letter-spacing: 1vw;
+
+  position: absolute;
+  top: 20%;
 }
 
 
