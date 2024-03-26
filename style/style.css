@@ -295,10 +295,30 @@ nav a:nth-child(6):hover~span {
 }
 
 .about {
+  color: #ffffff33;
+  font-family: "Limelight", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 600%;
+
+  position: absolute;
+  left: 40%;
+  letter-spacing: 1vw;
+}
+
+.about-me {
   color: #ffffff;
   font-family: "Limelight", sans-serif;
-  font-weight: 600;
+  font-weight: 50;
   font-style: normal;
-  font-size: xx-large;
-  
+  font-size: 250%;
+
+  position: absolute;
+  left: 35%;
+  letter-spacing: 4vw;
+
+  position: absolute;
+  top: 4.5%;  
 }
+
+
