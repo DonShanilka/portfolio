@@ -20,6 +20,8 @@ body {
  padding: 0;
  margin: 0;
  box-sizing: border-box;
+
+ height: 300vh;
 }
 
 nav {
@@ -169,7 +171,7 @@ nav a:nth-child(6):hover~span {
 }
 
 .download-cv {
-  position: absolute;
+  position: fixed;
   top: 70%;
   left: 15.5%;
 
@@ -273,4 +275,11 @@ nav a:nth-child(6):hover~span {
 .download-cv:active {
   background: var(--color);
   color: #fff;
+}
+
+
+/* About */
+
+.about {
+  color: #ffffff;
 }
