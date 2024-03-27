@@ -330,7 +330,7 @@ nav a:nth-child(6):hover~span {
   position: absolute;
   width: 100%;
   height: 150%;
-  background-color: #000000;
+  background-color: #ffffff;
 
   top: 100%;
   z-index: 1;
@@ -349,7 +349,7 @@ nav a:nth-child(6):hover~span {
 }
 
 .about-me {
-  color: #e2e2e2;
+  color: #000000;
   font-family: "Limelight", sans-serif;
   font-weight: 50;
   font-style: normal;
@@ -364,7 +364,7 @@ nav a:nth-child(6):hover~span {
 }
 
 .about-header {
-  color: #e2e2e2;
+  color: #000000;
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: bold;
@@ -380,7 +380,7 @@ nav a:nth-child(6):hover~span {
 }
 
 .about-p {
-  color: #ffffff79;
+  color: #000000;
   position: absolute;
   left: 34%;
   top: 28%;
