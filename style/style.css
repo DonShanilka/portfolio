@@ -406,4 +406,41 @@ nav a:nth-child(6):hover~span {
   top: 45%;
 }
 
+.name {
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 80%;
 
+  left: 34%;
+  position: absolute;
+  top: 47%;
+}
+
+.about-bDay {
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 100%;
+
+  left: 34%;
+  position: absolute;
+  top: 52%;
+}
+
+.bday {
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 80%;
+
+  left: 34%;
+  position: absolute;
+  top: 54%;
+}
