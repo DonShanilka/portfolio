@@ -337,9 +337,9 @@ nav a:nth-child(6):hover~span {
 }
 
 .about {
-  color: #ffffff21;
+  color: #d8d8d8;
   font-family: "Limelight", sans-serif;
-  font-weight: 100;
+  font-weight: lighter;
   font-style: normal;
   font-size: 600%;
 
@@ -369,7 +369,7 @@ nav a:nth-child(6):hover~span {
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
-  font-size: 150%;
+  font-size: 200%;
 
   position: absolute;
   left: 34%;
@@ -393,6 +393,17 @@ nav a:nth-child(6):hover~span {
   
 }
 
+.about-name {
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 100%;
 
+  left: 34%;
+  position: absolute;
+  top: 45%;
+}
 
 
