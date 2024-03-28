@@ -155,5 +155,44 @@
 
  left: 43%;
  position: absolute;
- top: 59%;
+ top: 66%;
+}
+
+.uni-name {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: normal;
+ font-style: normal;
+ font-size: 80%;
+
+ left: 43%;
+ position: absolute;
+ top: 68%;
+}
+
+.about-hoby {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+
+ left: 43%;
+ position: absolute;
+ top: 73%;
+}
+
+.hobby {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: normal;
+ font-style: normal;
+ font-size: 80%;
+
+ left: 43%;
+ position: absolute;
+ top: 75%;
 }
