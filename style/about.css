@@ -118,3 +118,42 @@
  position: absolute;
  top: 54%;
 }
+
+.about-education {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+
+ left: 43%;
+ position: absolute;
+ top: 59%;
+}
+
+.degree {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: normal;
+ font-style: normal;
+ font-size: 80%;
+
+ left: 43%;
+ position: absolute;
+ top: 61%;
+}
+
+.about-University {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+
+ left: 43%;
+ position: absolute;
+ top: 59%;
+}
