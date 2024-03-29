@@ -201,21 +201,24 @@
  position: absolute;
  left: 23%;
  top: 28%;
- border: 5px solid black;
+ border: 5px solid rgb(255, 255, 255);
 }
 
 .about-image-02 {
- border: 5px solid black;
+ border: 5px solid rgb(255, 255, 255);
 }
 
 .about-image-03 {
- border: 5px solid black;
+ border: 5px solid rgb(255, 255, 255);
 }
 
 .about-image-04 {
- border: 5px solid black;
+ position: absolute;
+ left: 16%;
+ top: 38%;
+ border: 5px solid rgb(255, 255, 255);
 }
 
 .about-image-05 {
- border: 5px solid black;
+ border: 5px solid rgb(255, 255, 255);
 }
