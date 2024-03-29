@@ -197,3 +197,25 @@
  top: 75%;
 }
 
+.about-image-01 {
+ position: absolute;
+ left: 23%;
+ top: 28%;
+ border: 5px solid black;
+}
+
+.about-image-02 {
+ border: 5px solid black;
+}
+
+.about-image-03 {
+ border: 5px solid black;
+}
+
+.about-image-04 {
+ border: 5px solid black;
+}
+
+.about-image-05 {
+ border: 5px solid black;
+}
