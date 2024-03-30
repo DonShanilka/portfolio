@@ -206,15 +206,15 @@
 
 .about-image-02 {
  position: absolute;
- left: 13%;
+ left: 11%;
  top: 21%;
  border: 5px solid rgb(255, 255, 255);
 }
 
 .about-image-03 {
  position: absolute;
- left: 25%;
- top: 46%;
+ left: 20.7%;
+ top: 40%;
  border: 5px solid rgb(255, 255, 255);
  z-index: 1;
 }
@@ -228,7 +228,7 @@
 
 .about-image-05 {
  position: absolute;
- left: 13%;
- top: 49.5%;
+ left: 20.7%;
+ top: 29.5%;
  border: 5px solid rgb(255, 255, 255);
 }
