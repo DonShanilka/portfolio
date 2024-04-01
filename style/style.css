@@ -326,8 +326,18 @@ nav a:nth-child(6):hover~span {
 
 /* All Device */
 
-@media all {
-  nav {
+@media (max-width: 425px) {
+  body {
+    justify-content: center;
+    background-color: #ffffff;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+    height: 300vh;
+   }
+   
+   nav {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -401,7 +411,7 @@ nav a:nth-child(6):hover~span {
      font-family: "Limelight", sans-serif;
      font-weight: lighter;
      font-style: normal;
-     font-size: 150%;
+     font-size: 75%;
    
      position: absolute;
      color: rgb(163, 163, 163);
@@ -431,7 +441,7 @@ nav a:nth-child(6):hover~span {
      font-family: "Limelight", sans-serif;
      font-weight: normal;
      font-style: normal;
-     font-size: 400%;
+     font-size: 200%;
    
      position: absolute;
      color: rgb(0, 0, 0);
@@ -447,7 +457,7 @@ nav a:nth-child(6):hover~span {
      font-family: "Limelight", sans-serif;
      font-weight: normal;
      font-style: normal;
-     font-size: 600%;
+     font-size: 300%;
    
      color: rgb(0, 0, 0);
      letter-spacing: 3%;
@@ -580,7 +590,7 @@ nav a:nth-child(6):hover~span {
      font-size: 500%;
      
      position: absolute;
-     top: 12%;
+     top: 10%;
      left: 52%;
    
      writing-mode: vertical-lr;
@@ -623,5 +633,4 @@ nav a:nth-child(6):hover~span {
      background: var(--color);
      color: #ffffff;
    }
-   
 }
