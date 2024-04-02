@@ -42,7 +42,7 @@ nav {
  text-decoration: none;
  position: relative;
  display: inline-block;
- padding: 0 4.6%;
+ padding: 0 5.5%;
  font-family: "Audiowide", sans-serif;
  font-style: normal;
  font-weight: bolder;
@@ -69,6 +69,25 @@ nav {
   transform: scaleX(1);
   transform-origin: left;
 
+}
+
+.slide-bar {
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  width: 250px;
+  z-index: 999;
+  background-color: rgb(255, 255, 255);
+  box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.slide {
+  column-gap: 3vh;
 }
 
 /* Hompage Body Section */
@@ -257,7 +276,7 @@ nav {
 }
 
 .developer {
-  color: #c0c0c02d;
+  color: #c0c0c073;
   font-family: "Monoton", sans-serif;
   font-weight: 590;
   font-style: normal;
@@ -265,10 +284,10 @@ nav {
   
   position: absolute;
   top: 10%;
-  left: 52%;
+  left: 53%;
 
   writing-mode: vertical-lr;
-  /* letter-spacing: 3vh; */
+  letter-spacing: 1vh;
   transform: rotate(180deg);
 }
 
@@ -341,7 +360,7 @@ nav {
     z-index: 999;
     background-color: white;
     box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
@@ -349,6 +368,24 @@ nav {
   
   .slide {
     column-gap: 3vh;
+  }
+
+  .developer {
+    color: #c0c0c073;
+  font-family: "Monoton", sans-serif;
+  font-weight: 590;
+  font-style: normal;
+  font-size: 500%;
+  
+  position: absolute;
+  top: 10%;
+  left: 53%;
+
+  writing-mode: vertical-lr;
+  letter-spacing: 1vh;
+  transform: rotate(180deg);
+
+  display: none;
   }
 
 }  
