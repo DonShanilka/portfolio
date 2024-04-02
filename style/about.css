@@ -321,8 +321,8 @@
        .about-p {
         color: #000000;
         position: absolute;
-        left: 43%;
-        top: 25%;
+        left: 47%;
+        top: 30%;
        
         font-family: "Lexend Giga", sans-serif;
         font-optical-sizing: auto;
@@ -467,6 +467,9 @@
         left: 18%;
         top: 30%;
         border: 5px solid rgb(255, 255, 255);
+
+        width: 6%;
+        height: 22%;
        }
        
        .about-image-02 {
