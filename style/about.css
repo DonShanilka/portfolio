@@ -468,8 +468,8 @@
         top: 30%;
         border: 5px solid rgb(255, 255, 255);
 
-        width: 6%;
-        height: 22%;
+        width: 10%;
+        height: 10%;
        }
        
        .about-image-02 {
@@ -477,6 +477,9 @@
         left: 14%;
         top: 21%;
         border: 5px solid rgb(255, 255, 255);
+
+        width: 10%;
+        height: 15%;
        }
        
        .about-image-03 {
