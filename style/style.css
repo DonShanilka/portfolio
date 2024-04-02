@@ -442,7 +442,7 @@ nav {
 
   .download-cv {
     position: absolute;
-    top: 90%;
+    top: 80%;
     width: 20%;
   }
   
@@ -468,6 +468,40 @@ nav {
     top: 25%;
     left: 15%;
     transform: rotate(0deg);
+  }
+
+  .div-1 {
+    background-color: #7e7e7e;
+    width: 0.1%;
+    height: 10%;
+    position: absolute;
+    transform: rotate(90deg);
+  
+    top: 22%;
+    left: 25%;
+  }
+  
+  .div-2 {
+    display: none;
+  }
+
+  .fsd {
+    color: #7c7c7c;
+    font-size: 80%;
+    letter-spacing: 5%;
+  
+    position: absolute;
+    top: 93%;
+    left: 15%;  
+  
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+  .home-p {
+    display: none;
   }
 
 }  
