@@ -324,7 +324,10 @@ nav a:nth-child(6):hover~span {
 }
 
 .menu-icon {
-  
+  font-size: 2.8rem;
+  color: #000000;
+  cursor: pointer;
+  display: none;
 }
 
 
