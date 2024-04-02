@@ -451,17 +451,7 @@ nav {
   }
 
   .hello {
-    font-family: "Limelight", sans-serif;
-    font-weight: lighter;
-    font-style: normal;
-    font-size: 80%;
-  
-    position: absolute;
-    color: rgb(163, 163, 163);
-  
-    letter-spacing: 3%;
-    top: 28%;
-    left: 15.3%;
+    display: none;
   
   }
   
@@ -469,15 +459,15 @@ nav {
     font-family: "Limelight", sans-serif;
     font-weight: lighter;
     font-style: normal;
-    font-size: 150%;
+    font-size: 120%;
   
     position: absolute;
     color: rgb(163, 163, 163);
   
     letter-spacing: 3%;
-    top: 38%;
-    left: 10.5%;
-    
+    top: 25%;
+    left: 15%;
+    transform: rotate(0deg);
   }
 
 }  
