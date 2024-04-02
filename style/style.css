@@ -71,25 +71,6 @@ nav {
 
 }
 
-.slide-bar {
-  position: fixed;
-  right: 0;
-  top: 0;
-  height: 100vh;
-  width: 250px;
-  z-index: 999;
-  background-color: white;
-  box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
-  display: none;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
-}
-
-.slide {
-  column-gap: 3vh;
-}
-
 /* Hompage Body Section */
 
 .homeBody {
@@ -351,5 +332,23 @@ nav {
     display: none;
    }
 
-   
+   .slide-bar {
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    width: 250px;
+    z-index: 999;
+    background-color: white;
+    box-shadow: -10px 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  
+  .slide {
+    column-gap: 3vh;
+  }
+
 }  
