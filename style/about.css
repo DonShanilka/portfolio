@@ -251,5 +251,250 @@
 /* Media Quary */
 
 @media (max-width: 768px) {
-    
+    .about-section {
+        position: absolute;
+        width: 100%;
+        height: 150%;
+        background-color: #ffffff;
+       
+        top: 100%;
+        z-index: 1;
+       }
+       
+       .about {
+        color: #e9e9e95e;
+        font-family: "Limelight", sans-serif;
+        font-weight: lighter;
+        font-style: normal;
+        font-size: 300%;
+       
+        position: absolute;
+        left: 6.5%;
+        top: 8%;
+        letter-spacing: 1vw;
+        /* No nedd */
+       }
+       
+       .more {
+        color: #000000;
+        font-family: "Limelight", sans-serif;
+        font-weight: 50;
+        font-style: normal;
+        font-size: 200%;
+       
+        position: absolute;
+        top: 9.5%;
+        left: 80%;
+        letter-spacing: 1vw;
+       }
+       
+       .about-me {
+        color: #000000;
+        font-family: "Limelight", sans-serif;
+        font-weight: 50;
+        font-style: normal;
+        font-size: 200%;
+       
+        position: absolute;
+        top: 14%;
+        left: 66%;
+        letter-spacing: 1vw;
+       
+       }
+       
+       .about-header {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+       
+        position: absolute;
+        left: 47%;
+        letter-spacing: 1vw;
+       
+        position: absolute;
+        top: 24%;
+       }
+       
+       .about-p {
+        color: #000000;
+        position: absolute;
+        left: 43%;
+        top: 25%;
+       
+        font-family: "Lexend Giga", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 70%;
+        
+       }
+       
+       .about-name {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+       
+        left: 43%;
+        position: absolute;
+        top: 40%;
+       }
+       
+       .name {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 80%;
+       
+        left: 43%;
+        position: absolute;
+        top: 42%;
+       }
+       
+       .about-bDay {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+       
+        left: 68%;
+        position: absolute;
+        top: 50%;
+       }
+       
+       .bday {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 80%;
+       
+        left: 68%;
+        position: absolute;
+        top: 52%;
+       }
+       
+       .about-education {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+       
+        left: 43%;
+        position: absolute;
+        top: 60%;
+       }
+       
+       .degree {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 80%;
+       
+        left: 43%;
+        position: absolute;
+        top: 62%;
+       }
+       
+       .about-University {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+       
+        left: 68%;
+        position: absolute;
+        top: 73%;
+       }
+       
+       .uni-name {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 80%;
+       
+        left: 68%;
+        position: absolute;
+        top: 75%;
+       }
+       
+       .about-hoby {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+       
+        left: 43%;
+        position: absolute;
+        top: 83%;
+       }
+       
+       .hobby {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 80%;
+       
+        left: 43%;
+        position: absolute;
+        top: 85%;
+       }
+       
+       .about-image-01 {
+        position: absolute;
+        left: 18%;
+        top: 30%;
+        border: 5px solid rgb(255, 255, 255);
+       }
+       
+       .about-image-02 {
+        position: absolute;
+        left: 14%;
+        top: 21%;
+        border: 5px solid rgb(255, 255, 255);
+       }
+       
+       .about-image-03 {
+        position: absolute;
+        left: 20.7%;
+        top: 40%;
+        border: 5px solid rgb(255, 255, 255);
+        z-index: 1;
+       }
+       
+       .about-image-04 {
+        position: absolute;
+        left: 8%;
+        top: 40%;
+        border: 5px solid rgb(255, 255, 255);
+       }
+       
+       .about-image-05 {
+        position: absolute;
+        left: 23.7%;
+        top: 29.5%;
+        border: 5px solid rgb(255, 255, 255);
+       }
 }
