@@ -197,6 +197,19 @@
  top: 66%;
 }
 
+.no-04 {
+    color: #000000;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 250%;
+   
+    position: absolute;
+    top: 70%;
+    left: 66%;
+    
+   }
+
 .about-University {
  color: #000000;
  font-family: "Lexend Zetta", sans-serif;
@@ -205,9 +218,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 68%;
+ left: 66%;
  position: absolute;
- top: 73%;
+ top: 74%;
 }
 
 .uni-name {
@@ -218,9 +231,9 @@
  font-style: normal;
  font-size: 80%;
 
- left: 68%;
+ left: 66%;
  position: absolute;
- top: 75%;
+ top: 76%;
 }
 
 .about-hoby {
