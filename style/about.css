@@ -127,8 +127,8 @@
     font-size: 250%;
    
     position: absolute;
-    top: 40%;
-    left: 62%;
+    top: 50%;
+    left: 66%;
     
    }
 
@@ -140,9 +140,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 68%;
+ left: 66%;
  position: absolute;
- top: 50%;
+ top: 54%;
 }
 
 .bday {
@@ -153,9 +153,9 @@
  font-style: normal;
  font-size: 80%;
 
- left: 68%;
+ left: 66%;
  position: absolute;
- top: 52%;
+ top: 56%;
 }
 
 .about-education {
