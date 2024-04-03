@@ -247,15 +247,15 @@
 }
 
 .about-mail-line-1 {
-    background-color: #b8b8b8;
+  background-color: #b8b8b8a1;
   width: 0.2%;
-  height: 40%;
+  height: 50%;
   position: absolute;
 
   top: 40%;
-  left: 73.5%;
+  left: 65.5%;
   z-index: 1;
-
+  /* transform: rotate(90deg);   */
 }
 
 
