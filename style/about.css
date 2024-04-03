@@ -236,6 +236,19 @@
  top: 76%;
 }
 
+.no-05 {
+    color: #000000;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 250%;
+   
+    position: absolute;
+    top: 80%;
+    left: 61.5%;
+    
+   }
+
 .about-hoby {
  color: #000000;
  font-family: "Lexend Zetta", sans-serif;
@@ -244,9 +257,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 43%;
+ left: 60.5%;
  position: absolute;
- top: 83%;
+ top: 84%;
 }
 
 .hobby {
@@ -257,9 +270,9 @@
  font-style: normal;
  font-size: 80%;
 
- left: 43%;
+ left: 53%;
  position: absolute;
- top: 85%;
+ top: 86%;
 }
 
 .about-image-01 {
