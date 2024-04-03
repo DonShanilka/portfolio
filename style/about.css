@@ -158,6 +158,19 @@
  top: 56%;
 }
 
+.no-03 {
+    color: #000000;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 250%;
+   
+    position: absolute;
+    top: 60%;
+    left: 61.5%;
+    
+   }
+
 .about-education {
  color: #000000;
  font-family: "Lexend Zetta", sans-serif;
@@ -166,9 +179,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 43%;
+ left: 52%;
  position: absolute;
- top: 60%;
+ top: 64%;
 }
 
 .degree {
@@ -179,9 +192,9 @@
  font-style: normal;
  font-size: 80%;
 
- left: 43%;
+ left: 47%;
  position: absolute;
- top: 62%;
+ top: 66%;
 }
 
 .about-University {
