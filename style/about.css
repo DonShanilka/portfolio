@@ -80,6 +80,19 @@
  
 }
 
+.no-01 {
+    color: #000000;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 250%;
+   
+    position: absolute;
+    top: 40%;
+    left: 62%;
+    
+   }
+
 .about-name {
  color: #000000;
  font-family: "Lexend Zetta", sans-serif;
@@ -88,9 +101,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 43%;
+ left: 61%;
  position: absolute;
- top: 40%;
+ top: 44%;
 }
 
 .name {
@@ -101,10 +114,23 @@
  font-style: normal;
  font-size: 80%;
 
- left: 43%;
+ left: 53.5%;
  position: absolute;
- top: 42%;
+ top: 46%;
 }
+
+.no-02 {
+    color: #000000;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 250%;
+   
+    position: absolute;
+    top: 40%;
+    left: 62%;
+    
+   }
 
 .about-bDay {
  color: #000000;
