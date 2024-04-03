@@ -248,13 +248,15 @@
 
 
 
+
+
 /* Media Quary */
 
 @media (max-width: 768px) {
     .about-section {
         position: absolute;
         width: 100%;
-        height: 150%;
+        height: 130%;
         background-color: #ffffff;
        
         top: 100%;
