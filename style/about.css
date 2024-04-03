@@ -89,7 +89,7 @@
    
     position: absolute;
     top: 40%;
-    left: 62%;
+    left: 61.5%;
     
    }
 
@@ -101,7 +101,7 @@
  font-style: normal;
  font-size: 100%;
 
- left: 61%;
+ left: 60.5%;
  position: absolute;
  top: 44%;
 }
@@ -114,7 +114,7 @@
  font-style: normal;
  font-size: 80%;
 
- left: 53.5%;
+ left: 52%;
  position: absolute;
  top: 46%;
 }
@@ -167,7 +167,7 @@
    
     position: absolute;
     top: 60%;
-    left: 61.5%;
+    left: 61%;
     
    }
 
@@ -179,7 +179,7 @@
  font-style: normal;
  font-size: 100%;
 
- left: 52%;
+ left: 50.7%;
  position: absolute;
  top: 64%;
 }
@@ -192,7 +192,7 @@
  font-style: normal;
  font-size: 80%;
 
- left: 47%;
+ left: 45%;
  position: absolute;
  top: 66%;
 }
@@ -245,7 +245,7 @@
    
     position: absolute;
     top: 80%;
-    left: 61.5%;
+    left: 61%;
     
    }
 
@@ -257,7 +257,7 @@
  font-style: normal;
  font-size: 100%;
 
- left: 60.5%;
+ left: 60%;
  position: absolute;
  top: 84%;
 }
@@ -270,7 +270,7 @@
  font-style: normal;
  font-size: 80%;
 
- left: 53%;
+ left: 52%;
  position: absolute;
  top: 86%;
 }
@@ -292,7 +292,7 @@
 .about-image-03 {
  position: absolute;
  left: 20.7%;
- top: 40%;
+ top: 40.1%;
  border: 5px solid rgb(255, 255, 255);
  z-index: 1;
 }
@@ -300,7 +300,7 @@
 .about-image-04 {
  position: absolute;
  left: 8%;
- top: 40%;
+ top: 40.1%;
  border: 5px solid rgb(255, 255, 255);
 }
 
