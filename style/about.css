@@ -476,7 +476,7 @@
        .about-image-02 {
         position: absolute;
         left: 14%;
-        top: 26%;
+        top: 27%;
         border: 5px solid rgb(255, 255, 255);
 
         width: 10%;
@@ -499,12 +499,16 @@
         left: 8%;
         top: 40%;
         border: 5px solid rgb(255, 255, 255);
+
+        width: 15%;
+        height: 7%;
        }
        
        .about-image-05 {
         position: absolute;
         left: 23.7%;
-        top: 29.5%;
+        top: 33.5%;
         border: 5px solid rgb(255, 255, 255);
+        height: 7%;
        }
 }
