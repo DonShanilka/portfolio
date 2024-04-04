@@ -1,0 +1,9 @@
+.goals-main-rect {
+    position: absolute;
+    width: 100%;
+    height: 200%;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+   
+    top: 450%;
+}
