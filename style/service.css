@@ -152,3 +152,21 @@ color: #000000;
     left: 5%;
     top: 30%; 
 }
+
+.project-div {
+    top: 50%;
+    left: 43%;
+    position: absolute;
+}
+
+.cliebt-div {
+    top: 50%;
+    left: 59.5%;
+    position: absolute;
+}
+
+.country-div {
+    top: 50%;
+    left: 75%;
+    position: absolute;
+}
