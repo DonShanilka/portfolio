@@ -177,7 +177,7 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 120%;
+ font-size: 150%;
 }
 
 .client-count {
@@ -186,7 +186,7 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 120%;
+ font-size: 150%;
 }
 
 .Country-count {
@@ -195,5 +195,14 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 120%;
+ font-size: 150%;
+}
+
+.project-complete {
+    color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: normal;
+ font-style: normal;
+ font-size: 80%;
 }
