@@ -98,13 +98,13 @@ color: #000000;
 }
 
 .mobile-img {
-    position: absolute;
+ position: absolute;
  left: 5%;
  top: 30%;
 }
 
 .webD {
-    color: #000000;
+ color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
  font-weight: bold;
@@ -117,7 +117,7 @@ color: #000000;
 }
 
 .project-web {
-    position: absolute;
+ position: absolute;
  left: 20%;
  top: 50%;
 }
@@ -126,4 +126,29 @@ color: #000000;
     position: absolute;
  left: 5%;
  top: 30%;
+}
+
+.uiux {
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+
+ position: absolute;
+ left: 20%;
+ top: 30%;
+}
+
+.uiProject {
+ position: absolute;
+ left: 20%;
+ top: 50%;
+}
+
+.ui-img {
+    position: absolute;
+    left: 5%;
+    top: 30%; 
 }
