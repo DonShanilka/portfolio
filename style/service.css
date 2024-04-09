@@ -12,7 +12,7 @@
     position: absolute;
     height: 10%;
     width: 24%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
     left: 10%;
     top: 22%;
 }
@@ -21,7 +21,7 @@
     position: absolute;
     height: 10%;
     width: 24%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
     left: 10%;
     top: 36%;
 }
@@ -30,7 +30,7 @@
     position: absolute;
     height: 10%;
     width: 24%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     left: 10%;
     top: 50%;
     
@@ -98,6 +98,31 @@ color: #000000;
 }
 
 .mobile-img {
+    position: absolute;
+ left: 5%;
+ top: 30%;
+}
+
+.webD {
+    color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+
+ position: absolute;
+ left: 20%;
+ top: 30%;
+}
+
+.project-web {
+    position: absolute;
+ left: 20%;
+ top: 50%;
+}
+
+.web-img {
     position: absolute;
  left: 5%;
  top: 30%;
