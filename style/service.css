@@ -2,7 +2,7 @@
  position: absolute;
  width: 100%;
  height: 150%;
- background-color: rgb(255, 165, 165);
+ background-color: rgb(255, 255, 255);
  z-index: 1;
 
  top: 250%;
@@ -76,4 +76,29 @@
  font-weight: weight;
  font-style: normal;
  font-size: 90%;
+}
+
+.Mad {
+color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+
+ position: absolute;
+ left: 20%;
+ top: 30%;
+}
+
+.ptoject {
+ position: absolute;
+ left: 20%;
+ top: 50%;
+}
+
+.mobile-img {
+    position: absolute;
+ left: 5%;
+ top: 30%;
 }
