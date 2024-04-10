@@ -225,3 +225,9 @@ color: #000000;
  font-size: 80%;
 }
 
+.p-line {
+    width: 30%;
+    height: 5%;
+    position: absolute;
+    background-color: #000000;
+}
