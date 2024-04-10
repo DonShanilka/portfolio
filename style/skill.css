@@ -12,5 +12,18 @@
 }
 
 .skill-h2 {
-    
+    position: absolute;
+    transform: rotate(90deg);
+
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 80%;
+    letter-spacing: 2vw;
+
+    top: 82%;
+    left: 0;
+    right: 98%;
 }
