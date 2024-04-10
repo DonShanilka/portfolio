@@ -27,3 +27,26 @@
     left: 0;
     right: 98%;
 }
+
+.skill-01 {
+    position: absolute;
+    background-color: #000000;
+    top: 90%;
+    left: 50%;
+    width: 5%;
+    height: 7%;
+    border-radius: 50%;
+}
+
+.skill-div-ii {
+    position: absolute;
+    background-color: #ffffff;
+    top: 5%;
+    left: 5%;
+    padding: 0%;
+    right: 0%;
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    z-index: 2;
+}
