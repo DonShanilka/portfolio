@@ -101,7 +101,13 @@ color: #000000;
 }
 
 .ptoject {
- position: absolute;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+
+    position: absolute;
  left: 20%;
  top: 50%;
 }
@@ -126,7 +132,13 @@ color: #000000;
 }
 
 .project-web {
- position: absolute;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+
+    position: absolute;
  left: 20%;
  top: 50%;
 }
@@ -151,7 +163,13 @@ color: #000000;
 }
 
 .uiProject {
- position: absolute;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+
+    position: absolute;
  left: 20%;
  top: 50%;
 }
