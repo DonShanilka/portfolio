@@ -231,3 +231,10 @@ color: #000000;
     position: absolute;
     background-color: #000000;
 }
+
+.cl-line {
+    width: 180%;
+    height: 2%;
+    position: absolute;
+    background-color: #000000;
+}
