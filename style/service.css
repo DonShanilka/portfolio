@@ -272,3 +272,16 @@ color: #000000;
     position: absolute;
     background-color: #000000;
 }
+
+.service2 {
+    position: absolute;
+    transform: rotate(90deg);
+
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 80%;
+    letter-spacing: 2vw;
+}
