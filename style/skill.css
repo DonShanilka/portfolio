@@ -38,6 +38,46 @@
     border-radius: 50%;
 }
 
+.skill-02 {
+    position: absolute;
+    background-color: #000000;
+    top: 90%;
+    left: 50%;
+    width: 5%;
+    height: 7%;
+    border-radius: 50%;
+}
+
+.skill-03 {
+    position: absolute;
+    background-color: #000000;
+    top: 90%;
+    left: 50%;
+    width: 5%;
+    height: 7%;
+    border-radius: 50%;
+}
+
+.skill-04 {
+    position: absolute;
+    background-color: #000000;
+    top: 90%;
+    left: 50%;
+    width: 5%;
+    height: 7%;
+    border-radius: 50%;
+}
+
+.skill-05 {
+    position: absolute;
+    background-color: #000000;
+    top: 90%;
+    left: 50%;
+    width: 5%;
+    height: 7%;
+    border-radius: 50%;
+}
+
 .skill-div-ii {
     position: absolute;
     background-color: #ffffff;
