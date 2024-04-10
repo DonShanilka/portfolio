@@ -238,3 +238,10 @@ color: #000000;
     position: absolute;
     background-color: #000000;
 }
+
+.c-line {
+    width: 160%;
+    height: 2%;
+    position: absolute;
+    background-color: #000000;
+}
