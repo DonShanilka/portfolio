@@ -78,6 +78,15 @@
  font-size: 90%;
 }
 
+.main-para-line {
+    position: absolute;
+    width: 10%;
+    height: 1.5px;
+    background-color: #a0a0a0;
+    left: 43%;
+    top: 25%;
+}
+
 .Mad {
 color: #000000;
  font-family: "Lexend Zetta", sans-serif;
