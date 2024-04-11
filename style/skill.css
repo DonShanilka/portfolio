@@ -43,51 +43,47 @@
 
 .skill-01 {
     position: absolute;
-    background-color: #000000;
+    background-color: #aaaaaa;
     top: 100%;
     left: 40%;
-    width: 5%;
-    height: 7%;
-    border-radius: 50%;
+    width: 15%;
+    height: 15%;
+    
 }
 
 .skill-02 {
     position: absolute;
-    background-color: #000000;
+    background-color: #c9c9c9;
     top: 115%;
     left: 50%;
-    width: 5%;
-    height: 7%;
-    border-radius: 50%;
+    width: 15%;
+    height: 15%;
 }
 
 .skill-03 {
     position: absolute;
-    background-color: #000000;
+    background-color: #c9c9c9;
     top: 105%;
     left: 60%;
-    width: 5%;
-    height: 7%;
-    border-radius: 50%;
+    width: 15%;
+    height: 15%;
 }
 
 .skill-04 {
     position: absolute;
-    background-color: #000000;
+    background-color: #c9c9c9;
     top: 105%;
     left: 70%;
-    width: 5%;
-    height: 7%;
-    border-radius: 50%;
+    width: 15%;
+    height: 15%;
 }
 
 .skill-05 {
     position: absolute;
-    background-color: #000000;
+    background-color: #c9c9c9;
     top: 90%;
     left: 80%;
-    width: 5%;
-    height: 7%;
-    border-radius: 50%;
+    width: 15%;
+    height: 15%;
 }
 
