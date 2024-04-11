@@ -76,20 +76,20 @@
 .skill-04 {
     position: absolute;
     background-color: #c9c9c9;
-    top: 105%;
-    left: 70%;
-    width: 15%;
-    height: 15%;
+    top: 102%;
+    left: 70.5%;
+    width: 13%;
+    height: 21%;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
 .skill-05 {
     position: absolute;
     background-color: #c9c9c9;
-    top: 90%;
-    left: 80%;
-    width: 15%;
-    height: 15%;
+    top: 102%;
+    left: 16.5%;
+    width: 13%;
+    height: 21%;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
