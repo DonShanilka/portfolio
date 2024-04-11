@@ -14,8 +14,8 @@
 .skill-para {
     color: #000000;
     position: absolute;
-    left: 15%;
-    top: 85%;
+    left: 17%;
+    top: 87%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
@@ -44,7 +44,7 @@
 .skill-01 {
     position: absolute;
     background-color: #000000;
-    top: 90%;
+    top: 100%;
     left: 40%;
     width: 5%;
     height: 7%;
@@ -54,7 +54,7 @@
 .skill-02 {
     position: absolute;
     background-color: #000000;
-    top: 90%;
+    top: 115%;
     left: 50%;
     width: 5%;
     height: 7%;
@@ -64,7 +64,7 @@
 .skill-03 {
     position: absolute;
     background-color: #000000;
-    top: 90%;
+    top: 105%;
     left: 60%;
     width: 5%;
     height: 7%;
@@ -74,7 +74,7 @@
 .skill-04 {
     position: absolute;
     background-color: #000000;
-    top: 90%;
+    top: 105%;
     left: 70%;
     width: 5%;
     height: 7%;
@@ -91,15 +91,3 @@
     border-radius: 50%;
 }
 
-.skill-div-ii {
-    position: absolute;
-    background-color: #ffffff;
-    top: 5%;
-    left: 5%;
-    padding: 0%;
-    right: 0%;
-    width: 90%;
-    height: 90%;
-    border-radius: 50%;
-    z-index: 2;
-}
