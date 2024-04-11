@@ -44,11 +44,13 @@
 .skill-01 {
     position: absolute;
     background-color: #aaaaaa;
-    top: 100%;
-    left: 40%;
+    top: 110%;
+    left: 0%;
+    right: 0%;
+    margin: auto;
     width: 15%;
     height: 15%;
-    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
 .skill-02 {
@@ -58,6 +60,7 @@
     left: 50%;
     width: 15%;
     height: 15%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
 .skill-03 {
@@ -67,6 +70,7 @@
     left: 60%;
     width: 15%;
     height: 15%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
 .skill-04 {
@@ -76,6 +80,7 @@
     left: 70%;
     width: 15%;
     height: 15%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
 .skill-05 {
@@ -85,5 +90,6 @@
     left: 80%;
     width: 15%;
     height: 15%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
