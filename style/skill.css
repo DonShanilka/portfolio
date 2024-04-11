@@ -11,6 +11,19 @@
  letter-spacing: 1vw;
 }
 
+.skill-para {
+    color: #000000;
+    position: absolute;
+    left: 55%;
+    top: 24%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+}
+
 .skill-h2 {
     position: absolute;
     transform: rotate(90deg);
