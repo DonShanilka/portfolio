@@ -104,10 +104,11 @@
     font-size: 60%;
 }
 
-.skill-div-ii>img {
+.img {
+    position: absolute;
     width: 30%;
-    height: 30%;
+    height: 25%;
     left: 40%;
-    top: 50%;
+    top: 40%;
     
 }
