@@ -103,3 +103,11 @@
     font-style: normal;
     font-size: 60%;
 }
+
+.skill-div-ii>img {
+    width: 30%;
+    height: 30%;
+    left: 40%;
+    top: 50%;
+    
+}
