@@ -7,3 +7,16 @@
    
     top: 450%;
 }
+
+.goals-h1 {
+    color: #cfcfcf;
+ font-family: "Limelight", sans-serif;
+ font-weight: 50;
+ font-style: normal;
+ font-size: 350%;
+
+ position: absolute;
+ top: 70%;
+ left: 10%;
+ letter-spacing: 1vw;
+}
