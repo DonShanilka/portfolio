@@ -20,3 +20,29 @@
  left: 10%;
  letter-spacing: 1vw;
 }
+
+.goals-main-rect>div>:nth-child(1) {
+    color: #000000;
+    position: absolute;
+    left: 65%;
+    top: 24%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+}
+
+.goals-main-rect>div>:nth-child(3) {
+    color: #000000;
+    position: absolute;
+    left: 15%;
+    top: 24%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+}
