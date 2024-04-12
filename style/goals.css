@@ -16,7 +16,7 @@
  font-size: 350%;
 
  position: absolute;
- top: 70%;
+ top: 20%;
  left: 10%;
  letter-spacing: 1vw;
 }
@@ -38,7 +38,20 @@
     color: #000000;
     position: absolute;
     left: 15%;
-    top: 24%;
+    top: 45%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 90%;
+}
+
+.goals-main-rect>div>:nth-child(5) {
+    color: #000000;
+    position: absolute;
+    left: 15%;
+    top: 65%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
