@@ -112,3 +112,12 @@
     top: 40%;
     
 }
+
+.skill-div-ii>p {
+    position: absolute;
+    left: 40%;
+    right: 0%;
+    top: 0%;
+    bottom: 96%;
+    margin: auto;
+}
