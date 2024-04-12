@@ -21,30 +21,53 @@
  letter-spacing: 1vw;
 }
 
+.goals-line-1 {
+    position: absolute;
+    width: 65%;
+    height: 0.2%;
+    background-color: #000000;
+
+    top: 31.5%;
+    left: 25%;
+}
+
 .goals-main-rect>div>:nth-child(1) {
     color: #000000;
     position: absolute;
-    left: 65%;
-    top: 24%;
+    left: 10%;
+    top: 30%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: 120%;
+    font-size: 500%;
+}
+
+.goals-main-rect>div>:nth-child(2) {
+    color: #000000;
+    position: absolute;
+    left: 25%;
+    top: 34%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 130%;
 }
 
 .goals-main-rect>div>:nth-child(3) {
     color: #000000;
     position: absolute;
-    left: 15%;
-    top: 45%;
+    left: 50%;
+    top: 34%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 .goals-main-rect>div>:nth-child(5) {
