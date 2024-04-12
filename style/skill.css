@@ -93,3 +93,13 @@
     box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 }
 
+.mern-para {
+    color: #000000;
+    position: absolute;
+    
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 60%;
+}
