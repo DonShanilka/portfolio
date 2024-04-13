@@ -23,11 +23,11 @@
 
 .goals-line-1 {
     position: absolute;
-    width: 65%;
+    width: 58%;
     height: 0.2%;
     background-color: #000000;
 
-    top: 31.5%;
+    top: 20%;
     left: 25%;
 }
 
@@ -35,20 +35,20 @@
     color: #000000;
     position: absolute;
     left: 10%;
-    top: 30%;
+    top: 18%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: 500%;
+    font-size: 600%;
 }
 
 .goals-main-rect>div>:nth-child(2) {
     color: #000000;
     position: absolute;
     left: 25%;
-    top: 34%;
+    top: 21.5%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
@@ -60,8 +60,8 @@
 .goals-main-rect>div>:nth-child(3) {
     color: #000000;
     position: absolute;
-    left: 50%;
-    top: 34%;
+    left: 42%;
+    top: 21.5%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
