@@ -95,3 +95,16 @@
     font-style: normal;
     font-size: 130%;
 }
+
+.goals-main-rect>div>:nth-child(6) {
+    color: #000000;
+    position: absolute;
+    left: 42%;
+    top: 51.5%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 100%;
+}
