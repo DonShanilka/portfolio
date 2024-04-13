@@ -70,15 +70,28 @@
     font-size: 100%;
 }
 
-.goals-main-rect>div>:nth-child(5) {
+.goals-main-rect>div>:nth-child(4) {
     color: #000000;
     position: absolute;
-    left: 15%;
-    top: 65%;
+    left: 10%;
+    top: 48%;
    
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: 120%;
+    font-size: 600%;
+}
+
+.goals-main-rect>div>:nth-child(5) {
+    color: #000000;
+    position: absolute;
+    left: 25%;
+    top: 51.5%;
+   
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 130%;
 }
