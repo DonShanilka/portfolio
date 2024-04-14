@@ -1,52 +1,84 @@
 .work-main-div {
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 250%;
     top: 650%;
     background-color: rgb(255, 255, 255);
 }
 
 .project-1 {
     position: absolute;
-    background-color: black;
-    height: 15%;
+    background-color: rgb(36, 36, 36);
+    height: 8%;
     width: 15%;
     left: 75%;
-    top: 30%;
+    top: 12%;
+    
+}
+
+.project-1>p{
+    color: white;
 }
 
 .project-2 {
     position: absolute;
-    background-color: black;
-    height: 15%;
+    background-color: rgb(36, 36, 36);
+    height: 8%;
     width: 15%;
     left: 60%;
-    top: 45%;
+    top: 20%;
 }
 
 .project-3 {
     position: absolute;
-    background-color: black;
-    height: 15%;
+    background-color: rgb(36, 36, 36);
+    height: 8%;
     width: 15%;
     left: 75%;
-    top: 60%;
+    top: 28%;
 }
 
 .project-4 {
     position: absolute;
-    background-color: black;
-    height: 15%;
+    background-color: rgb(36, 36, 36);
+    height: 8%;
     width: 15%;
     left: 60%;
-    top: 75%;
+    top: 36%;
 }
 
 .project-5 {
     position: absolute;
-    background-color: black;
-    height: 15%;
+    background-color: rgb(36, 36, 36);
+    height: 8%;
     width: 15%;
     left: 75%;
-    top: 100%;
+    top: 44%;
+}
+
+.work-line-1 {
+    position: absolute;
+    width: 0.1%;
+    height: 57%;
+    background-color: rgb(190, 190, 190);
+    top: 4%;
+    left: 60%;
+}
+
+.work-line-2 {
+    position: absolute;
+    width: 0.1%;
+    height: 57%;
+    background-color: rgb(190, 190, 190);
+    top: 4%;
+    left: 75%;
+}
+
+.work-line-3 {
+    position: absolute;
+    width: 0.1%;
+    height: 57%;
+    background-color: rgb(190, 190, 190);
+    top: 4%;
+    left: 89.9%;
 }
