@@ -71,6 +71,15 @@
     top: 36%;
 }
 
+.project-4>p{
+    color: white;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 100%;
+}
+
 .project-5 {
     position: absolute;
     background-color: rgb(36, 36, 36);
@@ -78,6 +87,15 @@
     width: 15%;
     left: 75%;
     top: 44%;
+}
+
+.project-5>p{
+    color: white;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 100%;
 }
 
 .work-line-1 {
