@@ -5,3 +5,48 @@
     top: 650%;
     background-color: rgb(255, 255, 255);
 }
+
+.project-1 {
+    position: absolute;
+    background-color: black;
+    height: 15%;
+    width: 15%;
+    left: 75%;
+    top: 30%;
+}
+
+.project-2 {
+    position: absolute;
+    background-color: black;
+    height: 15%;
+    width: 15%;
+    left: 60%;
+    top: 45%;
+}
+
+.project-3 {
+    position: absolute;
+    background-color: black;
+    height: 15%;
+    width: 15%;
+    left: 75%;
+    top: 60%;
+}
+
+.project-4 {
+    position: absolute;
+    background-color: black;
+    height: 15%;
+    width: 15%;
+    left: 60%;
+    top: 75%;
+}
+
+.project-5 {
+    position: absolute;
+    background-color: black;
+    height: 15%;
+    width: 15%;
+    left: 75%;
+    top: 100%;
+}
