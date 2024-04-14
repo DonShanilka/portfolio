@@ -34,6 +34,16 @@
     top: 20%;
 }
 
+.project-2>p{
+    color: white;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 100%;
+}
+
+
 .project-3 {
     position: absolute;
     background-color: rgb(36, 36, 36);
