@@ -5,3 +5,11 @@
     top: 900%;
     background-color: white;
 }
+
+.world-img {
+    top: 8%;
+    left: 30%;
+    right: 0%;
+   
+    margin: auto;
+}
