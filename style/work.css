@@ -101,7 +101,7 @@
 .work-line-1 {
     position: absolute;
     width: 0.1%;
-    height: 57%;
+    height: 100%;
     background-color: rgb(190, 190, 190);
     top: 4%;
     left: 60%;
@@ -110,7 +110,7 @@
 .work-line-2 {
     position: absolute;
     width: 0.1%;
-    height: 57%;
+    height: 100%;
     background-color: rgb(190, 190, 190);
     top: 4%;
     left: 75%;
@@ -119,7 +119,7 @@
 .work-line-3 {
     position: absolute;
     width: 0.1%;
-    height: 57%;
+    height: 100%;
     background-color: rgb(190, 190, 190);
     top: 4%;
     left: 89.9%;
