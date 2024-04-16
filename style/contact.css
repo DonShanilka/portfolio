@@ -28,7 +28,7 @@
 }
 
 .contact-details>p:nth-child(1){
-    color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -36,11 +36,29 @@
     font-size: 150%;
 }
 
-.contact-details>p:nth-child(3){
-    color: rgb(0, 0, 0);
+.contact-details>p:nth-child(4){
+    color: rgb(255, 0, 0);
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
     font-size: 150%;
+}
+
+.contact-details>p:nth-child(7){
+    color: rgb(255, 0, 0);
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 150%;
+}
+
+.header {
+    color: rgb(0, 0, 0);
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 120%;
 }
