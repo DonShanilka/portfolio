@@ -66,3 +66,33 @@
     top: 17%;
     left: 5%;
 }
+
+#name {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+
+    width: 30%;
+    height: 5%;
+    color: white;
+}
+
+#email {
+    position: absolute;
+    top: 40%;
+    left: 5%;
+
+    width: 30%;
+    height: 5%;
+    color: white;
+}
+
+#details {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+
+    width: 30%;
+    height: 5%;
+    color: white;
+}
