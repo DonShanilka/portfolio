@@ -7,9 +7,31 @@
 }
 
 .world-img {
-    top: 8%;
-    left: 30%;
+    top: 15%;
+    left: 20%;
     right: 0%;
    
     margin: auto;
+}
+
+.contact-details {
+    color: rgb(0, 0, 0);
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 80%;
+
+    position: absolute;
+    top: 40%;
+    left: 73%;
+}
+
+.contact-details>p:nth-child(1){
+    color: rgb(0, 0, 0);
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 150%;
 }
