@@ -8,7 +8,7 @@
 
 .world-img {
     top: 15%;
-    left: 20%;
+    left: 30%;
     right: 0%;
    
     margin: auto;
@@ -61,4 +61,8 @@
     font-weight: bolder;
     font-style: normal;
     font-size: 120%;
+
+    position: absolute;
+    top: 17%;
+    left: 5%;
 }
