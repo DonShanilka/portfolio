@@ -366,26 +366,34 @@ nav {
 }
 
 #git-hub {
-  width: 5%;
-  height: 3%;
+  top: 90%;
+  width: 2%;
+  height: 4%;
+  left: 15%;
   position: absolute;
 }
 
 #linked {
-  width: 5%;
-  height: 3%;
+  top: 90%;
+  width: 2%;
+  height: 4%;
+  left: 25%;
   position: absolute;
 }
 
 #youtube {
-  width: 5%;
-  height: 3%;
+  top: 90%;
+  width: 2%;
+  height: 4%;
+  left: 35%;
   position: absolute;
 }
 
 #facebook {
-  width: 5%;
-  height: 3%;
+  top: 90%;
+  width: 2%;
+  height: 4%;
+  left: 45%;
   position: absolute;
 }
 
