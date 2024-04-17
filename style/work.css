@@ -124,3 +124,13 @@
     top: 4%;
     left: 89.9%;
 }
+
+.ciecle-1 {
+    background-color: black;
+    height: 30%;
+    border-radius: 0;
+    border-top-left-radius: 50% 100%;
+    border-top-right-radius: 50% 100%;
+    width: 40%;
+
+}
