@@ -178,7 +178,7 @@ nav {
 }
 
 .div-2 {
-  background-color: #7e7e7e;
+  background-color: #ff0000;
   width: 0.1%;
   height: 10%;
   position: absolute;
@@ -218,9 +218,10 @@ nav {
 }
 
 .fsd {
-  color: #7c7c7c;
-  font-size: 90%;
+  color: #ffffff;
+  font-size: 100%;
   letter-spacing: 5%;
+  background-color: #ff0000;
 
   position: absolute;
   top: 59%;
