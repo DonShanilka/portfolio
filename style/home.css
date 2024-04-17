@@ -235,16 +235,16 @@ nav {
 
 .home-p {
   position: absolute;
-  top: 90%;
+  top: 92%;
   left: 62.3%;
-  font-size: 75%;
+  font-size: 90%;
   color: #000000;
   
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  z-index: 1;
+  z-index: 2;
 }
 
 .download-cv {
