@@ -397,6 +397,19 @@ nav {
   position: absolute;
 }
 
+.red-div {
+  width: 6%;
+  height: 30%;
+  position: absolute;
+  background-color: #ff0000;
+  top: 70%;
+  left: 94%;
+}
+
+.black-div {
+  
+}
+
 /* All Device */
 
 @media (max-width: 768px) {
