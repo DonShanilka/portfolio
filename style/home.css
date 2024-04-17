@@ -217,6 +217,18 @@ nav {
   z-index: 1;
 }
 
+.image-div-2{
+  background-color: #ffffff;
+  width: 13.5%;
+  height: 0.5%;
+  position: absolute;
+
+  top: 42%;
+  left: 60%;
+  z-index: 1;
+  
+}
+
 .fsd {
   color: #ffffff;
   font-size: 100%;
