@@ -229,6 +229,18 @@ nav {
   
 }
 
+.image-div-3{
+  background-color: #ffffff;
+  width: 15%;
+  height: 0.6%;
+  position: absolute;
+
+  top: 72%;
+  left: 73.5%;
+  z-index: 1;
+  
+}
+
 .fsd {
   color: #ffffff;
   font-size: 100%;
