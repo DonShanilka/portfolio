@@ -27,6 +27,18 @@
     margin: auto;
 }
 
+.Mad {
+ top: 38%;
+ left: 16%;
+ position: absolute;
+ color: #000000;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 100%;
+}
+
 .web-rect {
     position: absolute;
     height: 5%;
@@ -116,18 +128,6 @@
     top: 25%;
 }
 
-.Mad {
-color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
-
- position: absolute;
- left: 20%;
- top: 30%;
-}
 
 .ptoject {
     font-family: "Lexend Giga", sans-serif;
@@ -137,8 +137,8 @@ color: #000000;
     font-size: 90%;
 
     position: absolute;
- left: 20%;
- top: 50%;
+ left: 16%;
+ top: 40%;
 }
 
 .mobile-img {
@@ -350,12 +350,3 @@ color: #000000;
     z-index: 2;
 }
 
-.main-gray-div {
-    background-color: rgba(231, 231, 231, 0.301);
-    position: absolute;
-    width: 45%;
-    height: 70%;
-    left: 0%;
-    top: 0%;
-    z-index: -1;
-}
