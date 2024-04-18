@@ -213,7 +213,14 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 150%;
+ font-size: 120%;
+
+ position: absolute;
+ top: 28%;
+ right: 0%;
+ left: 13%;
+ bottom: 0%;
+ margin: auto;
 }
 
 .cliebt-div>p {
@@ -222,7 +229,14 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 150%;
+ font-size: 120%;
+
+ position: absolute;
+ top: 28%;
+ right: 0%;
+ left: 13%;
+ bottom: 0%;
+ margin: auto;
 }
 
 .country-div>p {
@@ -231,7 +245,14 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 150%;
+ font-size: 120%;
+
+ position: absolute;
+ top: 28%;
+ right: 0%;
+ left: 13%;
+ bottom: 0%;
+ margin: auto;
 }
 
 .project-complete {
@@ -240,7 +261,11 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
+ font-size: 100%;
+
+ position: absolute;
+ left: 72%;
+ top: 40%;
 }
 
 .happy-client {
@@ -249,7 +274,11 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
+ font-size: 100%;
+
+ position: absolute;
+ left: 72%;
+ top: 50%;
 }
 
 .country {
@@ -258,45 +287,11 @@ color: #000000;
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
-}
+ font-size: 100%;
 
-.p-line {
-    width: 120%;
-    height: 2%;
-    position: absolute;
-    background-color: #000000;
-}
-
-.cl-line {
-    width: 180%;
-    height: 2%;
-    position: absolute;
-    background-color: #000000;
-}
-
-.c-line {
-    width: 160%;
-    height: 2%;
-    position: absolute;
-    background-color: #000000;
-}
-
-.service2 {
-    position: absolute;
-    transform: rotate(90deg);
-
-    color: #000000;
-    font-family: "Lexend Zetta", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 80%;
-    letter-spacing: 2vw;
-
-    top: 35%;
-    left: 0;
-    right: 98%;
+ position: absolute;
+ left: 72%;
+ top: 60%;
 }
 
 .service-img {
