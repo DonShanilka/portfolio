@@ -23,7 +23,7 @@ section>header {
 
 body {
  /* justify-content: center; */
- background-color: #e4f1ff;
+ background-color: #ffffff;
  /* padding: 0; */
  margin: 0;
  box-sizing: border-box;
@@ -397,24 +397,6 @@ nav {
   position: absolute;
 }
 
-.red-div {
-  width: 12%;
-  height: 28%;
-  position: absolute;
-  background-color: #ff4949;
-  top: 72%;
-  left: 88%;
-  z-index: 2;
-}
-
-.black-div {
-  width: 12%;
-  height: 72%;
-  position: absolute;
-  background-color: #363636;
-  top: 0%;
-  left: 88%;
-}
 
 /* All Device */
 
