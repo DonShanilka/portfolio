@@ -35,9 +35,8 @@
  position: absolute;
  left: 43%;
  letter-spacing: 1vw;
-
- position: absolute;
  top: 26%;
+ z-index: 2;
 }
 
 .about-p {
@@ -51,7 +50,7 @@
  font-weight: weight;
  font-style: normal;
  font-size: 100%;
- 
+ z-index: 2;
 }
 
 .about-name {
@@ -65,6 +64,7 @@
  left: 43%;
  position: absolute;
  top: 56%;
+ z-index: 2;
 }
 
 .name {
@@ -78,6 +78,7 @@
  left: 43%;
  position: absolute;
  top: 59%;
+ z-index: 2;
 }
 
 .about-bDay {
@@ -91,6 +92,7 @@
  left: 43%;
  position: absolute;
  top: 65%;
+ z-index: 2;
 }
 
 .bday {
@@ -104,6 +106,7 @@
  left: 43%;
  position: absolute;
  top: 68%;
+ z-index: 2;
 }
 
 .about-education {
@@ -117,6 +120,7 @@
  left: 43%;
  position: absolute;
  top: 74%;
+ z-index: 2;
 }
 
 .degree {
@@ -130,6 +134,7 @@
  left: 43%;
  position: absolute;
  top: 77%;
+ z-index: 2;
 }
 
 
@@ -144,6 +149,7 @@
  left: 43%;
  position: absolute;
  top: 83%;
+ z-index: 2;
 }
 
 .uni-name {
@@ -157,6 +163,7 @@
  left: 43%;
  position: absolute;
  top: 86%;
+ z-index: 2;
 }
 
 
