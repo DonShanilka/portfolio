@@ -204,7 +204,7 @@
     position: absolute;
     left: 0%;
     top: 90%;
-    background-color: rgb(255, 64, 64);
+    background-color: rgb(255, 0, 0);
 }
 
 .about-gray-rect {
@@ -213,11 +213,16 @@
     position: absolute;
     left: 40%;
     top: 0%;
-    background-color: rgba(211, 211, 211, 0.445);
+    background-color: rgba(221, 221, 221, 0.445);
     z-index: 1;
 }
 
-
+.service-img {
+    position: absolute;
+    width: 20%;
+    height: 40%;
+    
+}
 
 /* Media Quary */
 
