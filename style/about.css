@@ -51,20 +51,20 @@
  letter-spacing: 1vw;
 
  position: absolute;
- top: 18%;
+ top: 26%;
 }
 
 .about-p {
  color: #000000;
  position: absolute;
  left: 43%;
- top: 25%;
+ top: 35%;
 
  font-family: "Lexend Giga", sans-serif;
  font-optical-sizing: auto;
  font-weight: weight;
  font-style: normal;
- font-size: 90%;
+ font-size: 100%;
  
 }
 
