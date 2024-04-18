@@ -160,12 +160,7 @@
 }
 
 
-.about-image-01 {
- position: absolute;
- left: 18%;
- top: 30%;
- border: 5px solid rgb(255, 255, 255);
-}
+/* about image */
 
 .about-image-02 {
  position: absolute;
