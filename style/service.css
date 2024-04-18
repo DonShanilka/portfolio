@@ -28,6 +28,15 @@
     background-color: rgb(49, 49, 49);
 }
 
+.web-rect>img {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    position: absolute;
+    margin: auto;
+}
+
 .ui-rect {
     position: absolute;
     height: 5%;
@@ -46,8 +55,6 @@
     position: absolute;
     margin: auto;
 }
-
-
 
 .service {
  color: #cfcfcf;
