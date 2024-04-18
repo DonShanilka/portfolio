@@ -80,7 +80,6 @@
  
 }
 
-
 .about-name {
  color: #000000;
  font-family: "Lexend Zetta", sans-serif;
@@ -89,9 +88,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 60.5%;
+ left: 43%;
  position: absolute;
- top: 44%;
+ top: 40%;
 }
 
 .name {
@@ -102,9 +101,9 @@
  font-style: normal;
  font-size: 80%;
 
- left: 52%;
+ left: 43%;
  position: absolute;
- top: 46%;
+ top: 42%;
 }
 
 .no-02 {
