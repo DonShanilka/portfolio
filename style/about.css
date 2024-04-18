@@ -192,12 +192,22 @@
 }
 
 .about-red-rect {
-    width: 30%;
+    width: 40%;
     height: 10%;
     position: absolute;
-    left: 4%;
-    top: 80%;
+    left: 0%;
+    top: 90%;
     background-color: rgb(255, 64, 64);
+}
+
+.about-gray-rect {
+    width: 60%;
+    height: 90%;
+    position: absolute;
+    left: 40%;
+    top: 0%;
+    background-color: rgba(211, 211, 211, 0.445);
+    z-index: 1;
 }
 
 
