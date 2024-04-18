@@ -237,12 +237,12 @@
 }
 
 .project-div>p {
-    color: #ffffff;
+    color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 120%;
+ font-size: 300%;
 
  position: absolute;
  top: 28%;
@@ -253,7 +253,7 @@
 }
 
 .cliebt-div>p {
-    color: #ffffff;
+    color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
  font-weight: bold;
@@ -269,7 +269,7 @@
 }
 
 .country-div>p {
-    color: #ffffff;
+    color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
  font-weight: bold;
