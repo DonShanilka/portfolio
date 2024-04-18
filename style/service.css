@@ -250,7 +250,7 @@ color: #000000;
  position: absolute;
  top: 28%;
  right: 0%;
- left: 13%;
+ left: 25%;
  bottom: 0%;
  margin: auto;
 }
@@ -259,7 +259,7 @@ color: #000000;
     color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
- font-weight: normal;
+ font-weight: bold;
  font-style: normal;
  font-size: 100%;
 
@@ -272,7 +272,7 @@ color: #000000;
     color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
- font-weight: normal;
+ font-weight: bold;
  font-style: normal;
  font-size: 100%;
 
@@ -285,13 +285,13 @@ color: #000000;
  color: #000000;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
- font-weight: normal;
+ font-weight: bold;
  font-style: normal;
  font-size: 100%;
 
  position: absolute;
  left: 72%;
- top: 60%;
+ top: 61%;
 }
 
 .service-img {
