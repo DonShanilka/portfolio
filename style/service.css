@@ -289,3 +289,30 @@ color: #000000;
     left: 0;
     right: 98%;
 }
+
+.service-img {
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    left: 40%;
+    top: 10%;
+}
+
+.service-image-div {
+    position: absolute;
+    width: 20%;
+    height: 50%;
+    left: 40%;
+    top: 10%;
+    background-color: rgba(180, 180, 180, 0.534);
+}
+
+#main-para{
+    background-color: red;
+    position: absolute;
+    width: 45%;
+    height: 20%;
+    right: 0%;
+    top: 15%;
+    z-index: 2;
+}
