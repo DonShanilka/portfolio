@@ -50,7 +50,7 @@
 }
 
 .parahead {
- color: #000000;
+ color: #ffffff;
  font-family: "Lexend Zetta", sans-serif;
  font-optical-sizing: auto;
  font-weight: bold;
@@ -58,24 +58,24 @@
  font-size: 150%;
 
  position: absolute;
- left: 43%;
+ left: 5%;
  letter-spacing: 1vw;
 
  position: absolute;
- top: 18%;
+ top: 16%;
 }
 
 .service-para {
-    color: #000000;
+    color: #ffffff;
  position: absolute;
- left: 55%;
- top: 24%;
+ left: 5%;
+ top: 40%;
 
  font-family: "Lexend Giga", sans-serif;
  font-optical-sizing: auto;
  font-weight: weight;
  font-style: normal;
- font-size: 90%;
+ font-size: 100%;
 }
 
 .main-para-line {
