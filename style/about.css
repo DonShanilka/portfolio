@@ -311,16 +311,13 @@
  border: 5px solid rgb(255, 255, 255);
 }
 
-.about-mail-line-1 {
-  background-color: #b8b8b8a1;
-  width: 0.2%;
-  height: 50%;
-  position: absolute;
-
-  top: 40%;
-  left: 65.5%;
-  z-index: 1;
-  /* transform: rotate(90deg);   */
+.about-red-rect {
+    width: 30%;
+    height: 10%;
+    position: absolute;
+    left: 4%;
+    top: 80%;
+    background-color: rgb(255, 64, 64);
 }
 
 
