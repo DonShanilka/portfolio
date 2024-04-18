@@ -140,7 +140,7 @@
  font-style: normal;
  font-size: 100%;
 
- left: 48%;
+ left: 43%;
  position: absolute;
  top: 52%;
 }
@@ -158,18 +158,6 @@
  top: 54%;
 }
 
-.no-04 {
-    color: #000000;
-    font-family: "Limelight", sans-serif;
-    font-weight: 50;
-    font-style: normal;
-    font-size: 250%;
-   
-    position: absolute;
-    top: 70%;
-    left: 66%;
-    
-   }
 
 .about-University {
  color: #000000;
@@ -179,9 +167,9 @@
  font-style: normal;
  font-size: 100%;
 
- left: 66%;
+ left: 43%;
  position: absolute;
- top: 74%;
+ top: 58%;
 }
 
 .uni-name {
@@ -192,9 +180,9 @@
  font-style: normal;
  font-size: 80%;
 
- left: 66%;
+ left: 43%;
  position: absolute;
- top: 76%;
+ top: 60%;
 }
 
 .no-05 {
