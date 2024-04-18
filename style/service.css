@@ -156,8 +156,8 @@
  font-size: 100%;
 
  position: absolute;
- left: 20%;
- top: 30%;
+ left: 16%;
+ top: 47%;
 }
 
 .project-web {
@@ -168,8 +168,8 @@
     font-size: 90%;
 
     position: absolute;
- left: 20%;
- top: 50%;
+ left: 16%;
+ top: 49%;
 }
 
 .web-img {
@@ -187,8 +187,8 @@
  font-size: 100%;
 
  position: absolute;
- left: 20%;
- top: 30%;
+ left: 16%;
+ top: 55.5%;
 }
 
 .uiProject {
@@ -199,8 +199,8 @@
     font-size: 90%;
 
     position: absolute;
- left: 20%;
- top: 50%;
+ left: 16%;
+ top: 57.5%;
 }
 
 .ui-img {
@@ -215,7 +215,7 @@
     top: 40%;
     left: 65%;
     position: absolute;
-    background-color: red;
+    
 }
 
 .cliebt-div {
@@ -224,7 +224,7 @@
     top: 50%;
     left: 65%;
     position: absolute;
-    background-color: rgb(44, 44, 44);
+    
 }
 
 .country-div {
@@ -233,7 +233,7 @@
     top: 60%;
     left: 65%;
     position: absolute;
-    background-color: rgb(156, 156, 156);
+    
 }
 
 .project-div>p {
@@ -326,7 +326,7 @@
 .service-img {
     position: absolute;
     width: 25%;
-    height: 50%;
+    height: 58%;
     left: 35%;
     top: 10%;
 }
@@ -334,10 +334,10 @@
 .service-image-div {
     position: absolute;
     width: 25%;
-    height: 50%;
+    height: 58%;
     left: 35%;
     top: 10%;
-    background-color: rgba(180, 180, 180, 0.534);
+    background-color: rgba(223, 223, 223, 0.685);
 }
 
 #main-para{
