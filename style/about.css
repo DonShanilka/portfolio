@@ -74,11 +74,11 @@
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 100%;
+ font-size: 110%;
 
  left: 43%;
  position: absolute;
- top: 40%;
+ top: 56%;
 }
 
 .name {
@@ -87,11 +87,11 @@
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
+ font-size: 100%;
 
  left: 43%;
  position: absolute;
- top: 42%;
+ top: 59%;
 }
 
 .about-bDay {
@@ -100,11 +100,11 @@
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 100%;
+ font-size: 110%;
 
  left: 43%;
  position: absolute;
- top: 46%;
+ top: 65%;
 }
 
 .bday {
@@ -113,11 +113,11 @@
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
+ font-size: 100%;
 
  left: 43%;
  position: absolute;
- top: 48%;
+ top: 68%;
 }
 
 .about-education {
@@ -126,11 +126,11 @@
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 100%;
+ font-size: 110%;
 
  left: 43%;
  position: absolute;
- top: 52%;
+ top: 74%;
 }
 
 .degree {
@@ -139,11 +139,11 @@
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
+ font-size: 100%;
 
  left: 43%;
  position: absolute;
- top: 54%;
+ top: 77%;
 }
 
 
@@ -153,11 +153,11 @@
  font-optical-sizing: auto;
  font-weight: bold;
  font-style: normal;
- font-size: 100%;
+ font-size: 110%;
 
  left: 43%;
  position: absolute;
- top: 58%;
+ top: 83%;
 }
 
 .uni-name {
@@ -166,11 +166,11 @@
  font-optical-sizing: auto;
  font-weight: normal;
  font-style: normal;
- font-size: 80%;
+ font-size: 100%;
 
  left: 43%;
  position: absolute;
- top: 60%;
+ top: 86%;
 }
 
 
