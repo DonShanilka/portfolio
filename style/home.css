@@ -252,12 +252,13 @@ nav {
 
 .circle-2024 {
   position: relative;
-  width: 200px;
-  height: 200px;
-  background-color: #00ffaa;
+  width: 180px;
+  height: 180px;
+  /* background-color: #00ffaa; */
   border-radius: 50%;
-  top: 60%;
-  left: 70%;
+  top: 84.5%;
+  left: 86.5%;
+  animation: rotate 15s infinite linear;
 }
 
 .circle-2024>div>p {
@@ -277,5 +278,15 @@ nav {
   position: absolute;
   left: 50%;
   font-size: 1.2em;
-  transform-origin: 0 100px;
+  transform-origin: 0 90px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
 }
