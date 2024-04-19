@@ -20,9 +20,9 @@ section>header {
 }
 
 body {
-  /* justify-content: center; */
+  justify-content: center;
   background-color: #ffffff;
-  /* padding: 0; */
+  padding: 0;
   margin: 0;
   box-sizing: border-box;
 
@@ -119,4 +119,34 @@ nav {
   width: 27%;
   top: 0%;
   left: 60%;
+}
+
+.full-name {
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 200%;
+
+  left: 18%;
+  letter-spacing: 0.5vw;
+  position: absolute;
+  top: 30%;
+}
+
+.im {
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 150%;
+
+  position: absolute;
+  left: 5%;
+  letter-spacing: 1vw;
+
+  position: absolute;
+  top: 16%;
 }
