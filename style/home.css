@@ -102,3 +102,8 @@ nav {
   z-index: 1;
   background-color: rgb(255, 255, 255);
 }
+
+.homepage-img {
+  top: 0%;
+  position: absolute;
+}
