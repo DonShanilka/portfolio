@@ -176,7 +176,7 @@ nav {
 }
 
 .introduce-div>h1 {
-  color: #dddddd;
+  color: #cccccc;
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
@@ -185,5 +185,17 @@ nav {
 
   position: absolute;
   left: 4%;
-  top: 26%;
+  top: 26.5%;
 }
+
+.introduce-div>div {
+  position: absolute;
+  width: 0.2%;
+  height: 15%;
+  background-color: #000000;
+
+  top: 41%;
+  left: 8%;
+}
+
+.introduce-div>h1
