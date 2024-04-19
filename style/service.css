@@ -1,24 +1,24 @@
 .service-main-div {
- position: absolute;
- width: 100%;
- height: 150%;
- background-color: rgb(255, 255, 255);
- z-index: 1;
+    position: absolute;
+    width: 100%;
+    height: 150%;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
 
- top: 200%;
+    top: 200%;
 }
 
 .mobile-app-rect {
     position: absolute;
     height: 5%;
     width: 5%;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     left: 10%;
     top: 37%;
     background-color: rgb(143, 143, 143);
 }
 
-.mobile-app-rect>img{
+.mobile-app-rect>img {
     left: 0%;
     right: 0%;
     top: 0%;
@@ -28,22 +28,22 @@
 }
 
 .Mad {
- top: 38%;
- left: 16%;
- position: absolute;
- color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
+    top: 38%;
+    left: 16%;
+    position: absolute;
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%;
 }
 
 .web-rect {
     position: absolute;
     height: 5%;
     width: 5%;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     left: 10%;
     top: 46%;
     background-color: rgb(49, 49, 49);
@@ -65,10 +65,10 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     left: 10%;
     top: 55%;
-    background-color: red;   
+    background-color: red;
 }
 
-.ui-rect>img{
+.ui-rect>img {
     left: 0%;
     right: 0%;
     top: 0%;
@@ -78,45 +78,45 @@
 }
 
 .service {
- color: #cfcfcf;
- font-family: "Limelight", sans-serif;
- font-weight: 50;
- font-style: normal;
- font-size: 350%;
+    color: #cfcfcf;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 350%;
 
- position: absolute;
- top: 11%;
- left: 43%;
- letter-spacing: 1vw;
+    position: absolute;
+    top: 11%;
+    left: 43%;
+    letter-spacing: 1vw;
 }
 
 .parahead {
- color: #ffffff;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 150%;
+    color: #ffffff;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 150%;
 
- position: absolute;
- left: 5%;
- letter-spacing: 1vw;
+    position: absolute;
+    left: 5%;
+    letter-spacing: 1vw;
 
- position: absolute;
- top: 16%;
+    position: absolute;
+    top: 16%;
 }
 
 .service-para {
     color: #ffffff;
- position: absolute;
- left: 5%;
- top: 40%;
+    position: absolute;
+    left: 5%;
+    top: 40%;
 
- font-family: "Lexend Giga", sans-serif;
- font-optical-sizing: auto;
- font-weight: weight;
- font-style: normal;
- font-size: 100%;
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 100%;
 }
 
 .main-para-line {
@@ -137,27 +137,27 @@
     font-size: 90%;
 
     position: absolute;
- left: 16%;
- top: 40%;
+    left: 16%;
+    top: 40%;
 }
 
 .mobile-img {
- position: absolute;
- left: 5%;
- top: 30%;
+    position: absolute;
+    left: 5%;
+    top: 30%;
 }
 
 .webD {
- color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%;
 
- position: absolute;
- left: 16%;
- top: 47%;
+    position: absolute;
+    left: 16%;
+    top: 47%;
 }
 
 .project-web {
@@ -168,27 +168,27 @@
     font-size: 90%;
 
     position: absolute;
- left: 16%;
- top: 49%;
+    left: 16%;
+    top: 49%;
 }
 
 .web-img {
     position: absolute;
- left: 5%;
- top: 30%;
+    left: 5%;
+    top: 30%;
 }
 
 .uiux {
- color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%;
 
- position: absolute;
- left: 16%;
- top: 55.5%;
+    position: absolute;
+    left: 16%;
+    top: 55.5%;
 }
 
 .uiProject {
@@ -199,14 +199,14 @@
     font-size: 90%;
 
     position: absolute;
- left: 16%;
- top: 57.5%;
+    left: 16%;
+    top: 57.5%;
 }
 
 .ui-img {
     position: absolute;
     left: 5%;
-    top: 30%; 
+    top: 30%;
 }
 
 .project-div {
@@ -215,7 +215,7 @@
     top: 38%;
     left: 68%;
     position: absolute;
-    
+
 }
 
 .cliebt-div {
@@ -224,7 +224,7 @@
     top: 50%;
     left: 65%;
     position: absolute;
-    
+
 }
 
 .country-div {
@@ -233,94 +233,94 @@
     top: 60%;
     left: 65%;
     position: absolute;
-    
+
 }
 
 .project-div>p {
     color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 300%;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 300%;
 
- position: absolute;
- top: 25%;
- right: 0%;
- left: 13%;
- bottom: 0%;
- margin: auto;
+    position: absolute;
+    top: 25%;
+    right: 0%;
+    left: 13%;
+    bottom: 0%;
+    margin: auto;
 }
 
 .cliebt-div>p {
     color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 120%;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 120%;
 
- position: absolute;
- top: 28%;
- right: 0%;
- left: 13%;
- bottom: 0%;
- margin: auto;
+    position: absolute;
+    top: 28%;
+    right: 0%;
+    left: 13%;
+    bottom: 0%;
+    margin: auto;
 }
 
 .country-div>p {
     color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 120%;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 120%;
 
- position: absolute;
- top: 28%;
- right: 0%;
- left: 25%;
- bottom: 0%;
- margin: auto;
+    position: absolute;
+    top: 28%;
+    right: 0%;
+    left: 25%;
+    bottom: 0%;
+    margin: auto;
 }
 
 .project-complete {
     color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%;
 
- position: absolute;
- left: 68.6%;
- top: 43.5%;
+    position: absolute;
+    left: 68.6%;
+    top: 43.5%;
 }
 
 .happy-client {
     color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%;
 
- position: absolute;
- left: 72%;
- top: 50%;
+    position: absolute;
+    left: 72%;
+    top: 50%;
 }
 
 .country {
- color: #000000;
- font-family: "Lexend Zetta", sans-serif;
- font-optical-sizing: auto;
- font-weight: bold;
- font-style: normal;
- font-size: 100%;
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 100%;
 
- position: absolute;
- left: 72%;
- top: 61%;
+    position: absolute;
+    left: 72%;
+    top: 61%;
 }
 
 .service-img {
@@ -337,11 +337,11 @@
     height: 58%;
     left: 35%;
     top: 10%;
-    background-color: rgba(223, 223, 223, 0.685);
+    background-color: rgba(255, 255, 255, 0.856);
 }
 
-#main-para{
-    background-color: red;
+#main-para {
+    background-color: rgb(0, 255, 170);
     position: absolute;
     width: 45%;
     height: 20%;
@@ -349,4 +349,3 @@
     top: 15%;
     z-index: 2;
 }
-
