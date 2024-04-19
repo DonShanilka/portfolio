@@ -266,3 +266,10 @@ nav {
   height: 100%;
   position: absolute;
 }
+
+.text span {
+  position: absolute;
+  left: 50%;
+  font-size: 1.2em;
+  transform-origin: 0 100px;
+}
