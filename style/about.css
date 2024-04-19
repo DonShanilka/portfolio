@@ -206,13 +206,3 @@
     top: 90%;
     background-color: rgb(255, 0, 0);
 }
-
-.about-gray-rect {
-    width: 60%;
-    height: 90%;
-    position: absolute;
-    left: 40%;
-    top: 0%;
-    background-color: rgba(221, 221, 221, 0.445);
-    z-index: 1;
-}
