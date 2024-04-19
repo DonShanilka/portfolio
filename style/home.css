@@ -104,10 +104,19 @@ nav {
 }
 
 .homepage-img {
-  height: 100%;
-  width: 30%;
+  height: 90%;
+  width: 27%;
   top: 0%;
   left: 60%;
   position: absolute;
 
+}
+
+.div-1 {
+  background-color: #ffffff94;
+  position: absolute;
+  height: 90%;
+  width: 27%;
+  top: 0%;
+  left: 60%;
 }
