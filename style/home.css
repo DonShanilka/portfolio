@@ -213,9 +213,9 @@ nav {
 }
 
 .homeBody>button {
-  --b: 3px;
+  --b: 4px;
   --s: .45em;
-  --color: #373B44;
+  --color: #000000;
 
   padding: calc(.5em + var(--s)) calc(.9em + var(--s));
   color: var(--color);
@@ -232,6 +232,10 @@ nav {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+
+  top: 80%;
+  left: 18.5%;
+  position: absolute;
 }
 
 .homeBody>button:hover,
@@ -243,5 +247,5 @@ nav {
 
 .homeBody>button:active {
   background: var(--color);
-  color: #fff;
+  color: #ffffff;
 }
