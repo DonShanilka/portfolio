@@ -169,40 +169,10 @@
 
 /* about image */
 
-.about-image-02 {
-    position: absolute;
-    left: 14%;
-    top: 35%;
-    border: 5px solid rgb(255, 255, 255);
-}
-
 .about-image-03 {
     position: absolute;
     left: 20.7%;
     top: 55%;
     border: 5px solid rgb(255, 255, 255);
     z-index: 1;
-}
-
-.about-image-04 {
-    position: absolute;
-    left: 11%;
-    top: 55%;
-    border: 5px solid rgb(255, 255, 255);
-}
-
-.about-image-05 {
-    position: absolute;
-    left: 20.7%;
-    top: 43.5%;
-    border: 5px solid rgb(255, 255, 255);
-}
-
-.about-red-rect {
-    width: 40%;
-    height: 10%;
-    position: absolute;
-    left: 0%;
-    top: 90%;
-    background-color: rgb(255, 0, 0);
 }
