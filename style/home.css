@@ -233,9 +233,18 @@ nav {
   -webkit-user-select: none;
   touch-action: manipulation;
 
-  top: 80%;
+  top: 75%;
   left: 18.5%;
   position: absolute;
+
+  color: #000000;
+  font-family: "Lexend Zetta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 80%;
+  height: 6%;
+  letter-spacing: 0.0001vw;
 }
 
 .homeBody>button:hover,
