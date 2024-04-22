@@ -148,6 +148,7 @@
     rotate: 45deg;
     top: 60%;
     left: 22%;
+    animation: scale 1s ease alternate-reverse infinite;
 }
 
 .blue-rect-2 {
@@ -159,6 +160,7 @@
     rotate: 45deg;
     top: 60%;
     left: 37%;
+    animation: scale 1s ease alternate-reverse infinite;
 }
 
 .blue-rect-3 {
@@ -170,6 +172,7 @@
     rotate: 45deg;
     top: 60%;
     left: 51%;
+    animation: scale 1s ease alternate-reverse infinite;
 }
 
 .blue-rect-4 {
@@ -181,4 +184,11 @@
     rotate: 45deg;
     top: 60%;
     left: 63%;
+    animation: scale 1s ease alternate-reverse infinite;
+}
+
+@keyframes scale {
+    to {
+        transform: scale(1.3);
+    }
 }
