@@ -149,3 +149,14 @@
     top: 60%;
     left: 21%;
 }
+
+.blue-rect-2 {
+    background-color: rgb(232, 250, 255);
+    border-radius: 10%;
+    position: absolute;
+    width: 2.5%;
+    height: 3.3%;
+    rotate: 45deg;
+    top: 60%;
+    left: 21%;
+}
