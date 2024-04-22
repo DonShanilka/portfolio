@@ -8,7 +8,18 @@
     top: 200%;
 }
 
+.parahead {
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 200%;
 
+    position: absolute;
+    left: 37%;
+    top: 20%;
+}
 
 .service-para {
     color: #000000;
