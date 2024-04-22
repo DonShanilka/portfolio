@@ -77,13 +77,17 @@
     top: 80%;
 }
 
-.mobile-para {
+.mobile-para,
+.uiux-para,
+.web-para {
     position: absolute;
     left: 5%;
     top: 50%;
 }
 
-.Mad {
+.Mad,
+.webD,
+.uiux {
     position: absolute;
     left: 5%;
     top: 32%;
