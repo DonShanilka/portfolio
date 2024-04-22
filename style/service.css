@@ -82,3 +82,12 @@
     left: 5%;
     top: 50%;
 }
+
+.Mad {
+    position: absolute;
+    left: 5%;
+    top: 32%;
+    color: #000000;
+    font-size: larger;
+    font-weight: bolder;
+}
