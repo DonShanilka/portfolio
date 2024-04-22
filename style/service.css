@@ -42,7 +42,7 @@
     width: 20%;
     height: 22%;
     position: absolute;
-    top: 30%;
+    top: 28%;
     left: 16%;
 }
 
@@ -53,7 +53,7 @@
     width: 20%;
     height: 22%;
     position: absolute;
-    top: 30%;
+    top: 28%;
     left: 40%;
 }
 
@@ -64,8 +64,21 @@
     width: 20%;
     height: 22%;
     position: absolute;
-    top: 30%;
+    top: 28%;
     left: 64%;
 }
 
-.mobile-app-rect:nth-child(2) {}
+.ptoject-mobile {
+    color: #4d4d4d;
+    font-size: 100%;
+    font-weight: 500;
+    position: absolute;
+    left: 5%;
+    top: 80%;
+}
+
+.mobile-para {
+    position: absolute;
+    left: 5%;
+    top: 50%;
+}
