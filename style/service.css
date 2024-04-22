@@ -68,7 +68,9 @@
     left: 64%;
 }
 
-.ptoject-mobile {
+.ptoject-mobile,
+.project-web,
+.uiProject {
     color: #4d4d4d;
     font-size: 100%;
     font-weight: 500;
