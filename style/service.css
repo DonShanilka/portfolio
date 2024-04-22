@@ -120,4 +120,9 @@
     left: 35%;
 }
 
-.country-div {}
+.country-div {
+    color: #000000;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
