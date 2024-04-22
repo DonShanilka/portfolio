@@ -36,7 +36,7 @@
 }
 
 .mobile-app-rect {
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     border: #e9e9e963 1px solid;
     border-radius: 10%;
     width: 18%;
@@ -47,7 +47,7 @@
 }
 
 .web-rect {
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     border: #e9e9e963 1px solid;
     border-radius: 10%;
     width: 18%;
@@ -58,7 +58,7 @@
 }
 
 .ui-rect {
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     border: #e9e9e963 1px solid;
     border-radius: 10%;
     width: 18%;
