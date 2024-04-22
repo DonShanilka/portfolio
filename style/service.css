@@ -105,3 +105,10 @@
     left: 5%;
     top: 10%;
 }
+
+.project-div {
+    color: #000000;
+    position: absolute;
+    top: 60%;
+    left: 28%;
+}
