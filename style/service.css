@@ -97,3 +97,11 @@
     font-size: larger;
     font-weight: bolder;
 }
+
+.mobile-img,
+.web-img,
+.ui-img {
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
