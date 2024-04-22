@@ -113,6 +113,11 @@
     left: 28%;
 }
 
-.cliebt-div {}
+.cliebt-div {
+    color: #000000;
+    position: absolute;
+    top: 60%;
+    left: 35%;
+}
 
 .country-div {}
