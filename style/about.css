@@ -265,3 +265,16 @@
     transition: 0s;
     transform: translate(0, 5%);
 }
+
+.about-div>h1 {
+    color: #bebebe;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 500%;
+
+    position: absolute;
+    left: 84%;
+    top: 24%;
+}
