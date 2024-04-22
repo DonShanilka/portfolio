@@ -9,7 +9,7 @@
 }
 
 .parahead {
-    color: rgba(5, 191, 219, 1);
+    color: rgb(5, 191, 219, 1);
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -107,29 +107,34 @@
 }
 
 .project-div {
-    color: #000000;
+    font-size: 100%;
+    font-weight: 500;
     position: absolute;
     top: 60%;
-    left: 28%;
+    left: 25%;
 }
 
 .cliebt-div {
-    color: #000000;
+    font-size: 100%;
+    font-weight: 500;
     position: absolute;
     top: 60%;
     left: 40%;
 }
 
 .country-div {
-    color: #000000;
+    font-size: 100%;
+    font-weight: 500;
     position: absolute;
     top: 60%;
-    left: 50%;
+    left: 55%;
 }
 
-.ideas {
-    color: #000000;
+.ideas-div {
+    font-size: 100%;
+    font-weight: 500;
     position: absolute;
     top: 60%;
-    left: 60%;
+    left: 67%;
+
 }
