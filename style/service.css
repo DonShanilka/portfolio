@@ -34,3 +34,14 @@
     left: 25%;
     top: 16%;
 }
+
+.mobile-app-rect {
+    background-color: #fff;
+    border: #e9e9e963 1px solid;
+    border-radius: 10%;
+    width: 18%;
+    height: 20%;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
