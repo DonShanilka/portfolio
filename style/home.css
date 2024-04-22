@@ -116,17 +116,38 @@ nav {
   top: 0%;
   left: 60%;
   position: absolute;
-
+  animation: fade-in linear;
+  animation-timeline: view();
+  animation-range-start: 20%;
+  animation-range-end: 100%;
 }
 
-.div-1 {
-  background-color: #ffffff94;
+/* .div-1 {
+  background-color: #ffffffab;
   position: absolute;
   height: 90%;
   width: 27%;
   top: 0%;
   left: 60%;
+
+  animation: fade-in linear;
+  animation-timeline: view(200% 500%); */
+/* } */
+
+@keyframes fade-in {
+  from {
+    scale: .8;
+    opacity: 0;
+
+  }
+
+  to {
+    scale: 1;
+    opacity: 1;
+    background-color: #0000006b;
+  }
 }
+
 
 .full-name {
   color: #000000;
