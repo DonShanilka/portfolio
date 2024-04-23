@@ -1,5 +1,5 @@
 .skill-h1 {
-    color: rgb(5, 191, 219, 1);
+    color: #2f24c1;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -46,6 +46,5 @@
     height: 7%;
     rotate: 45deg;
     top: 100%;
-    left: 63%;
     position: absolute;
 }
