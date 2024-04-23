@@ -1,21 +1,22 @@
 .skill-h1 {
-    color: #cfcfcf;
-    font-family: "Limelight", sans-serif;
-    font-weight: 50;
+    color: rgb(5, 191, 219, 1);
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
     font-style: normal;
-    font-size: 350%;
+    font-size: 200%;
+    text-align: center;
 
     position: absolute;
-    top: 70%;
-    left: 10%;
-    letter-spacing: 1vw;
+    left: 45%;
+    top: 80%;
 }
 
 .skill-para {
     color: #000000;
     position: absolute;
     left: 10%;
-    top: 77%;
+    top: 85%;
 
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
