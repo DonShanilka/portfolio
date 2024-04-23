@@ -8,19 +8,19 @@
     text-align: center;
 
     position: absolute;
-    left: 45%;
+    left: 44.5%;
     top: 80%;
 }
 
 .skill-para {
     color: #000000;
-    position: absolute;
-    left: 10%;
-    top: 85%;
-
-    font-family: "Lexend Giga", sans-serif;
+    font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
-    font-weight: weight;
+    font-weight: normal;
     font-style: normal;
-    font-size: 90%;
+    font-size: 100%;
+
+    position: absolute;
+    left: 18%;
+    top: 85%;
 }
