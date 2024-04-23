@@ -1,14 +1,14 @@
 .skill-h1 {
- color: #cfcfcf;
- font-family: "Limelight", sans-serif;
- font-weight: 50;
- font-style: normal;
- font-size: 350%;
+    color: #cfcfcf;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 350%;
 
- position: absolute;
- top: 70%;
- left: 10%;
- letter-spacing: 1vw;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    letter-spacing: 1vw;
 }
 
 .skill-para {
@@ -16,108 +16,10 @@
     position: absolute;
     left: 10%;
     top: 77%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     font-size: 90%;
-}
-
-.skill-h2 {
-    position: absolute;
-    transform: rotate(90deg);
-
-    color: #000000;
-    font-family: "Lexend Zetta", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 80%;
-    letter-spacing: 2vw;
-
-    top: 82%;
-    left: 0;
-    right: 98%;
-}
-
-.skill-01 {
-    position: absolute;
-    background-color: #aaaaaa;
-    top: 100%;
-    left: 0%;
-    right: 0%;
-    margin: auto;
-    width: 15%;
-    height: 25%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-}
-
-.skill-02 {
-    position: absolute;
-    background-color: #c9c9c9;
-    top: 101%;
-    left: 29.5%;
-    width: 13%;
-    height: 23%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-}
-
-.skill-03 {
-    position: absolute;
-    background-color: #c9c9c9;
-    top: 101%;
-    left: 57.5%;
-    width: 13%;
-    height: 23%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-}
-
-.skill-04 {
-    position: absolute;
-    background-color: #d4d4d4;
-    top: 102%;
-    left: 70.5%;
-    width: 13%;
-    height: 21%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-}
-
-.skill-05 {
-    position: absolute;
-    background-color: #d4d4d4;
-    top: 102%;
-    left: 16.5%;
-    width: 13%;
-    height: 21%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-}
-
-.mern-para {
-    color: #000000;
-    position: absolute;
-    
-    font-family: "Lexend Giga", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
-    font-size: 60%;
-}
-
-.img {
-    position: absolute;
-    width: 30%;
-    height: 25%;
-    left: 40%;
-    top: 40%;
-    
-}
-
-.skill-div-ii>p {
-    position: absolute;
-    left: 40%;
-    right: 0%;
-    top: 0%;
-    bottom: 96%;
-    margin: auto;
 }
