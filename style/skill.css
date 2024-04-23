@@ -46,6 +46,27 @@
     height: 5.4%;
     rotate: 45deg;
     position: absolute;
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    box-shadow: rgba(172, 172, 172, 0.2) 0px 2px 8px 0px;
 
+}
+
+.skill-1:hover,
+.skill-2:hover,
+.skill-3:hover,
+.skill-4:hover,
+.skill-5:hover,
+.skill-6:hover,
+.skill-7:hover,
+.skill-8:hover,
+.skill-9:hover,
+.skill-10:hover,
+.skill-11:hover,
+.skill-12:hover,
+.skill-13:hover,
+.skill-14:hover,
+.skill-15:hover {
+    box-shadow: rgba(80, 80, 80, 0.2) 0px 2px 8px 0px;
+    background-color: rgb(255, 255, 255);
+    transform: scale(1.2);
+    transition-duration: 2s;
 }
