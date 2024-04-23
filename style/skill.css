@@ -40,11 +40,11 @@
 .skill-13,
 .skill-14,
 .skill-15 {
-    background-color: rgb(232, 250, 255);
+    background-color: rgb(240, 250, 255);
     border-radius: 10%;
-    width: 5.5%;
-    height: 7%;
+    width: 4%;
+    height: 5.4%;
     rotate: 45deg;
-    top: 100%;
     position: absolute;
+
 }
