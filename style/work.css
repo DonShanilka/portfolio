@@ -5,22 +5,3 @@
     top: 400%;
     background-color: rgb(255, 255, 255);
 }
-
-.project-01 {
-    background-color: #fff;
-    width: 252px;
-    height: 300px;
-    border: black 2px solid;
-    top: 10%;
-    position: absolute;
-}
-
-.project-02 {
-    background-color: #fff;
-    width: 253px;
-    height: 300px;
-    border: black 2px solid;
-    top: 25%;
-    left: 30%;
-    position: absolute;
-}
