@@ -30,6 +30,10 @@
     padding: 10px 14px;
 }
 
+.image-content {
+    row-gap: 5px;
+}
+
 .card-image {
     position: relative;
     height: 150px;
