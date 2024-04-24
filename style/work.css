@@ -8,12 +8,19 @@
     background-color: rgb(255, 255, 255);
 }
 
+.card {
+    border-radius: 25px;
+    background-color: #ffffff;
+    border: 2px solid #dadada;
+
+}
+
 .card-image {
     position: relative;
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    background: #fff;
+    background: #ffffff;
 }
 
 .card-image .card-img {
