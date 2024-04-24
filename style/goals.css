@@ -4,21 +4,21 @@
     height: 200%;
     background-color: rgb(255, 255, 255);
     z-index: 1;
-   
-    top: 400%;
+
+    top: 600%;
 }
 
 .goals-h1 {
     color: #cfcfcf;
- font-family: "Limelight", sans-serif;
- font-weight: 50;
- font-style: normal;
- font-size: 350%;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 350%;
 
- position: absolute;
- top: 10%;
- left: 10%;
- letter-spacing: 1vw;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    letter-spacing: 1vw;
 }
 
 .goals-line-1 {
@@ -36,7 +36,7 @@
     position: absolute;
     left: 10%;
     top: 18%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
@@ -49,7 +49,7 @@
     position: absolute;
     left: 25%;
     top: 21.5%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -62,7 +62,7 @@
     position: absolute;
     left: 42%;
     top: 21.5%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
@@ -75,7 +75,7 @@
     position: absolute;
     left: 10%;
     top: 48%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
@@ -88,7 +88,7 @@
     position: absolute;
     left: 25%;
     top: 51.5%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -101,7 +101,7 @@
     position: absolute;
     left: 42%;
     top: 51.5%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
@@ -124,7 +124,7 @@
     position: absolute;
     left: 10%;
     top: 78%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
@@ -137,7 +137,7 @@
     position: absolute;
     left: 25%;
     top: 81%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -150,7 +150,7 @@
     position: absolute;
     left: 42%;
     top: 81%;
-   
+
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
