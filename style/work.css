@@ -16,7 +16,14 @@
     border-radius: 25px;
     background-color: #ffffff;
     border: 2px solid #dadada;
+}
 
+.image-content,
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 14px;
 }
 
 .card-image {
