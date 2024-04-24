@@ -33,6 +33,7 @@
 .image-content {
     position: relative;
     row-gap: 5px;
+    padding: 25px 0;
 }
 
 .overlay {
