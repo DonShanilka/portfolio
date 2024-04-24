@@ -8,6 +8,10 @@
     background-color: rgb(255, 255, 255);
 }
 
+.slide-content {
+    margin: 0 40px;
+}
+
 .card {
     border-radius: 25px;
     background-color: #ffffff;
