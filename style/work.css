@@ -13,6 +13,10 @@
 }
 
 .card {
+    top: 35%;
+    left: 43%;
+    position: absolute;
+    width: 320px;
     border-radius: 25px;
     background-color: #ffffff;
     border: 2px solid #dadada;
