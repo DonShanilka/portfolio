@@ -61,3 +61,13 @@
     color: #707070;
     text-align: center;
 }
+
+.button {
+    border: none;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 8px 16px;
+    background-color: #0B009A;
+    border-radius: 6px;
+    margin: 14px;
+}
