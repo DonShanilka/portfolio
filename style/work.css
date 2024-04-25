@@ -38,3 +38,25 @@
 .gallery::-webkit-scrollbar {
     display: none;
 }
+
+.gallery-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10% auto;
+    z-index: 2;
+}
+
+#backBtn {
+    position: absolute;
+    left: 20%;
+    top: 43%;
+    cursor: pointer;
+}
+
+#nextBtn {
+    position: absolute;
+    left: 85%;
+    top: 43%;
+    cursor: pointer;
+}
