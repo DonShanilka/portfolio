@@ -12,3 +12,21 @@
     width: 200px;
     height: 250px;
 }
+
+.gallery {
+    width: 900px;
+    display: flex;
+}
+
+.gallery .gallery-div {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+    padding: 10px;
+}
+
+.gallery .gallery-div .card-img {
+    width: 100%;
+
+}
