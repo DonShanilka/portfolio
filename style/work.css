@@ -7,3 +7,8 @@
     justify-content: center;
     background-color: rgb(255, 255, 255);
 }
+
+.card-img {
+    width: 200px;
+    height: 250px;
+}
