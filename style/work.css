@@ -16,6 +16,9 @@
 .gallery {
     width: 900px;
     display: flex;
+    top: 30%;
+    position: absolute;
+    overflow-x: scroll;
 }
 
 .gallery .gallery-div {
@@ -24,9 +27,9 @@
     grid-template-columns: auto auto auto;
     grid-gap: 20px;
     padding: 10px;
+    flex: none;
 }
 
 .gallery .gallery-div .card-img {
     width: 100%;
-
 }
