@@ -17,6 +17,7 @@
     width: 900px;
     display: flex;
     top: 30%;
+    height: 450px;
     position: absolute;
     overflow-x: scroll;
 }
@@ -32,4 +33,8 @@
 
 .gallery .gallery-div .card-img {
     width: 100%;
+}
+
+.gallery::-webkit-scrollbar {
+    display: none;
 }
