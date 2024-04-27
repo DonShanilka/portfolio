@@ -12,6 +12,9 @@
     width: 20px;
     height: 150px;
     border-radius: 50%;
+    position: relative;
+    left: 63px;
+    top: 20px;
 }
 
 .gallery {
@@ -21,6 +24,7 @@
     height: 450px;
     position: absolute;
     overflow-x: scroll;
+    background-color: brown;
 }
 
 .gallery .gallery-div {
@@ -71,5 +75,8 @@
 }
 
 .project1 {
-    border: 2px black solid;
+    border: 3px rgb(206, 206, 206) solid;
+    border-radius: 5%;
+    width: 100%;
+    height: 100%;
 }
