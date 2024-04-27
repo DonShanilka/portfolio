@@ -15,6 +15,7 @@
     position: relative;
     left: 63px;
     top: 20px;
+    border: 3px #0B009A solid;
 }
 
 .gallery {
@@ -74,9 +75,15 @@
     transform: scale(1.1);
 }
 
-.project1 {
+.project {
     border: 3px rgb(206, 206, 206) solid;
     border-radius: 5%;
-    width: 100%;
+    width: 280px;
     height: 100%;
+    
+}
+
+.project-para {  
+    text-align: center;
+    font-size: 15px;
 }
