@@ -25,7 +25,7 @@
     height: 450px;
     position: absolute;
     overflow-x: scroll;
-    background-color: brown;
+    background-color: rgb(255, 255, 255);
 }
 
 .gallery .gallery-div {
@@ -76,7 +76,7 @@
 }
 
 .project {
-    border: 3px rgb(206, 206, 206) solid;
+    border: 3px rgb(226, 226, 226) solid;
     border-radius: 5%;
     width: 280px;
     height: 100%;
@@ -85,5 +85,19 @@
 
 .project-para {  
     text-align: center;
-    font-size: 15px;
+    font-size: 12px;
+    position: relative;
+    left: 10px;
+    right: 10px;
+    top: 80px;
+}
+
+.project-btn {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #1d59ff;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: 10%;
 }
