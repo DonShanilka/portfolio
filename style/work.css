@@ -21,9 +21,10 @@
 .gallery {
     width: 1400px;
     display: flex;
-    top: 30%;
     height: 450px;
     position: absolute;
+    top: 30%;
+    left: 8%;
     overflow-x: scroll;
     background-color: rgb(11, 11, 11);
 }
@@ -94,11 +95,12 @@
 
 .project-btn {
     height: 30px;
-    width: 100px;
+    width: 150px;
     border-radius: 2px;
     border: #1d59ff 1px solid;
     background-color: #1d59ff;
     color: rgb(255, 255, 255);
-    position: absolute;
-    bottom: 10%;
+    position: relative;
+    top: 150px;
+    left: 130px;
 }
