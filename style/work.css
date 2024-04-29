@@ -58,8 +58,8 @@
 
 #backBtn {
     position: absolute;
-    left: 20%;
-    top: 43%;
+    left: 4%;
+    top: 62%;
     cursor: pointer;
     z-index: 5;
 
@@ -67,8 +67,8 @@
 
 #nextBtn {
     position: absolute;
-    left: 85%;
-    top: 43%;
+    right: 5.5%;
+    top: 62%;
     cursor: pointer;
     z-index: 5;
 }
@@ -126,7 +126,7 @@
     text-align: center;
 
     position: absolute;
-    left: 36%;
+    left: 35.5%;
     top: 18%;
 }
 
@@ -139,7 +139,7 @@
     font-size: 100%;
 
     position: absolute;
-    left: 11%;
+    left: 10.5%;
     top: 25%;
     text-align: center;
 }
