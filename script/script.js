@@ -6,7 +6,6 @@ text.innerHTML = text.innerText.split("").map(
     `<span style="transform:rotate(${i * 9.6}deg)">${char}</span>`
 ).join("");
 
-
 // project page scrool js
 let scrollContainer = document.querySelector(".gallery");
 let backBtn = document.getElementById("backBtn");
