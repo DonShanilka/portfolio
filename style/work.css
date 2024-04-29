@@ -25,7 +25,7 @@
     height: 450px;
     position: absolute;
     overflow-x: scroll;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(11, 11, 11);
 }
 
 .gallery .gallery-div {
@@ -59,6 +59,7 @@
     left: 20%;
     top: 43%;
     cursor: pointer;
+    z-index: 5;
 
 }
 
@@ -67,6 +68,7 @@
     left: 85%;
     top: 43%;
     cursor: pointer;
+    z-index: 5;
 }
 
 .gallery .gallery-div .card-img:hover {
@@ -78,17 +80,15 @@
 .project {
     border: 3px rgb(226, 226, 226) solid;
     border-radius: 5%;
-    width: 410px;
+    width: 430px;
     height: 100%;
     
 }
 
 .project-para {  
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     position: relative;
-    left: 10px;
-    right: 10px;
     top: 80px;
 }
 
