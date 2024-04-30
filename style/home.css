@@ -134,20 +134,6 @@ nav {
   animation-timeline: view(200% 500%); */
 /* } */
 
-@keyframes fade-in {
-  from {
-    scale: .8;
-    opacity: 0;
-
-  }
-
-  to {
-    scale: 1;
-    opacity: 1;
-    background-color: #0000006b;
-  }
-}
-
 
 .full-name {
   color: #000000;
