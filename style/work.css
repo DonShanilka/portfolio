@@ -99,6 +99,14 @@
     z-index: 5;
 }
 
+#nextBtn-assingment {
+    position: absolute;
+    right: 5.5%;
+    top: 150%;
+    cursor: pointer;
+    z-index: 5; 
+}
+
 .gallery .gallery-div .card-img:hover {
     filter: grayscale(0);
     cursor: pointer;
