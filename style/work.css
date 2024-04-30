@@ -83,6 +83,14 @@
 
 }
 
+#backBtn-assingment {
+    position: absolute;
+    left: 4%;
+    top: 150%;
+    cursor: pointer;
+    z-index: 5;
+}
+
 #nextBtn {
     position: absolute;
     right: 5.5%;
