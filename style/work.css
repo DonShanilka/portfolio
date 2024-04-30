@@ -198,6 +198,20 @@
     text-align: center;
 }
 
+.assignment-para {
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 100%;
+
+    position: absolute;
+    left: 18%;
+    top: 117%;
+    text-align: center;
+}
+
 #work {
     color: #ffffff;
 }
