@@ -179,13 +179,6 @@
     border-radius: 50%;
 }
 
-.gray-div {
-    position: absolute;
-    width: 20%;
-    height: 100%;
-    left: 0%;
-    background-color: rgba(214, 214, 214, 0.705);
-}
 
 /* Hire me button css */
 .btn-hire {
