@@ -140,29 +140,13 @@ nav {
   font-style: normal;
   font-size: 250%;
 
-  left: 18%;
+  left: 15%;
   letter-spacing: 0.3vw;
   position: absolute;
   top: 26%;
 }
 
-.full-name>::first-letter {
-  color: #00ffaa;
-}
 
-.im {
-  color: #000000;
-  font-family: "Lexend Zetta", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: bolder;
-  font-style: normal;
-  font-size: 150%;
-
-  position: absolute;
-  left: 5%;
-  letter-spacing: 1vw;
-  top: 16%;
-}
 
 .main-line {
   background-color: #000000;
