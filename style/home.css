@@ -122,17 +122,14 @@ nav {
   animation-range-end: 100%;
 }
 
-/* .div-1 {
+.div-1 {
   background-color: #ffffffab;
   position: absolute;
   height: 90%;
   width: 27%;
   top: 0%;
   left: 60%;
-
-  animation: fade-in linear;
-  animation-timeline: view(200% 500%); */
-/* } */
+}
 
 
 .full-name {
