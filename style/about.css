@@ -20,7 +20,7 @@
     text-align: center;
     position: absolute;
     top: 15%;
-    left: 42.5%;
+    left: 42%;
 }
 
 .about-header {
@@ -40,12 +40,12 @@
 .about-p {
     color: #000000;
     position: absolute;
-    left: 19%;
+    left: 14%;
     top: 66%;
     text-align: center;
-    font-family: "Lexend Giga", sans-serif;
+    font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
-    font-weight: weight;
+    font-weight: normal;
     font-style: normal;
     font-size: 100%;
     z-index: 2;
@@ -171,11 +171,18 @@
     width: 10%;
     height: 20%;
     position: absolute;
-    left: 45%;
-    top: 30%;
-    border: 5px solid rgb(0, 0, 0);
+    left: 44%;
+    top: 35%;
+    border: 4px solid rgb(214, 214, 214);
     z-index: 1;
     border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    transition-duration: 3s;
+}
+
+.about-image-03:hover {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    transform: scale(1.1);
 }
 
 
