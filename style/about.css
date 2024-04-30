@@ -11,16 +11,15 @@
 }
 
 .about-me {
-    color: #000000;
-    font-family: "Limelight", sans-serif;
-    font-weight: 50;
+    color: #0B009A;
+    font-weight: bolder;
     font-style: normal;
-    font-size: 250%;
+    font-size: 20px;
 
     position: absolute;
-    top: 14%;
-    left: 9%;
-    letter-spacing: 1vw;
+    top: 20%;
+    left: 36%;
+    letter-spacing: 0.5vw;
 
 }
 
@@ -178,10 +177,6 @@
     border: 5px solid rgb(0, 0, 0);
     z-index: 1;
     border-radius: 50%;
-    animation: fade-in linear;
-    animation-timeline: view(0% 50%);
-    /* animation-range-start: 10%;
-    animation-range-end: 50%; */
 }
 
 .gray-div {
