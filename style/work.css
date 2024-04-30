@@ -83,7 +83,7 @@
 
 }
 
-#backBtn-assingment {
+#backBtnA {
     position: absolute;
     left: 4%;
     top: 150%;
@@ -99,7 +99,7 @@
     z-index: 5;
 }
 
-#nextBtn-assingment {
+#nextBtnA {
     position: absolute;
     right: 5.5%;
     top: 150%;

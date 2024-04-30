@@ -20,3 +20,18 @@ backBtn.addEventListener("click", () => {
   scrollContainer.style.scrollBehavior = "smooth";
   scrollContainer.scrollLeft += -1390;
 });
+
+// assingment page scroll js
+let scroll = document.querySelector(".assignment");
+let backBtnA = document.getElementById("backBtnA");
+let nextBtnA = document.getElementById("nextBtnA");
+
+nextBtnA.addEventListener("click", () => {
+  scroll.style.scrollBehavior = "smooth";
+  scroll.scrollLeft += 1400;
+});
+
+backBtnA.addEventListener("click", () => {
+  scroll.style.scrollBehavior = "smooth";
+  scroll.scrollLeft += -1391;
+});
