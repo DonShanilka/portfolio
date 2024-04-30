@@ -156,6 +156,15 @@
     background-color: #0B009A;
 }
 
+.project-name {
+    position: relative;
+    left: 112px;
+    top: 32px;
+    color: #000000;
+    font-size: larger;
+    font-weight: bolder;
+}
+
 .h1 {
     color: #0B009A;
     font-family: "Lexend Zetta", sans-serif;
