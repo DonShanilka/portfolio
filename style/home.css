@@ -146,14 +146,12 @@ nav {
   top: 26%;
 }
 
-
-
 .main-line {
   background-color: #000000;
   width: 4%;
   height: 0.6%;
   position: absolute;
-  left: 18.4%;
+  left: 15.4%;
   top: 41%;
 }
 
@@ -166,46 +164,10 @@ nav {
   font-size: 100%;
 
   position: absolute;
-  left: 18.3%;
+  left: 15.3%;
   top: 45%;
 }
 
-.introduce-div>h1 {
-  color: #cccccc;
-  font-family: "Lexend Zetta", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: bolder;
-  font-style: normal;
-  font-size: 500%;
-
-  position: absolute;
-  left: 4%;
-  top: 26.5%;
-}
-
-.introduce-div>div {
-  position: absolute;
-  width: 0.1%;
-  height: 15%;
-  background-color: #000000;
-
-  top: 41%;
-  left: 8%;
-}
-
-.introduce-div>p {
-  color: #000000;
-  font-family: "Lexend Zetta", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: bolder;
-  font-style: normal;
-  font-size: 80%;
-
-  position: absolute;
-  left: 4.5%;
-  top: 67%;
-  transform: rotate(-90deg);
-}
 
 .homeBody>button {
   --b: 4px;
