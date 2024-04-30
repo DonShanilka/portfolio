@@ -165,12 +165,11 @@ nav {
 
   position: absolute;
   left: 15.3%;
-  top: 45%;
+  top: 47%;
 }
 
-
 .homeBody>button {
-  --b: 4px;
+  --b: 2.5px;
   --s: .45em;
   --color: #000000;
 
@@ -190,14 +189,11 @@ nav {
   -webkit-user-select: none;
   touch-action: manipulation;
 
-  top: 75%;
-  left: 18.5%;
+  top: 72%;
+  left: 15.5%;
   position: absolute;
-
-  font-family: "Audiowide", sans-serif;
-  font-style: normal;
   font-weight: bolder;
-  font-size: smaller;
+  font-size: small;
   letter-spacing: 0.1vw;
   height: 6%;
 }
@@ -218,7 +214,6 @@ nav {
   position: relative;
   width: 180px;
   height: 180px;
-  /* background-color: #00ffaa; */
   border-radius: 50%;
   top: 84.5%;
   left: 86.5%;
