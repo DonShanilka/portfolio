@@ -147,15 +147,6 @@
   transform: translateY(0);
 }
 
-#main-line {
-  background-color: black;
-  width: 0.1%;
-  height: 60%;
-  position: absolute;
-  left: 42%;
-  top: 18%;
-}
-
 .contact-gray-rect {
   position: absolute;
   top: 10%;
