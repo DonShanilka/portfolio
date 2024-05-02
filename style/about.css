@@ -309,3 +309,23 @@
 .download-cv:not(:disabled):active {
   transform: translateY(.125rem);
 }
+
+.platform-1,
+.platform-2, 
+.platform-2 {
+    background-color: rgb(232, 250, 255);
+    border-radius: 10%;
+    position: absolute;
+    width: 2.5%;
+    height: 3.3%;
+    rotate: 45deg;
+    top: 60%;
+    left: 22%;
+    animation: scale 1s ease alternate-reverse infinite;
+}
+
+@keyframes scale {
+    to {
+        transform: scale(1.3);
+    }
+}
