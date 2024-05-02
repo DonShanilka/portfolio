@@ -16,7 +16,6 @@
     left: 150px;
     top: 20px;
     border: 3px #0B009A solid;
-    
 }
 
 .ass-img {
@@ -86,7 +85,6 @@
     top: 62%;
     cursor: pointer;
     z-index: 5;
-
 }
 
 #backBtnA {
@@ -205,7 +203,6 @@
     font-weight: normal;
     font-style: normal;
     font-size: 100%;
-
     position: absolute;
     left: 10.5%;
     top: 25%;
