@@ -28,25 +28,27 @@
 }
 
 .contact-details>p:nth-child(1){
-    color: rgb(255, 0, 0);
+    color: #0B009A;
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
     font-size: 150%;
+    z-index: 10;
 }
 
 .contact-details>p:nth-child(4){
-    color: rgb(255, 0, 0);
+    color: #0B009A;
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
     font-size: 150%;
+    z-index: 5;
 }
 
 .contact-details>p:nth-child(7){
-    color: rgb(255, 0, 0);
+    color: #0B009A;
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -152,4 +154,13 @@
   position: absolute;
   left: 42%;
   top: 18%;
+}
+
+.contact-gray-rect {
+  position: absolute;
+  top: 10%;
+  left: 45%;
+  width: 50%;
+  height: 70%;
+  background-color: #ffffffcf;
 }
