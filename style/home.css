@@ -69,7 +69,7 @@ nav {
   margin: auto;
   height: 2px;
   width: 40%;
-  background: rgb(255, 0, 0);
+  background: rgb(0, 98, 255);
   transform: scaleX(0);
   transform-origin: right;
   transition: transform .6s linear;
