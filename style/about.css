@@ -334,6 +334,17 @@
     animation: scale 1s ease alternate-reverse infinite;
 }
 
+.platform-3 {
+    background-color: rgb(232, 250, 255);
+    border-radius: 10%;
+    position: absolute;
+    width: 2.5%;
+    height: 3.3%;
+    rotate: 45deg;
+    top: 60%;
+    left: 22%;
+    animation: scale 1s ease alternate-reverse infinite;
+}
 
 
 @keyframes scale {
