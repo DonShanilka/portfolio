@@ -27,7 +27,7 @@
     color: #000000;
     position: absolute;
     left: 14%;
-    top: 60%;
+    top: 58%;
     text-align: center;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
@@ -317,7 +317,7 @@
     width: 2.5%;
     height: 4.7%;
     rotate: 45deg;
-    top: 90%;
+    top: 86%;
     left: 22%;
     animation: scale 1s ease alternate-reverse infinite;
 }
@@ -329,7 +329,7 @@
     width: 2.5%;
     height: 4.7%;   
     rotate: 45deg;
-    top: 90%;
+    top: 86%;
     left: 48.5%;
     animation: scale 1s ease alternate-reverse infinite;
 }
@@ -341,7 +341,7 @@
     width: 2.5%;
     height: 4.7%;
     rotate: 45deg;
-    top: 90%;
+    top: 86%;
     left: 75%;
     animation: scale 1s ease alternate-reverse infinite;
 }
