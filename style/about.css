@@ -23,13 +23,11 @@
     left: 42%;
 }
 
-
-
 .about-p {
     color: #000000;
     position: absolute;
     left: 14%;
-    top: 66%;
+    top: 60%;
     text-align: center;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
@@ -201,7 +199,7 @@
   touch-action: manipulation;
 
   position: absolute;
-  top: 80%;
+  top: 72%;
   left: 40%;
   width: 160px;
   height: 51px;
@@ -272,7 +270,7 @@
   touch-action: manipulation;
 
   position: absolute;
-  top: 80%;
+  top: 72%;
   left: 50%;
   width: 160px;
   height: 50px;
