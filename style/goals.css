@@ -21,16 +21,6 @@
     letter-spacing: 1vw;
 }
 
-.goals-line-1 {
-    position: absolute;
-    width: 58%;
-    height: 0.2%;
-    background-color: #000000;
-
-    top: 20%;
-    left: 25%;
-}
-
 .goals-main-rect>div>:nth-child(1) {
     color: #000000;
     position: absolute;
@@ -109,16 +99,6 @@
     font-size: 100%;
 }
 
-.goals-line-2 {
-    position: absolute;
-    width: 58%;
-    height: 0.3%;
-    background-color: #000000;
-
-    top: 50%;
-    left: 25%;
-}
-
 .goals-main-rect>div>:nth-child(7) {
     color: #000000;
     position: absolute;
@@ -156,14 +136,4 @@
     font-weight: weight;
     font-style: normal;
     font-size: 100%;
-}
-
-.goals-line-3 {
-    position: absolute;
-    width: 58%;
-    height: 0.3%;
-    background-color: #000000;
-
-    top: 80%;
-    left: 25%;
 }
