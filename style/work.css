@@ -19,6 +19,12 @@
     
 }
 
+.ass-img {
+    position: relative;
+    left: 180px;
+    top: 40px;
+}
+
 .gallery {
     width: 1400px;
     display: flex;
