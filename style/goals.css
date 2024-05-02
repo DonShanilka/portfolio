@@ -24,20 +24,45 @@
 
 .goals-main-rect>div>:nth-child(1) {
     color: #000000;
-    position: absolute;
-    left: 25%;
-    top: 21.5%;
+    text-align: center;
+    position: relative;
+    top: 240px;
 }
 
 .goals-main-rect>div>:nth-child(2) {
-    color: #000000;
     position: absolute;
-    left: 25%;
-    top: 21.5%;
+    top: 35%;
+    left: 18%;
+    right: 18%;
+    text-align: center;
+}
 
-    font-family: "Lexend Giga", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: bolder;
-    font-style: normal;
-    font-size: 130%;
+.goals-main-rect>div>:nth-child(3) {
+    color: #000000;
+    text-align: center;
+    position: relative;
+    top: 380px;
+}
+
+.goals-main-rect>div>:nth-child(4) {
+    position: absolute;
+    top: 55%;
+    left: 18%;
+    right: 18%;
+    text-align: center;
+}
+
+.goals-main-rect>div>:nth-child(5) {
+    color: #000000;
+    text-align: center;
+    position: relative;
+    top: 530px;
+}
+
+.goals-main-rect>div>:nth-child(6) {
+    position: absolute;
+    top: 76%;
+    left: 18%;
+    right: 18%;
+    text-align: center;
 }
