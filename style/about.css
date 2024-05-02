@@ -315,9 +315,9 @@
     border-radius: 10%;
     position: absolute;
     width: 2.5%;
-    height: 3.3%;
+    height: 4.7%;
     rotate: 45deg;
-    top: 60%;
+    top: 90%;
     left: 22%;
     animation: scale 1s ease alternate-reverse infinite;
 }
@@ -327,10 +327,10 @@
     border-radius: 10%;
     position: absolute;
     width: 2.5%;
-    height: 3.3%;
+    height: 4.7%;   
     rotate: 45deg;
-    top: 60%;
-    left: 22%;
+    top: 90%;
+    left: 48.5%;
     animation: scale 1s ease alternate-reverse infinite;
 }
 
@@ -339,10 +339,10 @@
     border-radius: 10%;
     position: absolute;
     width: 2.5%;
-    height: 3.3%;
+    height: 4.7%;
     rotate: 45deg;
-    top: 60%;
-    left: 22%;
+    top: 90%;
+    left: 75%;
     animation: scale 1s ease alternate-reverse infinite;
 }
 
