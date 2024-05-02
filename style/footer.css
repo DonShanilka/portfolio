@@ -8,8 +8,20 @@
 }
 
 .overview {
-    color: black;
+    color: #0B009A;
     text-align: center;
     position: relative;
     top: 5%;
+}
+
+.footer-nav {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+
+.a{
+    position: relative;
+    top: 10%;
+    color: black;
 }
