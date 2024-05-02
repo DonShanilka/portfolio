@@ -17,11 +17,18 @@
 .footer-nav {
     position: absolute;
     top: 25%;
-    left: 40%;
+    left: 39.3%;
 }
 
 .a{
     position: relative;
     top: 10%;
     color: black;
+}
+
+.Copyright {
+    position: relative;
+    text-align: center;
+    top: 70%;
+    color: rgb(106, 106, 106);
 }
