@@ -35,10 +35,6 @@
     font-style: normal;
     font-size: 100%;
     z-index: 2;
-
-    /* animation */
-    animation: fade linear both;
-    animation-timeline: view();
   }
 
 /* .about-name {
@@ -348,6 +344,8 @@
     top: 86%;
     left: 75%;
     animation: scale 1s ease alternate-reverse infinite;
+
+    
 }
 
 
@@ -357,25 +355,3 @@
     }
 }
 
-@keyframes fade {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 0;
-  }
-  0% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 1;
-    transform: translate();
-  }
-}
-
-@keyframes cssScrollReveal {
-  
-}
