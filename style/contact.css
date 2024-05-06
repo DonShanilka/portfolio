@@ -28,7 +28,7 @@
 }
 
 .contact-details>p:nth-child(1){
-    color: #FFD700;
+    color: #0000ff;
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -38,7 +38,7 @@
 }
 
 .contact-details>p:nth-child(4){
-    color: #ffd700;
+    color: #0000ff;
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -48,7 +48,7 @@
 }
 
 .contact-details>p:nth-child(7){
-    color: #FFD700;
+    color: #0000ff;
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bolder;
@@ -102,8 +102,8 @@
 
 #button {
     align-items: center;
-    background-color: #ffd700;
-    border: 2px solid #ffd700;
+    background-color: #0000ff;
+    border: 2px solid #0000ff;
     box-sizing: border-box;
     color: #fff;
     cursor: pointer;
@@ -137,15 +137,15 @@
   }
   
   #button:hover {
-    background-color: #e2c000;
-    border-color: #e2c000;
-    fill: #e2c000;
+    background-color: #0000ff;
+    border-color: #0000ff;
+    fill: #0000ff;
   }
   
   #button:active {
-    background-color: #e2c000;
-    border-color: #e2c000;
-    fill: #e2c000;
+    background-color: #0000ff;
+    border-color: #0000ff;
+    fill: #0000ff;
   }
   
   @media (min-width: 768px) {

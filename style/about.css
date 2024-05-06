@@ -11,7 +11,7 @@
 }
 
 .about-me {
-    color: #ffd700 ;
+    color: #0000ff ;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -176,7 +176,7 @@
 
 .Hire-btn {
   backface-visibility: hidden;
-  background: #ffd700 ;
+  background: #0000ff;
   border: 0;
   border-radius: .375rem;
   box-sizing: border-box;
@@ -312,7 +312,7 @@
 
 .platform-1 {
     background-color: rgb(255, 255, 255);
-    border: #ffd700 1px solid;
+    border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
     width: 2.5%;
@@ -325,7 +325,7 @@
 
 .platform-2 {
     background-color: rgb(255, 255, 255);
-    border: #ffd700 1px solid;
+    border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
     width: 2.5%;
@@ -338,7 +338,7 @@
 
 .platform-3 {
     background-color: rgb(255, 255, 255);
-    border: #ffd700 1px solid;
+    border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
     width: 2.5%;
