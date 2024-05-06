@@ -15,7 +15,7 @@
     position: relative;
     left: 150px;
     top: 20px;
-    border: 3px #0B009A solid;
+    border: 3px #ffd700 solid;
 }
 
 .ass-img {
@@ -147,8 +147,8 @@
     height: 30px;
     width: 150px;
     border-radius: 2px;
-    border: #1d59ff 1px solid;
-    background-color: #1d59ff;
+    border: #ffd700 1px solid;
+    background-color: #ffd700;
     color: rgb(255, 255, 255);
     position: relative;
     top: 150px;
@@ -157,7 +157,7 @@
 }
 
 .project-btn:hover {
-    background-color: #0B009A;
+    background-color: #ffd700;
 }
 
 .project-name {
@@ -169,7 +169,7 @@
 }
 
 .h1 {
-    color: #0B009A;
+    color: #ffd700;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -183,7 +183,7 @@
 }
 
 .assignment-head {
-    color: #0B009A;
+    color: #ffd700;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
