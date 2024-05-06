@@ -240,6 +240,27 @@ nav {
   transform-origin: 0 90px;
 }
 
+.blue-div {
+  /* background-color: #ffffff; */
+  border: #000000 2px solid;
+  position: absolute;
+  top: 89%;
+  left: 86.6%;
+  width: 90px;
+  height: 90px;
+  animation: rotate2 35s infinite linear;
+}
+
+@keyframes rotate2 {
+  0% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+
+  100% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+}
+
 @keyframes rotate {
   0% {
     transform: translate(-50%, -50%) rotate(0deg);
