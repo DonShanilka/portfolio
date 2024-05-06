@@ -270,3 +270,20 @@ nav {
     transform: translate(-50%, -50%) rotate(360deg);
   }
 }
+
+.home__scroll {
+  display: block;
+  width: max-content;
+  margin: 0 auto;
+}
+
+.home__scroll-text {
+  display: none;
+}
+
+.home__scroll_box {
+  background-color: #0000;
+  color: var(--white-color);
+  width: 36px;
+  height: 36px;
+}
