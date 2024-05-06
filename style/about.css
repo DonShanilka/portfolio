@@ -11,7 +11,7 @@
 }
 
 .about-me {
-    color: #0B009A;
+    color: #FFD700;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -176,7 +176,7 @@
 
 .Hire-btn {
   backface-visibility: hidden;
-  background: #332cf2;
+  background: #FFD700;
   border: 0;
   border-radius: .375rem;
   box-sizing: border-box;
