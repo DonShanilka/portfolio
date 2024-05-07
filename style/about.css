@@ -433,7 +433,7 @@
   position: absolute;
   top: 70%;
   left: 50%;
-  width: 90px;
+  width: 103px;
   height: 20px;
 }
 
@@ -487,8 +487,22 @@
 .fiver-name {
   position: absolute;
   top: 93%; 
-  left: 10%;  
-  font-size: 20px;
+  left: 12%;  
+  font-size: 10px;
+}
+
+.upwork-name {
+  top: 93%;
+  left: 43%; 
+  position: absolute; 
+  font-size: 10px;
+}
+
+.toptal {
+  top: 93%; 
+  left: 75%; 
+  position: absolute; 
+  font-size: 10px;
 }
 
 .platform-2 {
