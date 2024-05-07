@@ -295,7 +295,7 @@
     color: #000000;
     position: absolute;
     left: 14%;
-    top: 58%;
+    top: 53%;
     text-align: center;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
@@ -360,8 +360,8 @@
 
   position: absolute;
   top: 70%;
-  left: 20%;
-  width: 80px;
+  left: 15%;
+  width: 103px;
   height: 20px;
 }
 
@@ -432,7 +432,7 @@
 
   position: absolute;
   top: 70%;
-  left: 50%;
+  right: 15%;
   width: 103px;
   height: 20px;
 }
