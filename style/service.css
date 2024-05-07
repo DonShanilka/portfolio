@@ -290,7 +290,7 @@
         font-weight: 500;
         position: absolute;
         left: 5%;
-        top: 67%;
+        top: 80%;
     }
     
     .mobile-para,
@@ -298,7 +298,7 @@
     .web-para {
         position: absolute;
         left: 5%;
-        top: 45%;
+        top: 50%;
         font-size: 10px;
     }
     
@@ -307,7 +307,7 @@
     .uiux {
         position: absolute;
         left: 5%;
-        top: 32%;
+        top: 36%;
         color: #000000;
         font-size: 13px;
         font-weight: bolder;
