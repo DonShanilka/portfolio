@@ -479,6 +479,10 @@ nav {
     display: none;
   }
   
+  .home-page-img>img {
+    display: none;
+  }
+
   @keyframes rotate2 {
     0% {
       transform: translate(-50%, -50%) rotate(360deg);
@@ -503,6 +507,12 @@ nav {
     display: block;
     width: max-content;
     margin: 0 auto;
+    position: absolute;
+    top: 0;
+    bottom: 1%;
+    right: 10%;
+    left: 0;
+    margin: auto;
   }
   
   .home__scroll-text {
