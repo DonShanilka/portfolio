@@ -28,7 +28,7 @@
     font-weight: normal;
     font-style: normal;
     font-size: 100%;
-
+    text-align: center;
     position: absolute;
     left: 25%;
     top: 16%;
@@ -203,6 +203,8 @@
     }
 }
 
+
+/* 320px media quary add */
 @media (max-width:320px) {
     .service-main-div {
         position: absolute;
@@ -219,11 +221,10 @@
         font-optical-sizing: auto;
         font-weight: bold;
         font-style: normal;
-        font-size: 200%;
+        font-size: 100%;
         text-align: center;
-    
         position: absolute;
-        left: 37%;
+        left: 17%;
         top: 10%;
     }
     
@@ -233,8 +234,8 @@
         font-optical-sizing: auto;
         font-weight: normal;
         font-style: normal;
-        font-size: 100%;
-    
+        font-size: 55%;
+        text-align: center;
         position: absolute;
         left: 25%;
         top: 16%;
