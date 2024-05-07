@@ -322,12 +322,12 @@
     }
     
     .project-div {
-        font-size: 100%;
-        font-weight: 500;
+        font-size: 60%;
+        font-weight: 300;
         position: absolute;
-        top: 60%;
+        top: 80%;
         left: 26%;
-        
+        display: none;
     }
     
     .cliebt-div {
@@ -336,7 +336,7 @@
         position: absolute;
         top: 60%;
         left: 41%;
-        
+        display: none;
     }
     
     .country-div {
@@ -345,7 +345,7 @@
         position: absolute;
         top: 60%;
         left: 55%;
-        
+        display: none;
     }
     
     .ideas-div {
@@ -354,7 +354,7 @@
         position: absolute;
         top: 60%;
         left: 67%;
-    
+        display: none;
     }
     
     .blue-rect-1 {
