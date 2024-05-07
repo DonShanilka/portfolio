@@ -246,14 +246,16 @@
     top: 86%;
     left: 75%;
     animation: scale 1s ease alternate-reverse infinite;
-
-    
 }
 
 @keyframes scale {
     to {
         transform: scale(1.3);
     }
+}
+
+.fiver-name{
+  top: 93%; left: 21.7%; position: absolute; font-size: large;
 }
 
 
@@ -472,6 +474,13 @@
     top: 86%;
     left: 12%;
     animation: scale 1s ease alternate-reverse infinite;
+}
+
+.fiver-name {
+  position: absolute;
+  top: 93%; 
+  left: 10%;  
+  font-size: 20px;
 }
 
 .platform-2 {
