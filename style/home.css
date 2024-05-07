@@ -317,3 +317,232 @@ nav {
     opacity: 0;
   }
 }
+
+
+
+/* Media Quary Mobile 320px */
+@media (max-width: 320px) {
+  .homeBody {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .homepage-img {
+    height: 70%;
+    width: 80%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  
+  .div-1 {
+    background-color: #ffffffc2;
+    height: 70%;
+    width: 80%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  
+  
+  .full-name {
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 100%;
+    letter-spacing: 0.3vw;
+    text-align: center;
+    z-index: 2;
+    top: 320px;
+  }
+  
+  .main-line {
+    background-color: #0000ff;
+    width: 4%;
+    height: 0.6%;
+    position: absolute;
+    left: 15.4%;
+    top: 41%;
+    display: none;
+  }
+  
+  .home-page-para {
+    color: #000000;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 55%;
+    right: 45px;
+    top: 380px;
+    text-align: center;
+    z-index: 2;
+  }
+  
+  .homeBody>button {
+    --b: 2.5px;
+    --s: .45em;
+    --color: #000000;
+  
+    padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+    color: var(--color);
+    --_p: var(--s);
+    background:
+      conic-gradient(from 90deg at var(--b) var(--b), #0000 90deg, var(--color) 0) var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+    transition: .3s linear, color 0s, background-color 0s;
+    outline: var(--b) solid #0000;
+    outline-offset: .6em;
+    font-size: 8px;
+    border: 0;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  
+    position: absolute;
+    top: 62%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    margin: auto;
+
+    font-weight: bolder;
+    font-size: small;
+    height: 6%;
+
+    z-index: 3;
+  }
+  
+  .homeBody>button:hover,
+  .homeBody>button:focus-visible {
+    --_p: 0px;
+    outline-color: var(--color);
+    outline-offset: .05em;
+  }
+  
+  .homeBody>button:active {
+    background: var(--color);
+    color: #ffffff;
+  }
+  
+  .circle-2024 {
+    position: relative;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    top: 84.5%;
+    left: 86.5%;
+    animation: rotate 35s infinite linear;
+  }
+  
+  .circle-2024>div>p {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  
+    color: #0000ff;
+    font-family: "Lexend Zetta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 80%;
+    display: none;
+  }
+  
+  .text span {
+    position: absolute;
+    left: 50%;
+    font-size: 1.2em;
+    transform-origin: 0 90px;
+
+    display: none;
+  }
+  
+  .blue-div {
+    /* background-color: #ffffff; */
+    border: #000000 2px solid;
+    position: absolute;
+    top: 89%;
+    left: 86.6%;
+    width: 90px;
+    height: 90px;
+    animation: rotate2 35s infinite linear;
+
+    display: none;
+  }
+  
+  @keyframes rotate2 {
+    0% {
+      transform: translate(-50%, -50%) rotate(360deg);
+    }
+  
+    100% {
+      transform: translate(-50%, -50%) rotate(0deg);
+    }
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: translate(-50%, -50%) rotate(0deg);
+    }
+  
+    100% {
+      transform: translate(-50%, -50%) rotate(360deg);
+    }
+  }
+  
+  .home__scroll {
+    display: block;
+    width: max-content;
+    margin: 0 auto;
+  }
+  
+  .home__scroll-text {
+    display: none;
+  }
+  
+  .home__scroll-box {
+    background-color: black;
+    color: var(--white-color);
+    width: 36px;
+    height: 36px;
+    display: grid;
+    place-items: center;
+    font-size: 1rem;
+    cursor: pointer;
+    overflow: hidden;
+    transition: background-color .4s;
+    transform: rotate(90deg);
+  
+    position: absolute;
+    top: 95%;
+    left: 0.5%;
+  }
+  
+  .ri-arrow-down-s-line {
+    animation: scroll-down 3s infinite;
+  }
+  
+  @keyframes scroll-down {
+    0% {
+      transform: translateX(-1rem);
+      opacity: 0;
+    }
+    50% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+    100% {
+      transform: translateX(.6rem);
+      opacity: 0;
+    }
+  }
+}

@@ -35,3 +35,14 @@ backBtnA.addEventListener("click", () => {
   scroll.style.scrollBehavior = "smooth";
   scroll.scrollLeft += -1391;
 });
+
+
+// Scroll Reveal Animation
+const sr = ScrollReveal({
+  origin:'top',
+  distance: '60px',
+  duration: 2500,
+  delay: 400,
+})
+
+sr.reveal('.full-name, .home-page-para', {origin: 'bottom'})
