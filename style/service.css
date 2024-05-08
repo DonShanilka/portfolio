@@ -30,7 +30,8 @@
     font-size: 100%;
     text-align: center;
     position: absolute;
-    left: 25%;
+    left: 10%;
+    right: 10%;
     top: 16%;
 }
 
@@ -237,8 +238,9 @@
         font-size: 55%;
         text-align: center;
         position: absolute;
-        left: 0%;
-        top: 16%;
+        left: 5%;
+        right: 5%;
+        top: 13%;
     }
     
     .mobile-app-rect {
