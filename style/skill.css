@@ -342,77 +342,92 @@
     }
     
     .skill-13 {
-        top: 114%; 
-        left: 58%;
+        top: 106%; 
+        left: 18%;
     }
     
     .skill-14 {
-        top: 114%; 
-        left: 68%;
+        top: 106%; 
+        left: 41%;
     }
     
     .skill-15 {
-        top: 114%; 
-        left: 78%;
+        top: 106%; 
+        left: 65%;
     }
 
     #name-java {
         position: absolute; top: 107%; left: 13.5%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-sql {
         position: absolute; top: 107%; left: 24%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-html {
         position: absolute; top: 107%; left: 33.5%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-css {
         position: absolute; top: 107%; left: 44%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-js {
         position: absolute; top: 107%; left: 52.5%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-boostrap {
         position: absolute; top: 120.5%; left: 17.7%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-react {
         position: absolute; top: 107%; left: 63.5%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-flutter {
         position: absolute; top: 107.3%; left: 73.2%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-sring {
         position: absolute; top: 120.6%; left: 28.3%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-springboot {
         position: absolute; top: 120.7%; left: 37%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-mongodb {
         position: absolute; top: 120.6%; left: 47.3%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-nodeJs {
         position: absolute; top: 120.6%; left: 58%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-typeScript {
         position: absolute; top: 107.5%; left: 82.3%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-expressJs {
         position: absolute; top: 120.6%; left: 67.3%; color: #000; font-size: 120%;
+        display: none;
     }
 
     #name-jQuery {
         position: absolute; top: 120.6%; left: 78.4%; color: #000; font-size: 120%;
+        display: none;
     }
 }
