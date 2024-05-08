@@ -137,11 +137,13 @@
 }
 
 .skill-14 {
-    
+    top: 114%; 
+    left: 68%;
 }
 
 .skill-15 {
-    
+    top: 114%; 
+    left: 78%;
 }
 
 @media (max-width: 320px) {
