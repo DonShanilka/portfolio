@@ -146,6 +146,66 @@
     left: 78%;
 }
 
+#name-java {
+    position: absolute; top: 107%; left: 13.5%; color: #000; font-size: 120%;
+}
+
+#name-sql {
+    position: absolute; top: 107%; left: 24%; color: #000; font-size: 120%;
+}
+
+#name-html {
+    position: absolute; top: 107%; left: 33.5%; color: #000; font-size: 120%;
+}
+
+#name-css {
+    position: absolute; top: 107%; left: 44%; color: #000; font-size: 120%;
+}
+
+#name-js {
+    position: absolute; top: 107%; left: 52.5%; color: #000; font-size: 120%;
+}
+
+#name-boostrap {
+    position: absolute; top: 120.5%; left: 17.7%; color: #000; font-size: 120%;
+}
+
+#name-react {
+    position: absolute; top: 107%; left: 63.5%; color: #000; font-size: 120%;
+}
+
+#name-flutter {
+    position: absolute; top: 107.3%; left: 73.2%; color: #000; font-size: 120%;
+}
+
+#name-sring {
+    position: absolute; top: 120.6%; left: 28.3%; color: #000; font-size: 120%;
+}
+
+#name-springboot {
+    position: absolute; top: 120.7%; left: 37%; color: #000; font-size: 120%;
+}
+
+#name-mongodb {
+    position: absolute; top: 120.6%; left: 47.3%; color: #000; font-size: 120%;
+}
+
+#name-nodeJs {
+    position: absolute; top: 120.6%; left: 58%; color: #000; font-size: 120%;
+}
+
+#name-typeScript {
+    position: absolute; top: 107.5%; left: 82.3%; color: #000; font-size: 120%;
+}
+
+#name-expressJs {
+    position: absolute; top: 120.6%; left: 67.3%; color: #000; font-size: 120%;
+}
+
+#name-jQuery {
+    position: absolute; top: 120.6%; left: 78.4%; color: #000; font-size: 120%;
+}
+
 @media (max-width: 320px) {
     .skill-h1 {
         color: #0B009A;
@@ -296,7 +356,63 @@
         left: 78%;
     }
 
-    #skill-name {
-        display: none;
+    #name-java {
+        position: absolute; top: 107%; left: 13.5%; color: #000; font-size: 120%;
+    }
+
+    #name-sql {
+        position: absolute; top: 107%; left: 24%; color: #000; font-size: 120%;
+    }
+
+    #name-html {
+        position: absolute; top: 107%; left: 33.5%; color: #000; font-size: 120%;
+    }
+
+    #name-css {
+        position: absolute; top: 107%; left: 44%; color: #000; font-size: 120%;
+    }
+
+    #name-js {
+        position: absolute; top: 107%; left: 52.5%; color: #000; font-size: 120%;
+    }
+
+    #name-boostrap {
+        position: absolute; top: 120.5%; left: 17.7%; color: #000; font-size: 120%;
+    }
+
+    #name-react {
+        position: absolute; top: 107%; left: 63.5%; color: #000; font-size: 120%;
+    }
+
+    #name-flutter {
+        position: absolute; top: 107.3%; left: 73.2%; color: #000; font-size: 120%;
+    }
+
+    #name-sring {
+        position: absolute; top: 120.6%; left: 28.3%; color: #000; font-size: 120%;
+    }
+
+    #name-springboot {
+        position: absolute; top: 120.7%; left: 37%; color: #000; font-size: 120%;
+    }
+
+    #name-mongodb {
+        position: absolute; top: 120.6%; left: 47.3%; color: #000; font-size: 120%;
+    }
+
+    #name-nodeJs {
+        position: absolute; top: 120.6%; left: 58%; color: #000; font-size: 120%;
+    }
+
+    #name-typeScript {
+        position: absolute; top: 107.5%; left: 82.3%; color: #000; font-size: 120%;
+    }
+
+    #name-expressJs {
+        position: absolute; top: 120.6%; left: 67.3%; color: #000; font-size: 120%;
+    }
+
+    #name-jQuery {
+        position: absolute; top: 120.6%; left: 78.4%; color: #000; font-size: 120%;
     }
 }
