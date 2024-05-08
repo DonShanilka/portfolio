@@ -339,6 +339,7 @@
         top: 62%;
         cursor: pointer;
         z-index: 5;
+        display: none;
     }
     
     #backBtnA {
@@ -347,6 +348,7 @@
         top: 160%;
         cursor: pointer;
         z-index: 5;
+        display: none;
     }
     
     #nextBtn {
@@ -355,6 +357,7 @@
         top: 62%;
         cursor: pointer;
         z-index: 5;
+        display: none;
     }
     
     #nextBtnA {
@@ -363,6 +366,7 @@
         top: 160%;
         cursor: pointer;
         z-index: 5; 
+        display: none;
     }
     
     .gallery .gallery-div .card-img:hover {
@@ -380,10 +384,10 @@
     .project {
         border: #e9e9e963 3px solid;
         border-radius: 5%;
-        width: 430px;
-        height: 100%;
+        width: 60%;
+        height: 70%;
         transition-duration: 3s;    
-        
+        display: flex;
     }
     
     .project:hover {
@@ -486,21 +490,22 @@
     
     /* Assignment */
     .assignment-main-div {
-        display: flex;
+        /* display: flex;
         align-items: center;
         justify-content: center;
         margin: 10% auto;
-        z-index: 2;
+        z-index: 2; */
     }
     
     .assignment {
-        width: 1400px;
+        /* width: 100%;
         display: flex;
-        height: 450px;
+        height: 1400px;
         position: absolute;
         top: 135%;
         left: 8%;
         overflow-x: scroll;
-        background-color: rgb(255, 255, 255);
+        background-color: rgb(255, 0, 0);
+        display: none; */
     }
 }
