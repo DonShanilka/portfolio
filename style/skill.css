@@ -70,3 +70,78 @@
     transform: scale(1.2);
     transition-duration: 2s;
 }
+
+@media (max-width: 320px) {
+    .skill-h1 {
+        color: #0B009A;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 200%;
+        text-align: center;
+    
+        position: absolute;
+        left: 44.5%;
+        top: 80%;
+    }
+    
+    .skill-para {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 100%;
+    
+        position: absolute;
+        left: 18%;
+        top: 85%;
+    }
+    
+    .skill-1,
+    .skill-2,
+    .skill-3,
+    .skill-4,
+    .skill-5,
+    .skill-6,
+    .skill-7,
+    .skill-8,
+    .skill-9,
+    .skill-10,
+    .skill-11,
+    .skill-12,
+    .skill-13,
+    .skill-14,
+    .skill-15 {
+        background-color: rgb(255, 255, 255);
+        border-radius: 10%;
+        width: 4%;
+        height: 5.4%;
+        rotate: 45deg;
+        position: absolute;
+        box-shadow: rgba(172, 172, 172, 0.2) 0px 2px 8px 0px;
+    
+    }
+    
+    .skill-1:hover,
+    .skill-2:hover,
+    .skill-3:hover,
+    .skill-4:hover,
+    .skill-5:hover,
+    .skill-6:hover,
+    .skill-7:hover,
+    .skill-8:hover,
+    .skill-9:hover,
+    .skill-10:hover,
+    .skill-11:hover,
+    .skill-12:hover,
+    .skill-13:hover,
+    .skill-14:hover,
+    .skill-15:hover {
+        box-shadow: rgba(80, 80, 80, 0.2) 0px 2px 8px 0px;
+        background-color: rgb(255, 255, 255);
+        transform: scale(1.2);
+        transition-duration: 2s;
+    }
+}
