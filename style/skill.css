@@ -295,4 +295,8 @@
         top: 114%; 
         left: 78%;
     }
+
+    #skill-name {
+        display: none;
+    }
 }
