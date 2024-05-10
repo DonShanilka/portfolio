@@ -24,17 +24,6 @@
     top: 40px;
 }
 
-.gallery {
-    width: 1400px;
-    display: flex;
-    height: 450px;
-    position: absolute;
-    top: 38%;
-    left: 8%;
-    overflow-x: scroll;
-    background-color: rgb(255, 255, 255);
-}
-
 .gallery .gallery-div {
     width: 100%;
     display: grid;
@@ -51,6 +40,18 @@
     grid-gap: 20px;
     padding: 10px;
     flex: none;
+}
+
+.gallery {
+    width: 1400px;
+    display: flex;
+    height: 450px;
+    position: absolute;
+    top: 38%;
+    left: 8%;
+    overflow-x: scroll;
+    background-color: rgb(255, 255, 255);
+    /*overflow: hidden;*/
 }
 
 .gallery .gallery-div .card-img {
