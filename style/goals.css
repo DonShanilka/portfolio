@@ -1,0 +1,69 @@
+.goals-main-rect {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+
+    top: 600%;
+}
+
+.goals-h1 {
+    color: #cfcfcf;
+    font-family: "Limelight", sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 350%;
+
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    letter-spacing: 1vw;
+}
+
+
+.goals-main-rect>div>:nth-child(1) {
+    color: #000000;
+    text-align: center;
+    position: relative;
+    top: 240px;
+}
+
+.goals-main-rect>div>:nth-child(2) {
+    position: absolute;
+    top: 35%;
+    left: 18%;
+    right: 18%;
+    text-align: center;
+}
+
+.goals-main-rect>div>:nth-child(3) {
+    color: #000000;
+    text-align: center;
+    position: relative;
+    top: 380px;
+}
+
+.goals-main-rect>div>:nth-child(4) {
+    position: absolute;
+    top: 55%;
+    left: 18%;
+    right: 18%;
+    text-align: center;
+}
+
+.goals-main-rect>div>:nth-child(5) {
+    color: #000000;
+    text-align: center;
+    position: relative;
+    top: 530px;
+}
+
+.goals-main-rect>div>:nth-child(6) {
+    position: absolute;
+    top: 76%;
+    left: 18%;
+    right: 18%;
+    text-align: center;
+
+}
