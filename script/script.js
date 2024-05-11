@@ -39,10 +39,11 @@ backBtnA.addEventListener("click", () => {
 
 // Scroll Reveal Animation
 const sr = ScrollReveal({
-  origin:'top',
+  origin: 'top',
   distance: '60px',
   duration: 2500,
   delay: 400,
 })
 
-sr.reveal('.full-name, .home-page-para', {origin: 'bottom'})
+sr.reveal('.full-name, .home-page-para', { origin: 'bottom' });
+
