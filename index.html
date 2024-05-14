@@ -24,6 +24,12 @@
     <link rel="stylesheet" href="/style/skill.css">
     <link rel="stylesheet" href="/style/contact.css">
     <link rel="stylesheet" href="/style/footer.css">
+    <link rel="stylesheet" href="/style/assignment.css">
+
+    <!-- AOS Css Link -->
+    <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
+
+    <link rel="stylesheet" href="/style/aos.css">
 
 </head>
 
@@ -435,10 +441,10 @@
 
     <!-- ***************************** work section *********************************-->
     <section>
-        <div class="work-main-div">
+        <div id="work" class="work-main-div">
 
             <div>
-                <h1 id="work">My Project </h1>
+                <h1 class="work">My Project </h1>
 
                 <p class="para">The individual showcases a diverse portfolio of projects, showcasing their expertise in
                     web design, Mobile app development, demonstrating their dedication to delivering high-quality
@@ -447,20 +453,18 @@
 
             </div>
             
-                <div class="container">
+                
+            <div data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">
 
-                    <div data-aos="fade-right"
-                        data-aos-offset="300"
-                        data-aos-easing="ease-in-sine">
-                        <img src="assests/image/project-01.jpg" alt="" class="card-img" style="width: 120px; height: 120px; border-radius: 50%;">
+                <img src="assests/image/project-01.jpg" alt="" class="card-img" style="width: 120px; height: 120px; border-radius: 50%;">
                         <h2 class="project-name" style="position: relative; left: 145px;">Project Mega</h2>  
                         <p class="project-para">The JavaFX Supercenter Management System is a user-friendly software solution designed to enhance retail supercenter operations and efficiency, utilizing JavaFX for <br> user interface and functionality.</p>     
                         <button class="project-btn" onclick="location.href='https://github.com/DonShanilka/Final-Project_Second_impl-main'">View More 
                         </button>
-                    </div>
+            </div>
 
-                  
-              
 
                   <!-- Project 02 -->
                   <div class="timeline-item">
@@ -542,92 +546,9 @@
                     
             <!--assignment header-->
 
-<section>
-            <h1 class="assignment-head">My Assignment</h1>
-            <p class="assignment-para">The portfolio showcases proficiency, commitment to excellence, and continuous
-                <br> improvement across various disciplines, blending imagination <br> and craftsmanship in a narrative.
-            </p>
+    <section>
+        <div class="assignment-main-div">
 
-            <!--assignment section-->
-
-            <div class="assignment-main-div">
-                
-
-                <div class="assignment">
-                    <div class="gallery-div">
-            <span>
-                <div class="project ass-1">
-                    <img src="assests/image/icons8-assignment-50.png" alt="" class="ass-img"
-                         style="width: 50px; height: 60px;">
-                    <h2 class="project-name" style="position: relative; left: 140px; top: 50px;">Assignment 01</h2>
-                    <p class="project-para">The JavaFX Supercenter Management System is a 
-                     user-friendly software solution designed to enhance retail supercenter operations and efficiency, utilizing JavaFX for <br> user interface and functionality.</p>     
-                    <button class="project-btn"
-                            onclick="location.href='https://github.com/DonShanilka/Final-Project_Second_impl-main'">View More</button>
-                </div>
-            </span>
-                        <span>
-                <div class="project ass-2">
-                    <img src="assests/image/icons8-assignment-50.png" alt="" class="ass-img"
-                         style="width: 50px; height: 60px;">
-                    <h2 class="project-name" style="position: relative; left: 140px; top: 50px;">Assignment 02</h2>               
-                    <p class="project-para">The Wilma Restaurant Food POS System is a user-friendly <br> 
-                        software that integrates with hardware components, <br> 
-                        allowing restaurant staff to input orders, <br> 
-                         send directly to the kitchen.</p>     
-                    <button class="project-btn"
-                            onclick="location.href='https://github.com/DonShanilka/Boostrap_pos_system'">View More</button>
-                </div>
-            </span>
-                        <span>
-                <div class="project ass-3">
-                    <img src="assests/image/icons8-assignment-50.png" alt="" class="ass-img"
-                         style="width: 50px; height: 60px;">
-                    <h2 class="project-name" style="position: relative; left: 140px; top: 50px;">Assignment 03</h2>  
-                    <p class="project-para">The Figma UI design for the restaurant POS system is crafted <br> to offer a visually appealing and user-friendly interface <br> tailored specifically for restaurant staff. <br> Here's a design.</p>     
-                    <button class="project-btn"
-                            onclick="location.href='https://www.figma.com/file/F3TQHQsckzqABylzuPST7x/Untitled?type=design&mode=design&t=2blpFZuxiXvNYtIB-1'">View More</button>
-                </div>
-            </span>
-                    </div>
-
-                    <div class="gallery-div">
-            <span>
-                <div class="project ass-4">
-                    <img src="assests/image/icons8-assignment-50.png" alt="" class="ass-img"
-                         style="width: 50px; height: 60px;">
-                    <h2 class="project-name" style="position: relative; left: 140px; top: 50px;">Assignment 04</h2>
-                    <p class="project-para">The Grilli Restaurant website is a user-friendly platform with features like online booking, menu showcase, search <br> functionality, and user reviews, enhancing the <br> dining experience across various devices.</p>     
-                    <button class="project-btn"
-                            onclick="location.href='https://github.com/DonShanilka/Grilli_Restaurant'">View More</button>
-                </div>
-            </span>
-                        <span>
-                <div class="project ass-5">
-                    <img src="assests/image/icons8-assignment-50.png" alt="" class="ass-img"
-                         style="width: 50px; height: 60px;">
-                    <h2 class="project-name" style="position: relative; left: 140px; top: 50px;">Assignment 05</h2>              
-                    <p class="project-para">Figma portfolio UI is a user-friendly interface that showcases a designer's work and skills, offering interactive elements, <br> project pages, and contact information <br> for engagement.</p>     
-                    <button class="project-btn"
-                            onclick="location.href='https://www.figma.com/file/PBh6sbSBL4B8AborXndX6l/Untitled?type=design&node-id=0%3A1&mode=design&t=VPQRplO3cwr7x1ay-1'">View More</button>
-                </div>
-            </span>
-                        <span>
-                <div class="project ass-6">
-                    <img src="assests/image/icons8-assignment-50.png" alt="" class="ass-img"
-                         style="width: 50px; height: 60px;">
-                    <h2 class="project-name" style="position: relative; left: 140px; top: 50px;">Assignment 06</h2>              
-                    <p class="project-para">The Computer Shop System in including user authentication, product tracking, inventory tracking, POS system, <br> customer management, analytics, supplier <br> management, and user interface.</p>     
-                    <button class="project-btn" onclick="location.href='https://github.com/DonShanilka/chamaComputers'">View More</button>
-                </div>
-            </span>
-                    </div>
-
-                </div>
-
-            </div>
-
-            </div>
         </div>
     </section>
 
@@ -694,6 +615,8 @@
     </footer>
 
     <!-- Link js file -->
+    
+    <script src="./script/aos.js"></script>  
     <script src="./script/scrollreveal.min.js"></script>
     <script src="./script/script.js"></script>
 
