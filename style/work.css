@@ -24,3 +24,23 @@
     right: 20%;
     top: 6%;
 }
+
+.project-01 {
+    width: 20%;
+    height: 25%;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    background-color: rgb(236, 236, 236);
+    z-index: 3;
+}
+
+.project-02 {
+    width: 20%;
+    height: 25%;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    background-color: rgb(236, 236, 236);
+    z-index: 3;
+}
