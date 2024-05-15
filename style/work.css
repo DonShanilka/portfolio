@@ -119,11 +119,21 @@
     top: 65%;
     left: 5%;
     border: #f0f0f0;
-    color: #000000;
+    color: #0B009A;
     font-size: medium;
     font-weight: bold;
 }
 
 .project-btn:hover {
-    color: #0B009A;
+    color: #000000;
+}
+
+.blie-rect-01 {
+    position: absolute;
+    top: 21.5%;
+    left: 33.5%;
+    height: 3%;
+    width: 3%;
+    background-color: #0B009A;
+    z-index: 3;
 }
