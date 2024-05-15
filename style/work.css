@@ -44,9 +44,8 @@
     height: 25%;
     position: absolute;
     top: 23%;
-    left: 10%;
-    border: #e6e6e6 3px solid;
-    border-radius: 5%;
+    left: 15%;
+    background-color: #f0f0f0;
     z-index: 3;
 }
 
@@ -56,8 +55,7 @@
     position: absolute;
     top: 23%;
     left: 40%;
-    border: #e6e6e6 3px solid;
-    border-radius: 5%;
+    background-color: #f0f0f0;
     z-index: 3;
 }
 
@@ -66,9 +64,8 @@
     height: 25%;
     position: absolute;
     top: 23%;
-    left: 70%;
-    border: #e6e6e6 3px solid;
-    border-radius: 5%;
+    left: 65%;
+    background-color: #f0f0f0;
     z-index: 3;
 }
 
@@ -77,9 +74,8 @@
     height: 25%;
     position: absolute;
     top: 55%;
-    left: 10%;
-    border: #e6e6e6 3px solid;
-    border-radius: 5%;
+    left: 15%;
+    background-color: #f0f0f0;
     z-index: 3;
 }
 
@@ -89,8 +85,7 @@
     position: absolute;
     top: 55%;
     left: 40%;
-    border: #e6e6e6 3px solid;
-    border-radius: 5%;
+    background-color: #f0f0f0;
     z-index: 3;
 }
 
@@ -99,23 +94,36 @@
     height: 25%;
     position: absolute;
     top: 55%;
-    left: 70%;
-    border: #e6e6e6 3px solid;
-    border-radius: 5%;
+    left: 65%;
+    background-color: #f0f0f0;
     z-index: 3;
 }
 
 .project-name {
     color: #000000;
     position: absolute;
-    top: 20%;
+    top: 25%;
     left: 5%;
 }
 
 .project-para {
     position: absolute;
-    top: 30%;
+    top: 37%;
     left: 5%;
     right: 5%;
     font-size: small;
+}
+
+.project-btn {
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    border: #f0f0f0;
+    color: #000000;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.project-btn:hover {
+    color: #0B009A;
 }
