@@ -29,7 +29,7 @@
     width: 20%;
     height: 25%;
     position: absolute;
-    top: 20%;
+    top: 23%;
     left: 10%;
     background-color: rgb(236, 236, 236);
     z-index: 3;
@@ -39,7 +39,7 @@
     width: 20%;
     height: 25%;
     position: absolute;
-    top: 20%;
+    top: 23%;
     left: 40%;
     background-color: rgb(236, 236, 236);
     z-index: 3;
@@ -60,7 +60,17 @@
     height: 25%;
     position: absolute;
     top: 55%;
-    left: 70%;
+    left: 10%;
+    background-color: rgb(236, 236, 236);
+    z-index: 3;
+}
+
+.project-05 {
+    width: 20%;
+    height: 25%;
+    position: absolute;
+    top: 55%;
+    left: 40%;
     background-color: rgb(236, 236, 236);
     z-index: 3;
 }
