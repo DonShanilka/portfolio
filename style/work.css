@@ -137,3 +137,13 @@
     background-color: #0B009A;
     z-index: 3;
 }
+
+.blie-rect-02 {
+    position: absolute;
+    top: 21.5%;
+    left: 58.5%;
+    height: 3%;
+    width: 3%;
+    background-color: #0B009A;
+    z-index: 3;
+}
