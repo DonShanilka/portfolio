@@ -1,8 +1,93 @@
 .assignment-main-div {
- background-color: rgb(166, 166, 216);
+ background-color: #eeeeee2c;
  position: absolute;
  width: 100%;
- height: 200%;
- top: 600%;
+ height: 150%;
+ top: 540%;
  z-index: 2;
+}
+
+.ass-01,
+.ass-02,
+.ass-03,
+.ass-04,
+.ass-05,
+.ass-06 {
+ width: 200px;
+ height: 140px;
+ background-color: rgb(58, 58, 58);
+ position: absolute;
+ margin: auto;
+ transform: rotate(90deg);
+}
+
+.ass-01::before,
+.ass-02::before,
+.ass-03::before,
+.ass-04::before,
+.ass-05::before,
+.ass-06::before {
+ content: '';
+ position: absolute;
+ top: -48.6px;
+ width: 0;
+ left: 0;
+ height: 0;
+ border-left: 100px solid transparent;
+ border-right: 100px solid transparent;
+ border-bottom: 50px solid rgb(58, 58, 58);
+}
+
+.ass-01::after,
+.ass-02::after,
+.ass-03::after,
+.ass-04::after,
+.ass-05::after,
+.ass-06::after {
+ content: '';
+ position: absolute;
+ bottom: -48.6px;
+ left: 0;
+ width: 0;
+ height: 0;
+ border-left: 100px solid transparent;
+ border-right: 100px solid transparent;
+ border-top: 50px solid rgb(58, 58, 58);
+}
+
+.ass-01 {
+ position: absolute;
+ top: 49.5%;
+ left: 19%;
+}
+
+.ass-02 {
+ position: absolute;
+ top: 57.6%;
+ left: 31%;
+}
+
+.ass-03 {
+ position: absolute;
+ top: 66%;
+ left: 43%;
+ align-items: center;
+}
+
+.ass-04 {
+ position: absolute;
+ top: 58%;
+ left: 55%;
+}
+
+.ass-05 {
+ position: absolute;
+ top: 50%;
+ left: 67%;
+}
+
+.ass-06 {
+ position: absolute;
+ top: 49%;
+ left: 43%;
 }
