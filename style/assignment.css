@@ -91,3 +91,14 @@
  top: 49%;
  left: 43%;
 }
+
+.total-assignment {
+ border: rgba(0, 13, 93, 1) 5px solid;
+ position: absolute;
+ width: 80%;
+ height: 10%;
+ top: 95%;
+ left: 10%;
+ right: 10%;
+ z-index: 2;
+}
