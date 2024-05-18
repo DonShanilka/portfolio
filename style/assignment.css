@@ -94,6 +94,7 @@
 
 .total-assignment {
  border: rgba(0, 13, 93, 1) 5px solid;
+ border-radius: 10px;
  position: absolute;
  width: 80%;
  height: 10%;

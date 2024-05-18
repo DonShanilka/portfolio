@@ -45,7 +45,9 @@
     position: absolute;
     top: 23%;
     left: 15%;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
+    border: 5px #0B009A solid;
+    border-radius: 10px;
     z-index: 3;
 }
 
