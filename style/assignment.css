@@ -56,6 +56,15 @@
  left: 65%;
 }
 
+.line {
+ height: 100%;
+ width: 1%;
+ position: absolute;
+ left: 0%;
+ top: 0%;
+ background-color: #0059ff;
+}
+
 .total-assignment {
  /* border: rgba(0, 13, 93, 1) 5px solid;
  border-radius: 10px;
