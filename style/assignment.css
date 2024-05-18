@@ -74,6 +74,21 @@
  background-color: #07006d;
 }
 
+.ass-header {
+ position: absolute;
+ left: 16%;
+ top: 13%;
+ font-weight: bolder;
+}
+
+.ass-header>h1 {
+ color: black;
+}
+
+.ass-header>h3 {
+ color: #347bff;
+}
+
 .total-assignment {
  /* border: rgba(0, 13, 93, 1) 5px solid;
  border-radius: 10px;
