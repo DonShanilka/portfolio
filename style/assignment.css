@@ -13,87 +13,51 @@
 .ass-04,
 .ass-05,
 .ass-06 {
- width: 200px;
- height: 140px;
- background-color: rgb(58, 58, 58);
+ width: 400px;
+ height: 300px;
  position: absolute;
- margin: auto;
- transform: rotate(90deg);
-}
-
-.ass-01::before,
-.ass-02::before,
-.ass-03::before,
-.ass-04::before,
-.ass-05::before,
-.ass-06::before {
- content: '';
- position: absolute;
- top: -48.6px;
- width: 0;
- left: 0;
- height: 0;
- border-left: 100px solid transparent;
- border-right: 100px solid transparent;
- border-bottom: 50px solid rgb(58, 58, 58);
-}
-
-.ass-01::after,
-.ass-02::after,
-.ass-03::after,
-.ass-04::after,
-.ass-05::after,
-.ass-06::after {
- content: '';
- position: absolute;
- bottom: -48.6px;
- left: 0;
- width: 0;
- height: 0;
- border-left: 100px solid transparent;
- border-right: 100px solid transparent;
- border-top: 50px solid rgb(58, 58, 58);
+ background-color: rgb(236, 236, 236);
 }
 
 .ass-01 {
  position: absolute;
- top: 49.5%;
- left: 19%;
+ top: 45%;
+ left: 15%;
 }
 
 .ass-02 {
  position: absolute;
- top: 57.6%;
- left: 31%;
+ top: 45%;
+ left: 40%;
 }
 
 .ass-03 {
  position: absolute;
- top: 66%;
- left: 43%;
+ top: 45%;
+ left: 65%;
  align-items: center;
 }
 
 .ass-04 {
  position: absolute;
- top: 58%;
- left: 55%;
+ top: 70%;
+ left: 15%;
 }
 
 .ass-05 {
  position: absolute;
- top: 50%;
- left: 67%;
+ top: 70%;
+ left: 40%;
 }
 
 .ass-06 {
  position: absolute;
- top: 49%;
- left: 43%;
+ top: 70%;
+ left: 65%;
 }
 
 .total-assignment {
- border: rgba(0, 13, 93, 1) 5px solid;
+ /* border: rgba(0, 13, 93, 1) 5px solid;
  border-radius: 10px;
  position: absolute;
  width: 80%;
@@ -101,5 +65,5 @@
  top: 95%;
  left: 10%;
  right: 10%;
- z-index: 2;
+ z-index: 2; */
 }
