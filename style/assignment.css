@@ -74,6 +74,14 @@
  background-color: #07006d;
 }
 
+.rect>img {
+ width: 60%;
+ height: 70%;
+ position: absolute;
+ top: 16%;
+ left: 20%;
+}
+
 .ass-header {
  position: absolute;
  left: 16%;
