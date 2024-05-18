@@ -89,6 +89,13 @@
  color: #347bff;
 }
 
+.ass-para {
+ position: absolute;
+ top: 40%;
+ left: 16%;
+ right: 6%;
+}
+
 .total-assignment {
  /* border: rgba(0, 13, 93, 1) 5px solid;
  border-radius: 10px;
