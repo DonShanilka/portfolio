@@ -7,6 +7,23 @@
  z-index: 2;
 }
 
+.assignment-header {
+ color: #0B009A;
+ font-family: "Lexend Zetta", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: bold;
+ font-style: normal;
+ font-size: 200%;
+ text-align: center;
+
+ position: absolute;
+ text-align: center;
+ left: 22%;
+ right: 20%;
+ top: 35%;
+ z-index: 3;
+}
+
 .ass-01,
 .ass-02,
 .ass-03,
