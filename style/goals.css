@@ -7,6 +7,36 @@
     top: 700%;
 }
 
+.goal-01 {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    top: 40%;
+    left: 8%;
+    border: #0B009A 4px solid;
+    border-radius: 20px;
+}
+
+.goal-02 {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    top: 40%;
+    left: 38%;
+    border: #0B009A 4px solid;
+    border-radius: 20px;
+}
+
+.goal-03 {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    top: 40%;
+    left: 68%;
+    border: #0B009A 4px solid;
+    border-radius: 20px;
+}
+
 .goals-h1 {
     color: #cfcfcf;
     font-family: "Limelight", sans-serif;
@@ -23,17 +53,19 @@
 
 .goals-main-rect>div>:nth-child(1) {
     color: #000000;
+    background-color: white;
+    position: absolute;
+    top: -3%;
+    left: 5%;
+    width: 70%;
     text-align: center;
-    position: relative;
-    top: 240px;
 }
 
 .goals-main-rect>div>:nth-child(2) {
     position: absolute;
-    top: 35%;
-    left: 18%;
-    right: 18%;
-    text-align: center;
+    top: 18%;
+    left: 5%;
+    right: 4%;
 }
 
 .goals-main-rect>div>:nth-child(3) {
