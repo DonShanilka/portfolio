@@ -56,7 +56,7 @@
     rotate: 45deg;
     position: absolute;
     box-shadow: rgba(172, 172, 172, 0.2) 0px 2px 8px 0px;
-
+    transition-duration: 2s;
 }
 
 .skill-1:hover,

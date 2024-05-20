@@ -44,6 +44,7 @@
     position: absolute;
     top: 28%;
     left: 16%;
+    transition-duration: 3s;
 }
 
 .web-rect {
@@ -55,6 +56,7 @@
     position: absolute;
     top: 28%;
     left: 40%;
+    transition-duration: 3s;
 }
 
 .ui-rect {
@@ -66,6 +68,7 @@
     position: absolute;
     top: 28%;
     left: 64%;
+    transition-duration: 3s;
 }
 
 .mobile-app-rect:hover,
@@ -120,7 +123,7 @@
     position: absolute;
     top: 60%;
     left: 26%;
-    
+
 }
 
 .cliebt-div {
@@ -129,7 +132,7 @@
     position: absolute;
     top: 60%;
     left: 41%;
-    
+
 }
 
 .country-div {
@@ -138,7 +141,7 @@
     position: absolute;
     top: 60%;
     left: 55%;
-    
+
 }
 
 .ideas-div {
@@ -215,7 +218,7 @@
         z-index: 1;
         top: 200%;
     }
-    
+
     .parahead {
         color: #0B009A;
         font-family: "Lexend Zetta", sans-serif;
@@ -228,7 +231,7 @@
         left: 17%;
         top: 10%;
     }
-    
+
     .service-para {
         color: #000000;
         font-family: "Lexend Zetta", sans-serif;
@@ -242,7 +245,7 @@
         right: 5%;
         top: 13%;
     }
-    
+
     .mobile-app-rect {
         background-color: rgb(255, 255, 255);
         border: #e9e9e963 3px solid;
@@ -253,7 +256,7 @@
         top: 22%;
         left: 20%;
     }
-    
+
     .web-rect {
         background-color: rgb(255, 255, 255);
         border: #e9e9e963 3px solid;
@@ -264,7 +267,7 @@
         top: 37%;
         left: 20%;
     }
-    
+
     .ui-rect {
         background-color: rgb(255, 255, 255);
         border: #e9e9e963 3px solid;
@@ -275,7 +278,7 @@
         top: 52%;
         left: 20%;
     }
-    
+
     .mobile-app-rect:hover,
     .web-rect:hover,
     .ui-rect:hover {
@@ -283,7 +286,7 @@
         transform: scale(1.1);
         transition-duration: 3s;
     }
-    
+
     .ptoject-mobile,
     .project-web,
     .uiProject {
@@ -294,7 +297,7 @@
         left: 5%;
         top: 80%;
     }
-    
+
     .mobile-para,
     .uiux-para,
     .web-para {
@@ -303,7 +306,7 @@
         top: 50%;
         font-size: 10px;
     }
-    
+
     .Mad,
     .webD,
     .uiux {
@@ -314,7 +317,7 @@
         font-size: 13px;
         font-weight: bolder;
     }
-    
+
     .mobile-img,
     .web-img,
     .ui-img {
@@ -322,7 +325,7 @@
         left: 5%;
         top: 10%;
     }
-    
+
     .project-div {
         font-size: 60%;
         font-weight: 300;
@@ -331,7 +334,7 @@
         left: 26%;
         display: none;
     }
-    
+
     .cliebt-div {
         font-size: 100%;
         font-weight: 500;
@@ -340,7 +343,7 @@
         left: 41%;
         display: none;
     }
-    
+
     .country-div {
         font-size: 100%;
         font-weight: 500;
@@ -349,7 +352,7 @@
         left: 55%;
         display: none;
     }
-    
+
     .ideas-div {
         font-size: 100%;
         font-weight: 500;
@@ -358,7 +361,7 @@
         left: 67%;
         display: none;
     }
-    
+
     .blue-rect-1 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
@@ -371,7 +374,7 @@
         animation: scale 1s ease alternate-reverse infinite;
         display: none;
     }
-    
+
     .blue-rect-2 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
@@ -384,7 +387,7 @@
         animation: scale 1s ease alternate-reverse infinite;
         display: none;
     }
-    
+
     .blue-rect-3 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
@@ -397,7 +400,7 @@
         animation: scale 1s ease alternate-reverse infinite;
         display: none;
     }
-    
+
     .blue-rect-4 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
@@ -410,7 +413,7 @@
         animation: scale 1s ease alternate-reverse infinite;
         display: none;
     }
-    
+
     @keyframes scale {
         to {
             transform: scale(1.3);

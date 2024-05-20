@@ -49,6 +49,8 @@
     border: 5px #e0e0e0 solid;
     border-radius: 10px;
     z-index: 3;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition-duration: 1s;
 }
 
 .project-02 {
@@ -61,6 +63,8 @@
     border: 5px #e0e0e0 solid;
     border-radius: 10px;
     z-index: 3;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition-duration: 1s;
 }
 
 .project-03 {
@@ -73,6 +77,8 @@
     border: 5px #e0e0e0 solid;
     border-radius: 10px;
     z-index: 3;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition-duration: 1s;
 }
 
 .project-04 {
@@ -85,6 +91,8 @@
     border: 5px #e0e0e0 solid;
     border-radius: 10px;
     z-index: 3;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition-duration: 1s;
 }
 
 .project-05 {
@@ -97,6 +105,8 @@
     border: 5px #e0e0e0 solid;
     border-radius: 10px;
     z-index: 3;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition-duration: 1s;
 }
 
 .project-06 {
@@ -109,6 +119,18 @@
     border: 5px #e0e0e0 solid;
     border-radius: 10px;
     z-index: 3;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    transition-duration: 1s;
+}
+
+.project-01:hover,
+.project-02:hover,
+.project-03:hover,
+.project-04:hover,
+.project-05:hover,
+.project-06:hover {
+    border: 5px #0B009A solid;
+    box-shadow: rgba(0, 4, 255, 0.534) 0px 3px 6px, rgba(0, 26, 255, 0.514) 0px 3px 6px;
 }
 
 .project-name {
@@ -134,6 +156,7 @@
     color: #0B009A;
     font-size: medium;
     font-weight: bold;
+    transition-duration: 1s;
 }
 
 .project-btn:hover {

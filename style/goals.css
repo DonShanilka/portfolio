@@ -31,6 +31,7 @@
     left: 8%;
     border: #0B009A 4px solid;
     border-radius: 20px;
+    transition-duration: 2s;
 }
 
 .goal-02 {
@@ -41,6 +42,7 @@
     left: 38%;
     border: #0B009A 4px solid;
     border-radius: 20px;
+    transition-duration: 2s;
 }
 
 .goal-03 {
@@ -51,6 +53,8 @@
     left: 68%;
     border: #0B009A 4px solid;
     border-radius: 20px;
+    transition-duration: 2s;
+
 }
 
 .goals-h1 {
@@ -65,7 +69,6 @@
     left: 10%;
     letter-spacing: 1vw;
 }
-
 
 .goals-main-rect>div>:nth-child(1) {
     color: #000000;
@@ -84,33 +87,8 @@
     right: 4%;
 }
 
-.goals-main-rect>div>:nth-child(3) {
-    color: #000000;
-    text-align: center;
-    position: relative;
-    top: 380px;
-}
-
-.goals-main-rect>div>:nth-child(4) {
-    position: absolute;
-    top: 55%;
-    left: 18%;
-    right: 18%;
-    text-align: center;
-}
-
-.goals-main-rect>div>:nth-child(5) {
-    color: #000000;
-    text-align: center;
-    position: relative;
-    top: 530px;
-}
-
-.goals-main-rect>div>:nth-child(6) {
-    position: absolute;
-    top: 76%;
-    left: 18%;
-    right: 18%;
-    text-align: center;
-
+.goal-01:hover,
+.goal-02:hover,
+.goal-03:hover {
+    transform: translateY(-50px);
 }
