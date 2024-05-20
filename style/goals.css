@@ -92,3 +92,102 @@
 .goal-03:hover {
     transform: translateY(-50px);
 }
+
+
+/* Goals Page 320px media Quary */
+@media (max-width: 320px) {
+    .goals-main-rect {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(255, 255, 255);
+        z-index: 1;
+        top: 1040%;
+    }
+
+    .gols-header {
+        color: #0B009A;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 200%;
+        text-align: center;
+
+        position: absolute;
+        text-align: center;
+        left: 20%;
+        right: 20%;
+        top: 20%;
+    }
+
+    .goal-01 {
+        position: absolute;
+        width: 25%;
+        height: 50%;
+        top: 45%;
+        left: 8%;
+        border: #0B009A 4px solid;
+        border-radius: 20px;
+        transition-duration: 2s;
+    }
+
+    .goal-02 {
+        position: absolute;
+        width: 25%;
+        height: 50%;
+        top: 45%;
+        left: 38%;
+        border: #0B009A 4px solid;
+        border-radius: 20px;
+        transition-duration: 2s;
+    }
+
+    .goal-03 {
+        position: absolute;
+        width: 25%;
+        height: 50%;
+        top: 45%;
+        left: 68%;
+        border: #0B009A 4px solid;
+        border-radius: 20px;
+        transition-duration: 2s;
+
+    }
+
+    .goals-h1 {
+        color: #cfcfcf;
+        font-family: "Limelight", sans-serif;
+        font-weight: 50;
+        font-style: normal;
+        font-size: 350%;
+
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        letter-spacing: 1vw;
+    }
+
+    .goals-main-rect>div>:nth-child(1) {
+        color: #000000;
+        background-color: white;
+        position: absolute;
+        top: -3%;
+        left: 5%;
+        width: 70%;
+        text-align: center;
+    }
+
+    .goals-main-rect>div>:nth-child(2) {
+        position: absolute;
+        top: 18%;
+        left: 5%;
+        right: 4%;
+    }
+
+    .goal-01:hover,
+    .goal-02:hover,
+    .goal-03:hover {
+        transform: translateY(-50px);
+    }
+}
