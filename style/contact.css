@@ -10,7 +10,9 @@
   top: 15%;
   left: 30%;
   right: 0%;
-
+  width: 40%;
+  height: 40%;
+  position: absolute;
   margin: auto;
 }
 
@@ -170,15 +172,16 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    top: 1200%;
-    background-color: white;
+    top: 1300%;
+    background-color: rgb(255, 223, 223);
   }
 
   .world-img {
-    top: 15%;
-    left: 30%;
+    position: absolute;
+    top: 20%;
+    left: 0%;
     right: 0%;
-
+    width: 100%;
     margin: auto;
   }
 
@@ -188,7 +191,7 @@
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    font-size: 80%;
+    font-size: 60%;
 
     position: absolute;
     top: 40%;
@@ -201,8 +204,25 @@
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
-    font-size: 150%;
+    font-size: 120%;
     z-index: 10;
+    position: absolute;
+    left: -140%;
+    top: 130%;
+
+    display: none;
+  }
+
+  .address {
+    display: none;
+  }
+
+  .hours {
+    display: none;
+  }
+
+  .contact {
+    display: none;
   }
 
   .contact-details>p:nth-child(4) {
@@ -211,8 +231,13 @@
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
-    font-size: 150%;
+    font-size: 120%;
     z-index: 5;
+    position: absolute;
+    left: -90%;
+    top: 130%;
+
+    display: none;
   }
 
   .contact-details>p:nth-child(7) {
@@ -221,7 +246,12 @@
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
-    font-size: 150%;
+    font-size: 120%;
+    position: absolute;
+    left: 5%;
+    top: 130%;
+
+    display: none;
   }
 
   .header {
@@ -324,10 +354,10 @@
 
   .contact-gray-rect {
     position: absolute;
-    top: 10%;
-    left: 45%;
-    width: 50%;
+    top: 20%;
+    left: 0%;
+    width: 100%;
     height: 70%;
-    background-color: #ffffffcf;
+    background-color: #ffffffde;
   }
 }
