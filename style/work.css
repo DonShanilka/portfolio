@@ -182,8 +182,8 @@
 }
 
 
-/* 320px media quary  */
-@media (max-width: 320px) {
+/* ************************************ 375px media quary *****************************  */
+@media (max-width: 375px) {
     .work-main-div {
         position: absolute;
         width: 100%;
