@@ -310,10 +310,14 @@
 
  .ass-header>h1 {
   color: black;
+  font-size: 80%;
+
  }
 
  .ass-header>h3 {
   color: #347bff;
+  font-size: 80%;
+
  }
 
  .ass-para {
@@ -322,5 +326,6 @@
   left: 16%;
   right: 6%;
   text-align: left;
+  font-size: 60%;
  }
 }

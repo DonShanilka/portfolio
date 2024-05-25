@@ -140,7 +140,7 @@ nav {
   font-style: normal;
   font-size: 250%;
 
-  left: 15%;
+  left: 12%;
   letter-spacing: 0.3vw;
   position: absolute;
   top: 26%;
@@ -151,7 +151,7 @@ nav {
   width: 4%;
   height: 0.6%;
   position: absolute;
-  left: 15.4%;
+  left: 12.4%;
   top: 41%;
 }
 
@@ -164,7 +164,8 @@ nav {
   font-size: 100%;
 
   position: absolute;
-  left: 15.3%;
+  left: 12.3%;
+  right: 47%;
   top: 47%;
 }
 
@@ -180,7 +181,7 @@ nav {
     conic-gradient(from 90deg at var(--b) var(--b), #0000 90deg, var(--color) 0) var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
   transition: .3s linear, color 0s, background-color 0s;
   outline: var(--b) solid #0000;
-  outline-offset: .6em;
+  outline-offset: .4em;
   font-size: 16px;
 
   border: 0;
@@ -189,8 +190,8 @@ nav {
   -webkit-user-select: none;
   touch-action: manipulation;
 
-  top: 72%;
-  left: 15.5%;
+  top: 64%;
+  left: 12.2%;
   position: absolute;
   font-weight: bolder;
   font-size: small;
@@ -202,7 +203,7 @@ nav {
 .homeBody>button:focus-visible {
   --_p: 0px;
   outline-color: var(--color);
-  outline-offset: .05em;
+  outline-offset: .03em;
 }
 
 .homeBody>button:active {
@@ -324,6 +325,13 @@ nav {
 
 /* Media Quary Mobile 320px */
 @media (max-width: 320px) {
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
   .homeBody {
     width: 100%;
     height: 100%;
@@ -335,8 +343,9 @@ nav {
   .homepage-img {
     height: 70%;
     width: 80%;
+    position: absolute;
     top: 0;
-    left: 0;
+    left: 0%;
     right: 0;
     bottom: 0;
     margin: auto;
