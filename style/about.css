@@ -618,10 +618,10 @@
 
   .about-image-03 {
     width: 30%;
-    height: 15%;
+    height: 18%;
     position: absolute;
     left: 36%;
-    top: 35%;
+    top: 33%;
     border: 4px solid rgb(214, 214, 214);
     z-index: 1;
     border-radius: 50%;
@@ -781,7 +781,7 @@
     border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
-    width: 10%;
+    width: 8%;
     height: 4.7%;
     rotate: 45deg;
     top: 86%;
@@ -815,7 +815,7 @@
     border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
-    width: 10%;
+    width: 8%;
     height: 4.7%;
     rotate: 45deg;
     top: 86%;
@@ -828,7 +828,7 @@
     border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
-    width: 10%;
+    width: 8%;
     height: 4.7%;
     rotate: 45deg;
     top: 86%;
