@@ -977,7 +977,7 @@
         position: absolute;
         top: 80%;
         left: 26%;
-        display: none;
+
     }
 
     .cliebt-div {
@@ -986,7 +986,7 @@
         position: absolute;
         top: 60%;
         left: 41%;
-        display: none;
+
     }
 
     .country-div {
@@ -995,7 +995,7 @@
         position: absolute;
         top: 60%;
         left: 55%;
-        display: none;
+
     }
 
     .ideas-div {
@@ -1004,59 +1004,58 @@
         position: absolute;
         top: 60%;
         left: 67%;
-        display: none;
+
     }
 
     .blue-rect-1 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 4.5%;
+        height: 2.7%;
         rotate: 45deg;
         top: 60%;
         left: 22%;
         animation: scale 1s ease alternate-reverse infinite;
-        display: none;
+
     }
 
     .blue-rect-2 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 4.5%;
+        height: 2.7%;
         rotate: 45deg;
         top: 60%;
         left: 37%;
         animation: scale 1s ease alternate-reverse infinite;
-        display: none;
+
     }
 
     .blue-rect-3 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 4.5%;
+        height: 2.7%;
         rotate: 45deg;
         top: 60%;
         left: 51%;
         animation: scale 1s ease alternate-reverse infinite;
-        display: none;
+
     }
 
     .blue-rect-4 {
         background-color: rgb(232, 250, 255);
         border-radius: 10%;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 4.5%;
+        height: 2.7%;
         rotate: 45deg;
         top: 60%;
         left: 63%;
         animation: scale 1s ease alternate-reverse infinite;
-        display: none;
     }
 
     @keyframes scale {
