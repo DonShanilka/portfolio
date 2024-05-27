@@ -1138,3 +1138,293 @@
         display: none;
     }
 }
+
+
+
+
+/* ******************* Skill page 768px media Quary **************************** */
+@media (max-width: 768px) {
+    .skill-h1 {
+        color: #0B009A;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 100%;
+        text-align: center;
+
+        position: absolute;
+        left: 36%;
+        top: 80%;
+    }
+
+    .skill-para {
+        color: #000000;
+        font-family: "Lexend Zetta", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: normal;
+        font-style: normal;
+        font-size: 55%;
+        text-align: center;
+        position: absolute;
+        left: 5%;
+        right: 5%;
+        top: 84%;
+    }
+
+    .skill-1,
+    .skill-2,
+    .skill-3,
+    .skill-4,
+    .skill-5,
+    .skill-6,
+    .skill-7,
+    .skill-8,
+    .skill-9,
+    .skill-10,
+    .skill-11,
+    .skill-12,
+    .skill-13,
+    .skill-14,
+    .skill-15 {
+        background-color: rgb(255, 255, 255);
+        border-radius: 10%;
+        width: 6%;
+        height: 3.4%;
+        rotate: 45deg;
+        position: absolute;
+        box-shadow: rgba(172, 172, 172, 0.2) 0px 2px 8px 0px;
+
+    }
+
+    .skill-1:hover,
+    .skill-2:hover,
+    .skill-3:hover,
+    .skill-4:hover,
+    .skill-5:hover,
+    .skill-6:hover,
+    .skill-7:hover,
+    .skill-8:hover,
+    .skill-9:hover,
+    .skill-10:hover,
+    .skill-11:hover,
+    .skill-12:hover,
+    .skill-13:hover,
+    .skill-14:hover,
+    .skill-15:hover {
+        box-shadow: rgba(80, 80, 80, 0.2) 0px 2px 8px 0px;
+        background-color: rgb(255, 255, 255);
+        transform: scale(1.2);
+        transition-duration: 2s;
+    }
+
+    .skill-1 {
+        top: 96%;
+        left: 6%;
+    }
+
+    .skill-2 {
+        top: 96%;
+        left: 30%;
+    }
+
+    .skill-3 {
+        top: 96%;
+        left: 54%;
+    }
+
+    .skill-4 {
+        top: 96%;
+        left: 78%;
+    }
+
+    .skill-5 {
+        top: 104%;
+        left: 6%;
+    }
+
+    .skill-6 {
+        top: 104%;
+        left: 30%;
+    }
+
+    .skill-7 {
+        top: 104%;
+        left: 54%;
+    }
+
+    .skill-8 {
+        top: 104%;
+        left: 78%;
+    }
+
+    .skill-9 {
+        top: 112%;
+        left: 6%;
+    }
+
+    .skill-10 {
+        top: 112%;
+        left: 30%;
+    }
+
+    .skill-11 {
+        top: 112%;
+        left: 54%;
+    }
+
+    .skill-12 {
+        top: 112%;
+        left: 78%;
+    }
+
+    .skill-13 {
+        top: 120%;
+        left: 18%;
+    }
+
+    .skill-14 {
+        top: 120%;
+        left: 41%;
+    }
+
+    .skill-15 {
+        top: 120%;
+        left: 65%;
+    }
+
+    #name-java {
+        position: absolute;
+        top: 107%;
+        left: 13.5%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-sql {
+        position: absolute;
+        top: 107%;
+        left: 24%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-html {
+        position: absolute;
+        top: 107%;
+        left: 33.5%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-css {
+        position: absolute;
+        top: 107%;
+        left: 44%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-js {
+        position: absolute;
+        top: 107%;
+        left: 52.5%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-boostrap {
+        position: absolute;
+        top: 120.5%;
+        left: 17.7%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-react {
+        position: absolute;
+        top: 107%;
+        left: 63.5%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-flutter {
+        position: absolute;
+        top: 107.3%;
+        left: 73.2%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-sring {
+        position: absolute;
+        top: 120.6%;
+        left: 28.3%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-springboot {
+        position: absolute;
+        top: 120.7%;
+        left: 37%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-mongodb {
+        position: absolute;
+        top: 120.6%;
+        left: 47.3%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-nodeJs {
+        position: absolute;
+        top: 120.6%;
+        left: 58%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-typeScript {
+        position: absolute;
+        top: 107.5%;
+        left: 82.3%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-expressJs {
+        position: absolute;
+        top: 120.6%;
+        left: 67.3%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+
+    #name-jQuery {
+        position: absolute;
+        top: 120.6%;
+        left: 78.4%;
+        color: #000;
+        font-size: 120%;
+        display: none;
+    }
+}
