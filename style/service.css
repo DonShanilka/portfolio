@@ -972,39 +972,39 @@
     }
 
     .project-div {
-        font-size: 60%;
-        font-weight: 300;
+        font-size: 70%;
+        font-weight: 500;
         position: absolute;
-        top: 80%;
-        left: 26%;
-
+        top: 45%;
+        left: 12%;
+        color: #000000;
     }
 
     .cliebt-div {
-        font-size: 100%;
+        font-size: 70%;
         font-weight: 500;
         position: absolute;
-        top: 60%;
-        left: 41%;
-
+        top: 45%;
+        left: 38%;
+        color: #000000;
     }
 
     .country-div {
-        font-size: 100%;
+        font-size: 70%;
         font-weight: 500;
         position: absolute;
-        top: 60%;
-        left: 55%;
-
+        top: 45%;
+        left: 64%;
+        color: #000000;
     }
 
     .ideas-div {
-        font-size: 100%;
+        font-size: 70%;
         font-weight: 500;
         position: absolute;
-        top: 60%;
-        left: 67%;
-
+        top: 45%;
+        left: 88%;
+        color: #000000;
     }
 
     .blue-rect-1 {
@@ -1014,8 +1014,8 @@
         width: 4.5%;
         height: 2.7%;
         rotate: 45deg;
-        top: 60%;
-        left: 22%;
+        top: 45%;
+        left: 5%;
         animation: scale 1s ease alternate-reverse infinite;
 
     }
@@ -1027,8 +1027,8 @@
         width: 4.5%;
         height: 2.7%;
         rotate: 45deg;
-        top: 60%;
-        left: 37%;
+        top: 45%;
+        left: 30%;
         animation: scale 1s ease alternate-reverse infinite;
 
     }
@@ -1040,8 +1040,8 @@
         width: 4.5%;
         height: 2.7%;
         rotate: 45deg;
-        top: 60%;
-        left: 51%;
+        top: 45%;
+        left: 55%;
         animation: scale 1s ease alternate-reverse infinite;
 
     }
@@ -1053,8 +1053,8 @@
         width: 4.5%;
         height: 2.7%;
         rotate: 45deg;
-        top: 60%;
-        left: 63%;
+        top: 45%;
+        left: 80%;
         animation: scale 1s ease alternate-reverse infinite;
     }
 

@@ -23,7 +23,6 @@
   font-weight: weight;
   font-style: normal;
   font-size: 80%;
-
   position: absolute;
   top: 40%;
   left: 73%;
@@ -69,15 +68,14 @@
   position: absolute;
   top: 17%;
   left: 5%;
-  right: 62%;
+  right: 55%;
 }
 
 #name {
   position: absolute;
   top: 30%;
   left: 5%;
-
-  width: 30%;
+  width: 40%;
   height: 5%;
   color: white;
 }
@@ -87,7 +85,7 @@
   top: 40%;
   left: 5%;
 
-  width: 30%;
+  width: 40%;
   height: 5%;
   color: white;
 }
@@ -97,7 +95,7 @@
   top: 50%;
   left: 5%;
 
-  width: 30%;
+  width: 40%;
   height: 15%;
   color: white;
 }
@@ -128,7 +126,7 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: 30%;
+  width: 40%;
   height: 5%;
   position: absolute;
   top: 70%;
@@ -770,8 +768,9 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    top: 1300%;
-    background-color: rgb(255, 255, 255);
+    top: 920%;
+    background-color: rgb(253, 211, 211);
+    z-index: 10;
   }
 
   .world-img {
@@ -792,7 +791,7 @@
     font-size: 60%;
     z-index: 2;
     position: absolute;
-    top: 40%;
+    top: 60%;
     left: 73%;
   }
 
@@ -805,22 +804,21 @@
     font-size: 120%;
     z-index: 10;
     position: absolute;
-    left: -140%;
-    top: 130%;
-
-    display: none;
+    top: -10%;
   }
 
-  .address {
-    display: none;
-  }
 
-  .hours {
-    display: none;
-  }
+  .contact-details {
+    color: rgb(0, 0, 0);
+    font-family: "Lexend Giga", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 60%;
+    position: absolute;
+    top: 50%;
+    left: 73%;
 
-  .contact {
-    display: none;
   }
 
   .contact-details>p:nth-child(4) {
@@ -832,10 +830,7 @@
     font-size: 120%;
     z-index: 5;
     position: absolute;
-    left: -90%;
-    top: 130%;
-
-    display: none;
+    top: 32%;
   }
 
   .contact-details>p:nth-child(7) {
@@ -846,10 +841,8 @@
     font-style: normal;
     font-size: 120%;
     position: absolute;
-    left: 5%;
-    top: 130%;
-
-    display: none;
+    left: 0%;
+    top: 73%;
   }
 
   .header {
@@ -861,17 +854,16 @@
     font-size: 80%;
     z-index: 3;
     position: absolute;
-    text-align: center;
-    top: 35%;
-    right: 5%;
+    top: 20%;
+    right: 40%;
     left: 5%;
   }
 
   #name {
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 5%;
-    width: 90%;
+    width: 50%;
     height: 5%;
     color: white;
     z-index: 2;
@@ -879,9 +871,9 @@
 
   #email {
     position: absolute;
-    top: 60%;
+    top: 45%;
     left: 5%;
-    width: 90%;
+    width: 50%;
     height: 5%;
     color: white;
     z-index: 2;
@@ -889,9 +881,9 @@
 
   #details {
     position: absolute;
-    top: 70%;
+    top: 55%;
     left: 5%;
-    width: 90%;
+    width: 50%;
     height: 15%;
     color: rgba(255, 255, 255, 0);
     z-index: 2;
@@ -923,11 +915,12 @@
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    width: 90%;
+    width: 50%;
     height: 5%;
     position: absolute;
-    top: 90%;
+    top: 75%;
     left: 5%;
+    z-index: 5;
   }
 
   #button:focus {
