@@ -1430,15 +1430,15 @@
   .about-p {
     color: #000000;
     position: absolute;
-    left: 12%;
-    right: 12%;
-    top: 58%;
+    left: 10%;
+    right: 10%;
+    top: 60%;
     text-align: center;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
-    font-size: 100%;
+    font-size: 80%;
     z-index: 2;
 
     animation-name: example;
@@ -1477,10 +1477,10 @@
   /* about image */
 
   .about-image-03 {
-    width: 10%;
+    width: 15%;
     height: 20%;
     position: absolute;
-    left: 44%;
+    left: 42%;
     top: 35%;
     border: 4px solid rgb(214, 214, 214);
     z-index: 1;
@@ -1523,9 +1523,9 @@
 
     position: absolute;
     top: 70%;
-    left: 40%;
-    width: 160px;
-    height: 51px;
+    left: 36%;
+    width: 140px;
+    height: 50px;
   }
 
   .Hire-btn-:disabled {
@@ -1594,8 +1594,8 @@
 
     position: absolute;
     top: 70%;
-    left: 50%;
-    width: 160px;
+    left: 52%;
+    width: 140px;
     height: 50px;
   }
 
@@ -1638,7 +1638,7 @@
     border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
-    width: 2.5%;
+    width: 3.8%;
     height: 4.7%;
     rotate: 45deg;
     top: 86%;
@@ -1651,7 +1651,7 @@
     border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
-    width: 2.5%;
+    width: 3.8%;
     height: 4.7%;
     rotate: 45deg;
     top: 86%;
@@ -1664,7 +1664,7 @@
     border: #e0e0e0 1px solid;
     border-radius: 10%;
     position: absolute;
-    width: 2.5%;
+    width: 3.8%;
     height: 4.7%;
     rotate: 45deg;
     top: 86%;
