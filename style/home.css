@@ -32,7 +32,6 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-
   height: 300vh;
 }
 
@@ -43,12 +42,12 @@ nav {
   position: fixed;
   width: 100%;
   height: 7%;
-  background-color: #ffffff;
+  background-color: #000147;
   z-index: 1000;
 }
 
 .navbar {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-decoration: none;
   position: relative;
   display: inline-block;
@@ -252,7 +251,7 @@ nav {
 .home-page-img {
   position: absolute;
   left: 82.5%;
-  top: 81.5%;
+  top: 79%;
   z-index: 2;
   height: 16%;
   width: 8%;

@@ -2,8 +2,8 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 800%;
-  background-color: white;
+  top: 790%;
+  background-color: rgb(0, 4, 33);
 }
 
 .world-img {
@@ -17,53 +17,53 @@
 }
 
 .contact-details {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-family: "Lexend Giga", sans-serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
   font-size: 80%;
   position: absolute;
-  top: 40%;
-  left: 73%;
+  top: 38%;
+  left: 74%;
 }
 
 .contact-details>p:nth-child(1) {
-  color: #0000ff;
+  color: #ff5e00;
   font-family: "Lexend Giga", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 150%;
+  font-size: 100%;
   z-index: 10;
 }
 
 .contact-details>p:nth-child(4) {
-  color: #0000ff;
+  color: #ff5e00;
   font-family: "Lexend Giga", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 150%;
+  font-size: 100%;
   z-index: 5;
 }
 
 .contact-details>p:nth-child(7) {
-  color: #0000ff;
+  color: #ff5e00;
   font-family: "Lexend Giga", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 150%;
+  font-size: 100%;
 }
 
 .header {
-  color: rgb(0, 0, 0);
+  color: #ff5e00;
   font-family: "Lexend Giga", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 120%;
+  font-size: 100%;
   position: absolute;
   top: 17%;
   left: 5%;
@@ -97,6 +97,7 @@
   width: 40%;
   height: 15%;
   color: white;
+  font-size: 60%;
 }
 
 
@@ -160,7 +161,7 @@
   left: 45%;
   width: 50%;
   height: 70%;
-  background-color: #ffffffcf;
+  background-color: rgba(0, 4, 33, 0.808);
 }
 
 

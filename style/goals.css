@@ -14,7 +14,7 @@
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
 
     position: absolute;
@@ -33,6 +33,7 @@
     border: #ff5e00 5px solid;
     border-radius: 20px;
     transition-duration: 2s;
+    font-size: 90%;
 }
 
 .goal-02 {
@@ -44,6 +45,7 @@
     border: #ff5e00 5px solid;
     border-radius: 20px;
     transition-duration: 2s;
+    font-size: 90%;
 }
 
 .goal-03 {
@@ -55,7 +57,7 @@
     border: #ff5e00 5px solid;
     border-radius: 20px;
     transition-duration: 2s;
-
+    font-size: 90%;
 }
 
 .goals-h1 {

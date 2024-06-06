@@ -12,7 +12,7 @@
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
 
     position: absolute;
@@ -26,7 +26,7 @@
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
-    font-size: 100%;
+    font-size: 80%;
     text-align: center;
     position: absolute;
     left: 15%;
@@ -160,7 +160,7 @@
     top: 107%;
     left: 13.5%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-sql {
@@ -168,7 +168,7 @@
     top: 107%;
     left: 24%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-html {
@@ -176,7 +176,7 @@
     top: 107%;
     left: 33.5%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-css {
@@ -184,7 +184,7 @@
     top: 107%;
     left: 44%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-js {
@@ -192,7 +192,7 @@
     top: 107%;
     left: 52.5%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-boostrap {
@@ -200,7 +200,7 @@
     top: 120.5%;
     left: 17.7%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-react {
@@ -208,7 +208,7 @@
     top: 107%;
     left: 63.5%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-flutter {
@@ -216,7 +216,7 @@
     top: 107.3%;
     left: 73.2%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-sring {
@@ -224,7 +224,7 @@
     top: 120.6%;
     left: 28.3%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-springboot {
@@ -232,7 +232,7 @@
     top: 120.7%;
     left: 37%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-mongodb {
@@ -240,7 +240,7 @@
     top: 120.6%;
     left: 47.3%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-nodeJs {
@@ -248,7 +248,7 @@
     top: 120.6%;
     left: 58%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-typeScript {
@@ -256,7 +256,7 @@
     top: 107.5%;
     left: 82.3%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-expressJs {
@@ -264,7 +264,7 @@
     top: 120.6%;
     left: 67.3%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 #name-jQuery {
@@ -272,7 +272,7 @@
     top: 120.6%;
     left: 78.4%;
     color: #ff5e00;
-    font-size: 120%;
+    font-size: 100%;
 }
 
 

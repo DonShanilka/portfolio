@@ -14,7 +14,7 @@
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
-    font-size: 200%;
+    font-size: 150%;
     text-align: center;
 
     position: absolute;
@@ -28,7 +28,7 @@
     font-optical-sizing: auto;
     font-weight: bolder;
     font-style: normal;
-    font-size: 100%;
+    font-size: 80%;
     text-align: center;
     position: absolute;
     left: 10%;
@@ -46,6 +46,7 @@
     top: 28%;
     left: 16%;
     transition-duration: 3s;
+    font-size: 80%;
 }
 
 .web-rect {
@@ -58,6 +59,7 @@
     top: 28%;
     left: 40%;
     transition-duration: 3s;
+    font-size: 80%;
 }
 
 .ui-rect {
@@ -70,6 +72,7 @@
     top: 28%;
     left: 64%;
     transition-duration: 3s;
+    font-size: 80%;
 }
 
 .mobile-app-rect:hover,
