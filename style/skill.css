@@ -1,13 +1,13 @@
 .skill-mainDiv {
-    background-color: #eeeeee2c;
+    background-color: #00001b;
     position: absolute;
     width: 100%;
-    height: 60%;
-    top: 75%;
+    height: 65%;
+    top: 70%;
 }
 
 .skill-h1 {
-    color: #0B009A;
+    color: #ff5e00;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -21,10 +21,10 @@
 }
 
 .skill-para {
-    color: #000000;
+    color: #ffffff;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
-    font-weight: normal;
+    font-weight: bolder;
     font-style: normal;
     font-size: 100%;
     text-align: center;
@@ -49,13 +49,13 @@
 .skill-13,
 .skill-14,
 .skill-15 {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(1, 0, 51);
     border-radius: 10%;
     width: 4%;
     height: 5.4%;
     rotate: 45deg;
     position: absolute;
-    box-shadow: rgba(172, 172, 172, 0.2) 0px 2px 8px 0px;
+    box-shadow: rgba(12, 0, 82, 0.315) 0px 2px 8px 0px;
     transition-duration: 2s;
 }
 
@@ -159,7 +159,7 @@
     position: absolute;
     top: 107%;
     left: 13.5%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -167,7 +167,7 @@
     position: absolute;
     top: 107%;
     left: 24%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -175,7 +175,7 @@
     position: absolute;
     top: 107%;
     left: 33.5%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -183,7 +183,7 @@
     position: absolute;
     top: 107%;
     left: 44%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -191,7 +191,7 @@
     position: absolute;
     top: 107%;
     left: 52.5%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -199,7 +199,7 @@
     position: absolute;
     top: 120.5%;
     left: 17.7%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -207,7 +207,7 @@
     position: absolute;
     top: 107%;
     left: 63.5%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -215,7 +215,7 @@
     position: absolute;
     top: 107.3%;
     left: 73.2%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -223,7 +223,7 @@
     position: absolute;
     top: 120.6%;
     left: 28.3%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -231,7 +231,7 @@
     position: absolute;
     top: 120.7%;
     left: 37%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -239,7 +239,7 @@
     position: absolute;
     top: 120.6%;
     left: 47.3%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -247,7 +247,7 @@
     position: absolute;
     top: 120.6%;
     left: 58%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -255,7 +255,7 @@
     position: absolute;
     top: 107.5%;
     left: 82.3%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -263,7 +263,7 @@
     position: absolute;
     top: 120.6%;
     left: 67.3%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
@@ -271,7 +271,7 @@
     position: absolute;
     top: 120.6%;
     left: 78.4%;
-    color: #000;
+    color: #ff5e00;
     font-size: 120%;
 }
 
