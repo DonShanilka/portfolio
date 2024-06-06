@@ -129,6 +129,7 @@
     border-radius: 10px;
     z-index: 3;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: #0a009a4b 5px solid;
     transition-duration: 1s;
 }
 
@@ -142,6 +143,7 @@
     border-radius: 10px;
     z-index: 3;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: #0a009a4b 5px solid;
     transition-duration: 1s;
 }
 
@@ -155,6 +157,7 @@
     border-radius: 10px;
     z-index: 3;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: #0a009a4b 5px solid;
     transition-duration: 1s;
 }
 
@@ -168,6 +171,7 @@
     border-radius: 10px;
     z-index: 3;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: #0a009a4b 5px solid;
     transition-duration: 1s;
 }
 
@@ -181,6 +185,7 @@
     border-radius: 10px;
     z-index: 3;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: #0a009a4b 5px solid;
     transition-duration: 1s;
 }
 
@@ -194,6 +199,7 @@
     border-radius: 10px;
     z-index: 3;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border: #0a009a4b 5px solid;
     transition-duration: 1s;
 }
 
@@ -245,7 +251,7 @@
     height: 13%;
     width: 18%;
     background-color: #ff5e00;
-    z-index: 3;
+    z-index: 100;
 }
 
 .blie-rect>img {
@@ -254,6 +260,7 @@
     position: absolute;
     top: 6%;
     left: 15%;
+    z-index: 100;
 }
 
 
