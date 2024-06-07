@@ -107,8 +107,8 @@ nav {
   position: absolute;
   z-index: 1;
   /* background-color: rgb(255, 255, 255); */
-  background: rgb(0, 2, 13);
-  background: linear-gradient(326deg, rgba(0, 2, 13, 1) 21%, rgba(0, 3, 19, 1) 44%, rgba(0, 2, 31, 1) 74%, rgba(0, 5, 37, 1) 100%);
+  background: rgb(0, 4, 33);
+  background: linear-gradient(326deg, rgba(0, 4, 33, 1) 21%, rgba(0, 6, 40, 1) 44%, rgba(0, 3, 48, 1) 74%, rgba(0, 10, 84, 1) 100%);
 }
 
 .homepage-img {
@@ -129,7 +129,7 @@ nav {
   left: 69.5%;
   border-radius: 3%;
   position: absolute;
-  background-color: #ff5e00;
+  background-color: #00eeff;
   animation: rotateDiv 10s infinite;
 }
 
@@ -148,7 +148,7 @@ nav {
 }
 
 .full-name {
-  color: #ff5e00;
+  color: #00eeff;
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
