@@ -4,8 +4,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #00001b;
-
+  background-color: #1d1d1d;
   top: 100%;
   z-index: 1;
 }
