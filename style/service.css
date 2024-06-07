@@ -2,14 +2,13 @@
     position: absolute;
     width: 100%;
     height: 150%;
-    background: rgb(0, 4, 33);
-  background: linear-gradient(326deg, rgba(0, 4, 33, 1) 21%, rgba(0, 6, 40, 1) 44%, rgba(0, 3, 48, 1) 74%, rgba(0, 10, 84, 1) 100%);
+    background-color: rgb(0, 4, 33);
     z-index: 1;
     top: 200%;
 }
 
 .parahead {
-    color: #00eeff;
+    color: #ffd500;
     font-family: "Lexend Zetta", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -79,7 +78,7 @@
 .web-rect:hover,
 .ui-rect:hover {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    border: #00eeff 3px solid;
+    border: #ffd500 3px solid;
     transform: scale(1.1);
     transition-duration: 3s;
 }
@@ -87,7 +86,7 @@
 .ptoject-mobile,
 .project-web,
 .uiProject {
-    color: #00eeff;
+    color: #ffd500;
     font-size: 100%;
     font-weight: 500;
     position: absolute;
@@ -109,7 +108,7 @@
     position: absolute;
     left: 5%;
     top: 32%;
-    color: #00eeff;
+    color: #ffd500;
     font-size: larger;
     font-weight: bolder;
 }
@@ -161,7 +160,7 @@
 .blue-rect-1 {
     background-color: rgba(255, 231, 211, 0);
     border-radius: 10%;
-    border: #ff5e00 2px solid;
+    border: #ffd500 2px solid;
     position: absolute;
     width: 2.5%;
     height: 3.3%;
@@ -174,7 +173,7 @@
 .blue-rect-2 {
     background-color: rgba(255, 231, 211, 0);
     border-radius: 10%;
-    border: #ff5e00 2px solid;
+    border: #ffd500 2px solid;
     position: absolute;
     width: 2.5%;
     height: 3.3%;
@@ -187,7 +186,7 @@
 .blue-rect-3 {
     background-color: rgba(255, 231, 211, 0);
     border-radius: 10%;
-    border: #ff5e00 2px solid;
+    border: #ffd500 2px solid;
     position: absolute;
     width: 2.5%;
     height: 3.3%;
@@ -200,7 +199,7 @@
 .blue-rect-4 {
     background-color: rgba(255, 231, 211, 0);
     border-radius: 10%;
-    border: #ff5e00 2px solid;
+    border: #ffd500 2px solid;
     position: absolute;
     width: 2.5%;
     height: 3.3%;

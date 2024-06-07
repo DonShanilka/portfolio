@@ -10,7 +10,7 @@
 }
 
 .about-me {
-  color: #00eeff;
+  color: #fff300;
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: bold;
@@ -23,7 +23,10 @@
 }
 
 .about-div {
-  background-color: #00eeff;
+  background: rgb(255,154,0);
+  background: linear-gradient(277deg, rgba(255,154,0,1) 10%, rgba(224,176,0,1) 35%, rgba(238,200,4,1) 57%, rgba(255,231,0,1) 78%);
+  box-shadow: 0 15px 25px rgba(0,0,0,.2);
+  backdrop-filter: blur(10px);
   border-radius: 10px;
   position: absolute;
   width: 80%;
@@ -35,7 +38,7 @@
 }
 
 .about-p {
-  color: #ffffff;
+  color: #00001b;;
   position: absolute;
   left: 14%;
   right: 14%;
@@ -43,7 +46,7 @@
   text-align: center;
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
-  font-weight: normal;
+  font-weight: bold;
   font-style: normal;
   font-size: 80%;
   z-index: 2;
@@ -57,16 +60,17 @@
   position: absolute;
   left: 46%;
   top: 30%;
-  border: 4px solid #00eeff;
+  border: 4px solid #ffd500;
   z-index: 1;
   border-radius: 50%;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
   transition-duration: 3s;
+
 }
 
 .platform-1 {
   background-color: #00001b;
-  border: #00eeff 1px solid;
+  border: #ffd500 2px solid;
   border-radius: 10%;
   position: absolute;
   width: 2.5%;
@@ -79,7 +83,7 @@
 
 .platform-2 {
   background-color: #00001b;
-  border: #00eeff 1px solid;
+  border: #ffd500 2px solid;
   border-radius: 10%;
   position: absolute;
   width: 2.5%;
@@ -92,7 +96,7 @@
 
 .platform-3 {
   background-color: #00001b;
-  border: #00eeff 1px solid;
+  border: #ffd500 2px solid;
   border-radius: 10%;
   position: absolute;
   width: 2.5%;
