@@ -127,44 +127,32 @@ nav {
   width: 20%;
   height: 40%;
   position: absolute;
-  top: 25%;
-  left: 65%;
+  top: 35%;
+  left: 67%;
   rotate: 45deg;
   background-color: rgba(255, 243, 0, 0);
   border-radius: 5%;
   background-color: #fff300;
 }
 
-@keyframes rotate3 {
-  0% {
-    transform: translate(-50%, -50%) rotate(0deg);
-  }
-
-  100% {
-    transform: translate(-50%, -50%) rotate(360deg);
-  }
-}
-
-@keyframes rotate4 {
-  0% {
-    transform: translate(-50%, -50%) rotate(360deg);
-  }
-
-  100% {
-    transform: translate(-50%, -50%) rotate(0deg);
-  }
+.sub-div {
+  position: absolute;
+  width: 40%;
+  height: 110%;
+  right: -40%;
+  background-color: rgba(0, 4, 33, 1);
+  z-index: 10;
 }
 
 .homepage-img {
-  height: 34%;
-  width: 18%;
-  top: 25%;
-  left: 68.5%;
-  border-radius: 50%;
+  rotate: -45deg;
+  height: 180%;
+  width: 120%;
+  top: -65%;
+  left: 10%;
   position: absolute;
   z-index: 5;
-  box-shadow: 0 0 20px #001c62;
-  border: #00003f 2px solid;
+  filter: drop-shadow( -10px 10px 10px rgba(0, 0, 27, 0.53)) ;
 }
 
 .orange-rect {
