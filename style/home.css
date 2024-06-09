@@ -124,16 +124,15 @@ nav {
 }
 
 .main-image-rect {
-  width: 15%;
-  height: 30%;
+  width: 20%;
+  height: 40%;
   position: absolute;
-  top: 47.8%;
-  left: 70%;
+  top: 25%;
+  left: 65%;
   rotate: 45deg;
   background-color: rgba(255, 243, 0, 0);
   border-radius: 5%;
-  border: #fff300 5px solid;
-  animation: rotate4 35s infinite linear;
+  background-color: #fff300;
 }
 
 @keyframes rotate3 {
