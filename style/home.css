@@ -12,6 +12,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
 
 :root,
@@ -33,6 +34,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   height: 300vh;
+  overflow-x: hidden;
 }
 
 nav {
@@ -99,6 +101,10 @@ nav {
   column-gap: 3vh;
 }
 
+/* ###################### Body Animation #################### */
+
+
+
 /* ######################  Hompage Body Section ##################### */
 
 .homeBody {
@@ -108,19 +114,9 @@ nav {
   z-index: 1;
   backdrop-filter: blur(10px);
   background-color: rgba(0, 0, 0, 0.78);
-   background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
   background: rgb(0, 4, 33);
   background: linear-gradient(326deg, rgba(0, 4, 33, 1) 21%, rgba(0, 6, 40, 1) 44%, rgba(0, 3, 48, 1) 74%, rgba(0, 10, 84, 1) 100%);
-}
-
-.green-div-1 {
-  background: rgb(0, 217, 255);
-  background: radial-gradient(circle, rgba(0, 255, 255, 0.53) 0%, rgba(0, 255, 255, 0.48) 33%, rgba(0, 208, 255, 0.28) 59%, rgba(0, 255, 255, 0.25) 84%, rgba(0,255,7,0.196516106442577) 94%);
-  width: 10%;
-  height: 20%;
-  position: absolute;
-  border-radius: 50%;
-  top: 40%;
 }
 
 .main-image-rect {
@@ -133,13 +129,14 @@ nav {
   background-color: rgba(255, 243, 0, 0);
   border-radius: 5%;
   background-color: #fff300;
+  z-index: 20;
 }
 
 .sub-div {
   position: absolute;
-  width: 40%;
-  height: 110%;
-  right: -40%;
+  width: 45%;
+  height: 115%;
+  right: -45%;
   background-color: rgba(0, 4, 33, 1);
   z-index: 10;
 }
@@ -152,20 +149,9 @@ nav {
   left: 10%;
   position: absolute;
   z-index: 5;
-  filter: drop-shadow( -10px 10px 10px rgba(0, 0, 27, 0.53)) ;
+  filter: drop-shadow(-10px 10px 10px rgba(0, 0, 27, 0.53));
 }
 
-.orange-rect {
-  /*rotate: 20deg;*/
-  /*height: 60%;*/
-  /*width: 15%;*/
-  /*top: 58.5%;*/
-  /*left: 69.5%;*/
-  /*border-radius: 3%;*/
-  /*position: absolute;*/
-  /*background-color: #00eeff;*/
-  /*animation: rotateDiv 10s infinite;*/
-}
 
 @keyframes rotateDiv {
   0% {
@@ -182,17 +168,16 @@ nav {
 }
 
 .full-name {
-  color: #fff300;
+  color: rgb(255, 217, 0);
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 300%;
-
-  left: 12%;
-  letter-spacing: 0.1vw;
+  font-size: 250%;
+  left: 10%;
   position: absolute;
-  top: 30%;
+  top: 35%;
+  z-index: 10;
 }
 
 .home-page-para {
@@ -201,18 +186,18 @@ nav {
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
-  font-size: 100%;
+  font-size: 80%;
 
   position: absolute;
-  left: 12.3%;
+  left: 10.3%;
   right: 47%;
-  top: 47%;
+  top: 53%;
 }
 
 .homeBody>button {
-  --b: 2.5px;
+  --b: 2px;
   --s: .45em;
-  --color: #000000;
+  --color: #ffffff;
 
   padding: calc(.5em + var(--s)) calc(.9em + var(--s));
   color: var(--color);
@@ -230,8 +215,8 @@ nav {
   -webkit-user-select: none;
   touch-action: manipulation;
 
-  top: 64%;
-  left: 12.2%;
+  top: 66%;
+  left: 10%;
   position: absolute;
   font-weight: bolder;
   font-size: small;
@@ -253,12 +238,13 @@ nav {
 
 .circle-2024 {
   position: relative;
-  width: 180px;
-  height: 180px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
-  top: 84.5%;
-  left: 86.5%;
+  top: 90%;
+  left: 3.5%;
   animation: rotate 35s infinite linear;
+  background-color: #00005000;
 }
 
 .circle-2024>div>p {
@@ -266,19 +252,19 @@ nav {
   height: 100%;
   position: absolute;
 
-  color: #ffd500;
+  color: #ffffff;
   font-family: "Lexend Zetta", sans-serif;
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 80%;
+  font-size: 60%;
 }
 
 .text span {
   position: absolute;
   left: 50%;
-  font-size: 1.2em;
-  transform-origin: 0 90px;
+  font-size: .5em;
+  transform-origin: 0 40px;
 }
 
 .home-page-img {
@@ -321,10 +307,10 @@ nav {
 }
 
 .home__scroll-box {
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0);
   color: var(--white-color);
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
   display: grid;
   place-items: center;
   font-size: 1rem;
@@ -334,8 +320,8 @@ nav {
   transform: rotate(90deg);
 
   position: absolute;
-  top: 95%;
-  left: 0.5%;
+  top: 93%;
+  left: 48%;
 }
 
 .ri-arrow-down-s-line {
@@ -359,6 +345,29 @@ nav {
   }
 }
 
+.linkind {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 66.5%;
+  left: 20%;
+}
+
+.github {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 66.5%;
+  left: 24%;
+}
+
+.facebook {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 66.5%;
+  left: 28%;
+}
 
 
 /* Media Quary Mobile 320px */
