@@ -259,7 +259,7 @@
     .work-main-div {
         position: absolute;
         width: 100%;
-        height: 200%;
+        height: 350%;
         top: 460%;
         display: flex;
         justify-content: center;
@@ -279,7 +279,7 @@
         text-align: center;
         left: 20%;
         right: 20%;
-        top: 8%;
+        top: 5%;
     }
 
     .project-main-para {
@@ -293,7 +293,7 @@
         position: absolute;
         left: 4%;
         right: 4%;
-        top: 11%;
+        top: 7%;
     }
 
     .wrapper {
@@ -366,9 +366,9 @@
 
     .project-01 {
         width: 70%;
-        height: 15%;
+        height: 10%;
         position: absolute;
-        top: 20%;
+        top: 13%;
         left: 15%;
         background-color: rgb(0, 3, 34);
         border-radius: 10px;
@@ -379,11 +379,11 @@
     }
 
     .project-02 {
-        width: 20%;
-        height: 20%;
+        width: 70%;
+        height: 10%;
         position: absolute;
         top: 25%;
-        left: 40%;
+        left: 15%;
         background-color: rgb(0, 3, 34);
         border-radius: 10px;
         z-index: 3;
@@ -393,11 +393,11 @@
     }
 
     .project-03 {
-        width: 20%;
-        height: 20%;
+        width: 70%;
+        height: 10%;
         position: absolute;
-        top: 25%;
-        left: 65%;
+        top: 37%;
+        left: 15%;
         background-color: rgb(0, 3, 34);
         border-radius: 10px;
         z-index: 3;
@@ -407,10 +407,10 @@
     }
 
     .project-04 {
-        width: 20%;
-        height: 20%;
+        width: 70%;
+        height: 10%;
         position: absolute;
-        top: 55%;
+        top: 49%;
         left: 15%;
         background-color: rgb(0, 3, 34);
         border-radius: 10px;
@@ -421,11 +421,11 @@
     }
 
     .project-05 {
-        width: 20%;
-        height: 20%;
+        width: 70%;
+        height: 10%;
         position: absolute;
-        top: 55%;
-        left: 40%;
+        top: 61%;
+        left: 15%;
         background-color: rgb(0, 3, 34);
         border-radius: 10px;
         z-index: 3;
@@ -435,11 +435,11 @@
     }
 
     .project-06 {
-        width: 20%;
-        height: 20%;
+        width: 70%;
+        height: 10%;
         position: absolute;
-        top: 55%;
-        left: 65%;
+        top: 73%;
+        left: 15%;
         background-color: rgb(0, 3, 34);
         border-radius: 10px;
         z-index: 3;
