@@ -348,7 +348,6 @@
         position: absolute;
         top: 60%;
         left: 26%;
-
     }
 
     .cliebt-div {
@@ -383,11 +382,11 @@
         border-radius: 10%;
         border: #ffd500 2px solid;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 11%;
+        height: 2%;
         rotate: 45deg;
-        top: 60%;
-        left: 22%;
+        top: 50%;
+        left: 28%;
         animation: scale 1s ease alternate-reverse infinite;
     }
 
@@ -396,11 +395,11 @@
         border-radius: 10%;
         border: #ffd500 2px solid;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 11.5%;
+        height: 2%;
         rotate: 45deg;
-        top: 60%;
-        left: 37%;
+        top: 50%;
+        left: 58%;
         animation: scale 1s ease alternate-reverse infinite;
     }
 
@@ -409,11 +408,11 @@
         border-radius: 10%;
         border: #ffd500 2px solid;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 11%;
+        height: 2%;
         rotate: 45deg;
-        top: 60%;
-        left: 51%;
+        top: 57%;
+        left: 28%;
         animation: scale 1s ease alternate-reverse infinite;
     }
 
@@ -422,11 +421,11 @@
         border-radius: 10%;
         border: #ffd500 2px solid;
         position: absolute;
-        width: 2.5%;
-        height: 3.3%;
+        width: 11%;
+        height: 2%;
         rotate: 45deg;
-        top: 60%;
-        left: 63%;
+        top: 57%;
+        left: 58%;
         animation: scale 1s ease alternate-reverse infinite;
     }
 
