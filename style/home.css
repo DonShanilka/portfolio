@@ -101,22 +101,34 @@ nav {
   column-gap: 3vh;
 }
 
-/* ###################### Body Animation #################### */
-
-
-
 /* ######################  Hompage Body Section ##################### */
 
 .homeBody {
   width: 100%;
   height: 100%;
   position: absolute;
-  z-index: 1;
+  z-index: 10;
   backdrop-filter: blur(10px);
   background-color: rgba(0, 0, 0, 0.78);
   background-color: rgb(255, 255, 255);
   background: rgb(0, 4, 33);
   background: linear-gradient(326deg, rgba(0, 4, 33, 1) 21%, rgba(0, 6, 40, 1) 44%, rgba(0, 3, 48, 1) 74%, rgba(0, 10, 84, 1) 100%);
+}
+
+.backGround {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 10;
+  background: rgba(0, 4, 33, 0.7);
+  background: linear-gradient(326deg, rgba(0, 4, 33, 1) 21%, rgba(0, 6, 40, 0.85) 44%, rgba(0, 3, 48, 0.85) 74%, rgba(0, 10, 84, 0.85) 100%);
+
+}
+
+.backGround-img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 .main-image-rect {
@@ -130,6 +142,8 @@ nav {
   border-radius: 5%;
   background-color: #fff300;
   z-index: 20;
+  animation: jump 10s infinite;
+
 }
 
 .sub-div {
@@ -153,18 +167,19 @@ nav {
 }
 
 
-@keyframes rotateDiv {
+@keyframes jump {
   0% {
-    transform: translate(-50%, -50%) rotate(0deg);
+    transform: translateY(0);
   }
-
+  25% {
+    transform: translateY(-10px);
+  }
   50% {
-    transform: translate(-50%, -50%) rotate(10deg);
+    transform: translateX(-10px);
   }
-
-  100% {
-    transform: translate(-50%, -50%) rotate(-0deg);
-  }
+  /*75% {*/
+  /*  transform: translateX(0);*/
+  /*}*/
 }
 
 .full-name {
@@ -187,7 +202,7 @@ nav {
   font-weight: normal;
   font-style: normal;
   font-size: 80%;
-
+  z-index: 10;
   position: absolute;
   left: 10.3%;
   right: 47%;
@@ -222,6 +237,7 @@ nav {
   font-size: small;
   letter-spacing: 0.1vw;
   height: 6%;
+  z-index: 10;
 }
 
 .homeBody>button:hover,
@@ -245,6 +261,7 @@ nav {
   left: 3.5%;
   animation: rotate 35s infinite linear;
   background-color: #00005000;
+  z-index: 10;
 }
 
 .circle-2024>div>p {
@@ -322,6 +339,7 @@ nav {
   position: absolute;
   top: 93%;
   left: 48%;
+  z-index: 10;
 }
 
 .ri-arrow-down-s-line {
@@ -351,6 +369,7 @@ nav {
   position: absolute;
   top: 66.5%;
   left: 20%;
+  z-index: 10;
 }
 
 .github {
@@ -359,6 +378,7 @@ nav {
   position: absolute;
   top: 66.5%;
   left: 24%;
+  z-index: 10;
 }
 
 .facebook {
@@ -367,6 +387,7 @@ nav {
   position: absolute;
   top: 66.5%;
   left: 28%;
+  z-index: 10;
 }
 
 
