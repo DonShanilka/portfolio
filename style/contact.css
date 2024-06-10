@@ -164,6 +164,14 @@
   background-color: rgba(0, 4, 33, 0.808);
 }
 
+.location-icon {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 71%;
+  top: 34.6%;
+}
+
 
 /* Contact 320px media quary */
 @media (max-width: 320px) {
