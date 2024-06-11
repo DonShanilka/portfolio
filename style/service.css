@@ -360,20 +360,20 @@
     }
 
     .country-div {
-        font-size: 100%;
+        font-size: 50%;
         font-weight: 500;
         position: absolute;
         top: 60%;
-        left: 55%;
+        left: 28%;
 
     }
 
     .ideas-div {
-        font-size: 100%;
+        font-size: 50%;
         font-weight: 500;
         position: absolute;
         top: 60%;
-        left: 67%;
+        left: 57%;
 
     }
 
