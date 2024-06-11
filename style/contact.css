@@ -373,13 +373,15 @@
 
 
 /************************** Contact 375px media quary ******************************/
+/**********************************************************************************/
 @media (max-width: 375px) {
   .contact-main-div {
     position: absolute;
     width: 100%;
     height: 100%;
-    top: 1300%;
-    background-color: rgb(255, 255, 255);
+    top: 1170%;
+    background-color: rgb(0, 4, 33);
+    z-index: 12;
   }
 
   .world-img {
@@ -461,7 +463,7 @@
   }
 
   .header {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 194, 0);
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
@@ -469,15 +471,15 @@
     font-size: 80%;
     z-index: 3;
     position: absolute;
-    text-align: center;
-    top: 35%;
-    right: 5%;
-    left: 5%;
+    text-align: left;
+    top: 15%;
+    right: 0%;
+    left: 1%;
   }
 
   #name {
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 5%;
     width: 90%;
     height: 5%;
@@ -487,7 +489,7 @@
 
   #email {
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 5%;
     width: 90%;
     height: 5%;
@@ -497,7 +499,7 @@
 
   #details {
     position: absolute;
-    top: 70%;
+    top: 50%;
     left: 5%;
     width: 90%;
     height: 15%;
@@ -534,7 +536,7 @@
     width: 90%;
     height: 5%;
     position: absolute;
-    top: 90%;
+    top: 70%;
     left: 5%;
   }
 
@@ -566,7 +568,7 @@
     left: 0%;
     width: 100%;
     height: 70%;
-    background-color: #ffffffde;
+    background-color: rgba(0, 4, 33, 0.71);
   }
 }
 
