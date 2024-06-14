@@ -381,7 +381,7 @@
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
-  font-size: 150%;
+  font-size: 120%;
   text-align: center;
 
   position: absolute;
@@ -398,11 +398,11 @@
   font-optical-sizing: auto;
   font-weight: bolder;
   font-style: normal;
-  font-size: 80%;
+  font-size: 60%;
   text-align: center;
   position: absolute;
-  left: 20%;
-  right: 20%;
+  left: 10%;
+  right: 10%;
   top: 30%;
  }
 
