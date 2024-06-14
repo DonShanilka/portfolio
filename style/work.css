@@ -1033,7 +1033,7 @@
 
 /* ********************* 768px mediaquary ******************* */
 /* ********************************************************** */
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     .work-main-div {
         position: absolute;
         width: 100%;

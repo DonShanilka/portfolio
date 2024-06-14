@@ -365,7 +365,7 @@
 
 /* ************************** 768px mediaquary ********************** */
 /* ***************************************************************** */
-@media (max-width: 768px) {
+@media (min-width: 768px) {
  .assignment-main-div {
   background-color: rgb(0, 4, 33);
   position: absolute;

@@ -566,7 +566,7 @@
 
 /* **************** 768px mediaquary **************** */
 /* ************************************************* */
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .about-section {
     position: absolute;
     width: 100%;
