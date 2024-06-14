@@ -210,7 +210,7 @@
 
 /* ********************** 768px maxwidth ********************** */
 /* *********************************************************** */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .goals-main-rect {
         position: absolute;
         width: 100%;
@@ -312,4 +312,4 @@
     .goal-03:hover {
         transform: translateY(-50px);
     }
-}
+} */

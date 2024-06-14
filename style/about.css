@@ -566,7 +566,7 @@
 
 /* **************** 768px mediaquary **************** */
 /* ************************************************* */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .about-section {
     position: absolute;
     width: 100%;
@@ -621,7 +621,7 @@
 
   /* about image */
 
-  .about-image-03 {
+/*.about-image-03 {
     width: 12%;
     height: 15%;
     position: absolute;
@@ -703,4 +703,4 @@
     font-size: large;
     color: #fff;
   }
-}
+} */

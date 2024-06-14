@@ -880,7 +880,7 @@
 
 /* ********************* 768px **************** */
 /* ******************************************* */
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .service-main-div {
         position: absolute;
         width: 100%;
@@ -1099,4 +1099,4 @@
             transform: scale(1.3);
         }
     }
-}
+} */
