@@ -1,4 +1,4 @@
-body{
+body {
     background: rgb(21, 21, 21);
 }
 
@@ -13,14 +13,14 @@ body{
     opacity: 90%;
 }
 
-.text{
+.text {
     color: white;
     text-align: center;
 }
 
 .row:nth-child(3) {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     justify-content: space-between;
     margin: 0 auto;
     width: 100%;
@@ -29,14 +29,14 @@ body{
     padding: 3% 3% 3% 3%;
 }
 
-.row:nth-child(3) div{
+.row:nth-child(3) div {
     width: 30%;
     height: 40%;
 }
 
 .row:nth-child(4) {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     justify-content: space-between;
     margin: 0 auto;
     width: 100%;
@@ -45,7 +45,7 @@ body{
     padding: 3% 3% 3% 3%;
 }
 
-.row:nth-child(4) div{
+.row:nth-child(4) div {
     width: 30%;
     height: 40%;
 }
@@ -87,7 +87,7 @@ body{
 }
 
 .subject-container h5 {
-    background-color: 	#0047AB;
+    background-color: #0047AB;
     border-radius: 5px;
     padding: 5px 0px 5px 15px;
     color: rgb(143, 219, 255);
@@ -136,7 +136,7 @@ body{
 }
 
 /* loader */
-#loading-container{
+#loading-container {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -161,10 +161,10 @@ body{
     margin-left: 10%;
 }
 
-.custom-button:hover {
+/* .custom-button:hover {
     background-color: #000000;
 }
 
 .custom-button:focus {
     outline: none;
-}
+} */

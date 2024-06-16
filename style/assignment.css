@@ -120,14 +120,14 @@
  transform: rotateY(180deg);
 }
 
-.ass-01:hover,
+/* .ass-01:hover,
 .ass-02:hover,
 .ass-03:hover,
 .ass-04:hover,
 .ass-05:hover,
 .ass-06:hover {
  transform: rotateY(180deg);
-}
+} */
 
 .line {
  height: 100%;
@@ -136,6 +136,13 @@
  left: 0%;
  top: 0%;
  background-color: #ffd500;
+}
+
+.view {
+ position: absolute;
+ color: #eeff00;
+ top: 90%;
+ left: 15%;
 }
 
 .rect {
@@ -603,9 +610,9 @@
   position: absolute;
   top: 12%;
   left: 19%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 75%;
  }
 
@@ -613,9 +620,9 @@
   position: absolute;
   top: 25%;
   left: 19%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 75%;
  }
 
@@ -624,8 +631,8 @@
   top: 38%;
   left: 19%;
   align-items: center;
-  transform-style: preserve-3d;
-  transition: all 2s ease;
+  /* transform-style: preserve-3d; */
+  /* transition: all 2s ease; */
   backface-visibility: hidden;
   font-size: 75%;
  }
@@ -634,9 +641,9 @@
   position: absolute;
   top: 51%;
   left: 19%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 75%;
  }
 
@@ -644,9 +651,9 @@
   position: absolute;
   top: 64%;
   left: 19%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 75%;
  }
 
@@ -654,12 +661,13 @@
   position: absolute;
   top: 77%;
   left: 19%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 75%;
  }
 
+ /* 
  .theBack {
   position: absolute;
   width: 100%;
@@ -667,16 +675,21 @@
   backface-visibility: hidden;
   background-color: #ffd500;
   transform: rotateY(180deg);
+ } */
+
+ /* .theBack>.viewAss {
+  z-index: 10;
+  position: absolute;
  }
 
- .ass-01:hover,
- .ass-02:hover,
+ .ass-01::after,
+ .ass-02::after,
  .ass-03:hover,
  .ass-04:hover,
  .ass-05:hover,
  .ass-06:hover {
   transform: rotateY(180deg);
- }
+ } */
 
  .line {
   height: 100%;
@@ -789,9 +802,9 @@
   position: absolute;
   top: 45%;
   left: 3%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 65%;
  }
 
@@ -799,9 +812,9 @@
   position: absolute;
   top: 45%;
   left: 35.5%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 65%;
  }
 
@@ -810,9 +823,9 @@
   top: 45%;
   left: 68%;
   align-items: center;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 65%;
  }
 
@@ -820,9 +833,9 @@
   position: absolute;
   top: 70%;
   left: 3%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 65%;
  }
 
@@ -830,9 +843,9 @@
   position: absolute;
   top: 70%;
   left: 35.5%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 65%;
  }
 
@@ -840,29 +853,29 @@
   position: absolute;
   top: 70%;
   left: 68%;
-  transform-style: preserve-3d;
+  /* transform-style: preserve-3d;
   transition: all 2s ease;
-  backface-visibility: hidden;
+  backface-visibility: hidden; */
   font-size: 65%;
  }
 
- .theBack {
+ /* .theBack {
   position: absolute;
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
   background-color: #ffd500;
   transform: rotateY(180deg);
- }
+ } */
 
- .ass-01:hover,
+ /* .ass-01:hover,
  .ass-02:hover,
  .ass-03:hover,
  .ass-04:hover,
  .ass-05:hover,
  .ass-06:hover {
   transform: rotateY(180deg);
- }
+ } */
 
  .line {
   height: 100%;
@@ -1029,7 +1042,7 @@
   font-size: 75%;
  }
 
- .theBack {
+ /* .theBack {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1045,7 +1058,7 @@
  .ass-05:hover,
  .ass-06:hover {
   transform: rotateY(180deg);
- }
+ } */
 
  .line {
   height: 100%;

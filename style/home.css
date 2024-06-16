@@ -46,6 +46,7 @@ nav {
   height: 7%;
   background-color: #00001c;
   z-index: 1000;
+  overflow: hidden;
 }
 
 .navbar {
@@ -407,6 +408,7 @@ nav {
     height: 7%;
     background-color: #00001c;
     z-index: 1000;
+    overflow: hidden;
   }
 
   .navbar {
@@ -1078,6 +1080,7 @@ nav {
   height: 7%;
   background-color: #00001c;
   z-index: 1000;
+  overflow: hidden;
 }
 
 .navbar {
@@ -1415,6 +1418,10 @@ nav {
     background-color: rgb(255, 255, 255);
     background: rgb(0, 4, 33);
     background: linear-gradient(326deg, rgba(0, 4, 33, 1) 21%, rgba(0, 6, 40, 1) 44%, rgba(0, 3, 48, 1) 74%, rgba(0, 10, 84, 1) 100%);
+  }
+
+  .navbar {
+    overflow: hidden;
   }
 
   .backGround {
