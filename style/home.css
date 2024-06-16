@@ -397,6 +397,52 @@ nav {
 /****************** 320px media Quary ********************/
 /********************************************************/
 @media (max-width: 320px) {
+
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    height: 7%;
+    background-color: #00001c;
+    z-index: 1000;
+  }
+
+  .navbar {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    padding: 0 2.5%;
+    font-family: "Audiowide", sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 50%;
+    z-index: 1000;
+  }
+
+  .navbar:before {
+    position: absolute;
+    content: '';
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    height: 2px;
+    width: 40%;
+    background: rgb(0, 98, 255);
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform .6s linear;
+  }
+
+  .navbar:hover::before {
+    transform: scaleX(1);
+    transform-origin: left;
+
+  }
+
   .homeBody {
     width: 100%;
     height: 100%;
@@ -685,6 +731,53 @@ nav {
 
 /****************** 375px media Quary ********************/
 /********************************************************/
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  height: 7%;
+  background-color: #00001c;
+  z-index: 1000;
+}
+
+.navbar {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  padding: 0 2.5%;
+  font-family: "Audiowide", sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 50%;
+  z-index: 1000;
+}
+
+.navbar:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  height: 2px;
+  width: 40%;
+  background: rgb(0, 98, 255);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform .6s linear;
+}
+
+.navbar:hover::before {
+  transform: scaleX(1);
+  transform-origin: left;
+
+}
+
+
 @media (max-width: 375px) {
   .homeBody {
     width: 100%;
@@ -975,6 +1068,52 @@ nav {
 
 /****************** 425px media Quary ********************/
 /********************************************************/
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  height: 7%;
+  background-color: #00001c;
+  z-index: 1000;
+}
+
+.navbar {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  padding: 0 2.5%;
+  font-family: "Audiowide", sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 50%;
+  z-index: 1000;
+}
+
+.navbar:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  height: 2px;
+  width: 40%;
+  background: rgb(0, 98, 255);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform .6s linear;
+}
+
+.navbar:hover::before {
+  transform: scaleX(1);
+  transform-origin: left;
+
+}
+
 @media (max-width: 425px) {
   .homeBody {
     width: 100%;
